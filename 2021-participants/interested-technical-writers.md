@@ -5,3 +5,4 @@ Technical writers interested in participating in the 2021 Season of Docs should 
 Technical Writer Name | Link to portfolio or CV | Interests/Experience
 ---------------------- | ------------------------| ---------
 [SAMPLE] Ima Writer | [myportfolio.me](http://example.com) | API documentation, user guides, Python
+Keshav Garg | [gargk747.me](https://gargk747.github.io/gargk747-Portfolio/) | API documentation, Android, Java, Python, Machine Learning, Web Development
