@@ -5,3 +5,4 @@ Technical writers interested in participating in the 2021 Season of Docs should 
 Technical Writer Name | Link to portfolio or CV | Interests/Experience
 ---------------------- | ------------------------| ---------
 [SAMPLE] Ima Writer | [myportfolio.me](http://example.com) | API documentation, user guides, Python
+Rufai Mustapha      | [howToBuildx.com](https://howtobuildx.com/rufai-mustapha-technical-content-creator-ckjzmr0f700pzrus1bcyocfno) | API documentation, user guides, JS, Kotlin, Python, Java
