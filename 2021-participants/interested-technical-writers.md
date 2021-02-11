@@ -5,3 +5,4 @@ Technical writers interested in participating in the 2021 Season of Docs should 
 Technical Writer Name | Link to portfolio or CV | Interests/Experience
 ---------------------- | ------------------------| ---------
 [SAMPLE] Ima Writer | [myportfolio.me](http://example.com) | API documentation, user guides, Python
+Judith Ifeoma Nwokike| https://about.me/judith-ifeoma | API documentation, User guides, JavaScript
