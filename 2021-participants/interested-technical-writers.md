@@ -13,6 +13,7 @@ Atharva Dhekne | [GitHub: @tacitonic](https://github.com/tacitonic), [tacitonic.
 Keshav Garg | [gargk747.me](https://gargk747.github.io/gargk747-Portfolio/) | API documentation, Android, Java, Python, Machine Learning, Web Development
 Mahfuza Humayra Mohona | [Mahfuza's Memoization](https://mhmohona.github.io/) | Beginner tutorials, User guides, Python, AI/ML/NLP, Go, Kubernetes, Microsoft Azure, Video Tutorial, Refactoring documentation.
 Aditya Kumar| [My Portfolio](https://adityaiitd.tech) | API documentation, User guides, AI, Data Sciece, Technical Writing, Android, Java, Python, Machine Learning, Web Development.
+Austin Lai | [Austin's Portfolio](https://app.gitbook.com/@austinlai-97/s/austin-lai/), [LinkedIn](https://www.linkedin.com/in/austin-lai/) | Technical writing, API documentation, UX content strategy, user research, and content design
 Rashid Makhmudov | [myresume](https://docs.google.com/document/d/1avLmn7MHkIwKm6YytCoKAmKX8wtjch8Yp5NVQgqQqRM/edit?usp=sharing) | API documentation, user guides, WebXR, Immersive Web, Virtual Reality, Machine Learning, Web Development, C++, C#, JavaScript, NodeJS
 Rufai Mustapha      | [howToBuildx.com](https://howtobuildx.com/rufai-mustapha-technical-content-creator-ckjzmr0f700pzrus1bcyocfno) | API documentation, user guides, JS, Kotlin, Python, Java
 Judith Ifeoma Nwokike| https://about.me/judith-ifeoma | API documentation, User guides, JavaScript
