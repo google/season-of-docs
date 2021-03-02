@@ -9,3 +9,5 @@ Visit the Google [opendocs repo](https://github.com/google/opendocs) for guidanc
 ### Final Report Templates
 
 ### Case Study Templates
+
+* [Season of Docs 2021 Case Study Template](https://github.com/google/season-of-docs/blob/main/templates/casestudy-template-2021.md)
