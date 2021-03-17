@@ -10,3 +10,4 @@ Project | Link to project ideas page
 [NumPy](https://numpy.org) | [Google Season of Docs 2021 Project Ideas](https://github.com/numpy/numpy/wiki/Google-Season-of-Docs-2021-Project-Ideas)
 [PCP](https://pcp.io) | [Task-based Guides for Performance Co-Pilot](https://pcp.io/gsod/2021/ideas.html)
 [SymPy](https://www.sympy.org/en/index.html) | [Organization of SymPy Documentation](https://github.com/sympy/sympy/wiki/Google-Season-of-Docs)
+[Open Contracting Data Standard](https://standard.open-contracting.org/latest/en/) | [Google Season of Docs 2021 Project Ideas](https://github.com/open-contracting/standard/wiki/Google-Season-of-Docs-2021-Project-Ideas)
