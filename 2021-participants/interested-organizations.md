@@ -10,6 +10,7 @@ Project | Link to project ideas page
 [The GNOME Foundation](https://foundation.gnome.org/) | [GNOME to apply for Season of Docs 2021](https://foundation.gnome.org/2021/03/17/gsod-2021/)
 [NumPy](https://numpy.org) | [Google Season of Docs 2021 Project Ideas](https://github.com/numpy/numpy/wiki/Google-Season-of-Docs-2021-Project-Ideas)
 [Open Contracting Data Standard](https://standard.open-contracting.org/latest/en/) | [Google Season of Docs 2021 Project Ideas](https://github.com/open-contracting/standard/wiki/Google-Season-of-Docs-2021-Project-Ideas)
+[Oppia Foundation](https://www.oppia.org/about) | [Google Season of Docs 2021 Project Ideas](https://github.com/oppia/oppia/wiki/Season-of-Docs-2021)
 [Perl](https://perl.org) | [Perl's GSoD 2021 project proposal page](https://github.com/Perl/perl5/wiki/Google-Season-of-Docs-2021-project-proposals)
 [PCP](https://pcp.io) | [Task-based Guides for Performance Co-Pilot](https://pcp.io/gsod/2021/ideas.html)
 [Qubes OS](https://www.qubes-os.org) | [2021 GSoD Project Ideas](https://www.qubes-os.org/gsod/)
