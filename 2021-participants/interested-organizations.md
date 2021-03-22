@@ -13,5 +13,6 @@ Project | Link to project ideas page
 [Open Contracting Data Standard](https://standard.open-contracting.org/latest/en/) | [Google Season of Docs 2021 Project Ideas](https://github.com/open-contracting/standard/wiki/Google-Season-of-Docs-2021-Project-Ideas)
 [Perl](https://perl.org) | [Perl's GSoD 2021 project proposal page](https://github.com/Perl/perl5/wiki/Google-Season-of-Docs-2021-project-proposals)
 [PCP](https://pcp.io) | [Task-based Guides for Performance Co-Pilot](https://pcp.io/gsod/2021/ideas.html)
+[PyTorch-Ignite](https://pytorch.org/ignite/) | ["Refresh our documentation and tutorials" proposal](https://github.com/pytorch/ignite/wiki/Google-Season-of-Docs-2021---Organization-Proposal)
 [Qubes OS](https://www.qubes-os.org) | [2021 GSoD Project Ideas](https://www.qubes-os.org/gsod/)
 [SymPy](https://www.sympy.org/en/index.html) | [Organization of SymPy Documentation](https://github.com/sympy/sympy/wiki/Google-Season-of-Docs)
