@@ -11,6 +11,7 @@ Project | Link to project ideas page
 [Ceph](https://docs.ceph.org/) | [Ceph Comprehensive Contribution Guide](https://pad.ceph.com/p/GSOD_2021_Project_Proposal_Page)
 [NumPy](https://numpy.org) | [Google Season of Docs 2021 Project Ideas](https://github.com/numpy/numpy/wiki/Google-Season-of-Docs-2021-Project-Ideas)
 [Open Contracting Data Standard](https://standard.open-contracting.org/latest/en/) | [Google Season of Docs 2021 Project Ideas](https://github.com/open-contracting/standard/wiki/Google-Season-of-Docs-2021-Project-Ideas)
+[Oppia Foundation](https://www.oppia.org/about) | [Google Season of Docs 2021 Project Ideas](https://github.com/oppia/oppia/wiki/Season-of-Docs-2021)
 [Perl](https://perl.org) | [Perl's GSoD 2021 project proposal page](https://github.com/Perl/perl5/wiki/Google-Season-of-Docs-2021-project-proposals)
 [PCP](https://pcp.io) | [Task-based Guides for Performance Co-Pilot](https://pcp.io/gsod/2021/ideas.html)
 [PyTorch-Ignite](https://pytorch.org/ignite/) | ["Refresh our documentation and tutorials" proposal](https://github.com/pytorch/ignite/wiki/Google-Season-of-Docs-2021---Organization-Proposal)
