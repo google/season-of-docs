@@ -8,6 +8,7 @@ Project | Link to project ideas page
 [afl++](https://github.com/AFLplusplus/AFLplusplus) | [The afl++ doc reorg and rewrite project information](https://github.com/AFLplusplus/AFLplusplus/blob/stable/docs/docs.md)
 [Catrobat](https://catrobat.org/) | [Catrobat Educational Documentation Update](https://catrob.at/gsod21)
 [The GNOME Foundation](https://foundation.gnome.org/) | [GNOME to apply for Season of Docs 2021](https://foundation.gnome.org/2021/03/17/gsod-2021/)
+[Ceph](https://docs.ceph.org/) | [Ceph Comprehensive Contribution Guide](https://pad.ceph.com/p/GSOD_2021_Project_Proposal_Page)
 [NumPy](https://numpy.org) | [Google Season of Docs 2021 Project Ideas](https://github.com/numpy/numpy/wiki/Google-Season-of-Docs-2021-Project-Ideas)
 [Open Contracting Data Standard](https://standard.open-contracting.org/latest/en/) | [Google Season of Docs 2021 Project Ideas](https://github.com/open-contracting/standard/wiki/Google-Season-of-Docs-2021-Project-Ideas)
 [Perl](https://perl.org) | [Perl's GSoD 2021 project proposal page](https://github.com/Perl/perl5/wiki/Google-Season-of-Docs-2021-project-proposals)
