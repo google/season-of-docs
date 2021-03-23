@@ -10,6 +10,7 @@ Project | Link to project ideas page
 [The GNOME Foundation](https://foundation.gnome.org/) | [GNOME to apply for Season of Docs 2021](https://foundation.gnome.org/2021/03/17/gsod-2021/)
 [Ceph](https://docs.ceph.org/) | [Ceph Comprehensive Contribution Guide](https://pad.ceph.com/p/GSOD_2021_Project_Proposal_Page)
 [CHAOSS](https://chaoss.community/) | [CHAOSS GSoD Ideas Page](https://github.com/chaoss/governance/blob/master/GSoD-ideas.md)
+[KoBoToolbox](https://kobotoolbox.org) | [Update and migrate our API documentation](https://github.com/kobotoolbox/kpi/wiki/Google-Season-of-Docs-2021)
 [NumPy](https://numpy.org) | [Google Season of Docs 2021 Project Ideas](https://github.com/numpy/numpy/wiki/Google-Season-of-Docs-2021-Project-Ideas)
 [Open Contracting Data Standard](https://standard.open-contracting.org/latest/en/) | [Google Season of Docs 2021 Project Ideas](https://github.com/open-contracting/standard/wiki/Google-Season-of-Docs-2021-Project-Ideas)
 [Oppia Foundation](https://www.oppia.org/about) | [Google Season of Docs 2021 Project Ideas](https://github.com/oppia/oppia/wiki/Season-of-Docs-2021)
