@@ -19,4 +19,5 @@ Project | Link to project ideas page
 [PyTorch-Ignite](https://pytorch.org/ignite/) | ["Refresh our documentation and tutorials" proposal](https://github.com/pytorch/ignite/wiki/Google-Season-of-Docs-2021---Organization-Proposal)
 [Qubes OS](https://www.qubes-os.org) | [2021 GSoD Project Ideas](https://www.qubes-os.org/gsod/)
 [SymPy](https://www.sympy.org/en/index.html) | [Organization of SymPy Documentation](https://github.com/sympy/sympy/wiki/Google-Season-of-Docs)
+[Raku](https://raku.org) | [Raku documentation ideas](https://github.com/perl-foundation-outreach/season-of-docs-ideas)
 [WordPress](https://wordpress.org) | [Call for projects ideas for the Google Season of Docs 2021](https://make.wordpress.org/docs/2021/03/18/call-for-projects-ideas-for-the-google-season-of-docs-2021)
