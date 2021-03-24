@@ -13,6 +13,7 @@ Project | Link to project ideas page
 [Julia](https://julialang.org) | [Google Season of Docs 2021 Project Ideas](https://julialang.org/jsoc/gsod/projects/)
 [KoBoToolbox](https://kobotoolbox.org) | [Update and migrate our API documentation](https://github.com/kobotoolbox/kpi/wiki/Google-Season-of-Docs-2021)
 [NumPy](https://numpy.org) | [Google Season of Docs 2021 Project Ideas](https://github.com/numpy/numpy/wiki/Google-Season-of-Docs-2021-Project-Ideas)
+[nussl](https://github.com/nussl/nussl) | [nussl Google Season of Docs 2021 Proposal](https://github.com/nussl/nussl/wiki/nussl-Google-Season-of-Docs-2021-Proposal)
 [Open Contracting Data Standard](https://standard.open-contracting.org/latest/en/) | [Google Season of Docs 2021 Project Ideas](https://github.com/open-contracting/standard/wiki/Google-Season-of-Docs-2021-Project-Ideas)
 [Oppia Foundation](https://www.oppia.org/about) | [Google Season of Docs 2021 Project Ideas](https://github.com/oppia/oppia/wiki/Season-of-Docs-2021)
 [Perl](https://perl.org) | [Perl's GSoD 2021 project proposal page](https://github.com/Perl/perl5/wiki/Google-Season-of-Docs-2021-project-proposals)
