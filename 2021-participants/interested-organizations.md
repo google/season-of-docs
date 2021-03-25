@@ -24,4 +24,4 @@ Project | Link to project ideas page
 [Raku](https://raku.org) | [Raku documentation ideas](https://github.com/perl-foundation-outreach/season-of-docs-ideas)
 [WordPress](https://wordpress.org) | [Call for projects ideas for the Google Season of Docs 2021](https://make.wordpress.org/docs/2021/03/18/call-for-projects-ideas-for-the-google-season-of-docs-2021)
 [Sugar Labs](https://sugarlabs.org) | [Improve and update the lesson plans for Music Blocks](https://github.com/sugarlabs/GSoD)
-
+[Redocly](https://redoc.ly/) | [Contribute to documenting Redocly's open-source tools](https://redoc.ly/gsod)
