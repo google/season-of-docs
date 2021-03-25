@@ -23,5 +23,6 @@ Project | Link to project ideas page
 [SymPy](https://www.sympy.org/en/index.html) | [Organization of SymPy Documentation](https://github.com/sympy/sympy/wiki/Google-Season-of-Docs)
 [Raku](https://raku.org) | [Raku documentation ideas](https://github.com/perl-foundation-outreach/season-of-docs-ideas)
 [WordPress](https://wordpress.org) | [Call for projects ideas for the Google Season of Docs 2021](https://make.wordpress.org/docs/2021/03/18/call-for-projects-ideas-for-the-google-season-of-docs-2021)
+[Wechaty](https://wechaty.js.org) | [Create easy to learn tutorials for beginner users of Wechaty](https://wechaty.js.org/docs/gsod/2021/)
 [Sugar Labs](https://sugarlabs.org) | [Improve and update the lesson plans for Music Blocks](https://github.com/sugarlabs/GSoD)
 
