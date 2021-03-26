@@ -16,6 +16,7 @@ Project | Link to project ideas page
 [Julia](https://julialang.org) | [Google Season of Docs 2021 Project Ideas](https://julialang.org/jsoc/gsod/projects/)
 [KoBoToolbox](https://kobotoolbox.org) | [Update and migrate our API documentation](https://github.com/kobotoolbox/kpi/wiki/Google-Season-of-Docs-2021)
 [Kolibri](https://learningequality.org/kolibri/) | [Google Season of Docs 2021 with Learning Equality](https://github.com/learningequality/kolibri/wiki/Google-Season-of-Docs-2021-with-Learning-Equality)
+[LibreOffice] (https://libreoffice.org) | [Reorganize the documentation wiki pages] (https://wiki.documentfoundation.org/Documentation/GSoDOC/2021)
 [Mautic](https://www.mautic.org/) | [Mautic GSOD 2021 Ideas](https://www.mautic.org/blog/community/mautic-applies-season-docs-2021)
 [Metanorma](https://www.metanorma.org)|[Authoring guide for Metanorma](https://github.com/metanorma/metanorma/wiki/Google-Season-of-Docs-2021-Organization-Proposal)
 [NumPy](https://numpy.org) | [Google Season of Docs 2021 Project Ideas](https://github.com/numpy/numpy/wiki/Google-Season-of-Docs-2021-Project-Ideas)
