@@ -36,7 +36,7 @@ Project | Link to project ideas page
 [RNP](https://www.rnpgp.org) | [Modernising documentation of RNP with Doxygen](https://github.com/rnpgp/rnpgp.org/wiki/GSoD-Proposal)
 [Sugar Labs](https://sugarlabs.org) | [Improve and update the lesson plans for Music Blocks](https://github.com/sugarlabs/GSoD)
 [SymPy](https://www.sympy.org/en/index.html) | [Organization of SymPy Documentation](https://github.com/sympy/sympy/wiki/Google-Season-of-Docs)
-[Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs)|[Create Topic Guides for New Users](https://github.com/tahoe-lafs/community/edit/main/project-notes/season-of-docs-2021/project-proposal.md)
+[Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs)|[Create Topic Guides for New Users](https://github.com/tahoe-lafs/community/blob/main/project-notes/season-of-docs-2021/project-proposal.md)
 [The Good Docs Project](https://thegooddocsproject.dev) | [Amplify template writing](https://github.com/thegooddocsproject/templates/wiki/Season-of-Docs-Ideas-2021)
 [Wechaty](https://wechaty.js.org) | [Create easy to learn tutorials for beginner users of Wechaty](https://wechaty.js.org/docs/gsod/2021/)
 [WordPress](https://wordpress.org) | [Call for projects ideas for the Google Season of Docs 2021](https://make.wordpress.org/docs/2021/03/18/call-for-projects-ideas-for-the-google-season-of-docs-2021)
