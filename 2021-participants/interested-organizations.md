@@ -7,6 +7,7 @@ Project | Link to project ideas page
 [SAMPLE] [The GloriousPickle Project](https://example.com) | [2021 PickleDoc Ideas](https://example.com)
 [Aboutcode](https://github.com/nexb/aboutcode) | [Aboutcode GSoD 2021 Project Ideas Page](https://aboutcode.readthedocs.io/en/latest/gsod/gsod-2021.html)
 [afl++](https://github.com/AFLplusplus/AFLplusplus) | [The afl++ doc reorg and rewrite project information](https://github.com/AFLplusplus/AFLplusplus/blob/stable/docs/docs.md)
+[BRL-CAD](https://brlcad.org/) | [Migrating BRL-CAD's Documentation Infrastructure](https://brlcad.org/wiki/Google_Season_of_Docs/Proposal)
 [Catrobat](https://catrobat.org/) | [Catrobat Educational Documentation Update](https://catrob.at/gsod21)
 [The GNOME Foundation](https://foundation.gnome.org/) | [GNOME to apply for Season of Docs 2021](https://foundation.gnome.org/2021/03/17/gsod-2021/)
 [CloudCV](https://cloudcv.org/) | [Google Season of Docs 2021 Project Ideas](https://github.com/Cloud-CV/EvalAI/wiki/Google-Season-of-Docs-Ideas-2021)
