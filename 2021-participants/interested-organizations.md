@@ -12,6 +12,7 @@ Project | Link to project ideas page
 [Cuneiform Digital Library Initiative (CDLI)](https://cdli.ucla.edu/) | [Google Season of Docs 2021](https://github.com/cdli-gh/Framework/wiki/Google-Season-of-Docs-2021)
 [Ceph](https://docs.ceph.org/) | [Ceph Comprehensive Contribution Guide](https://pad.ceph.com/p/GSOD_2021_Project_Proposal_Page)
 [CHAOSS](https://chaoss.community/) | [CHAOSS GSoD Ideas Page](https://github.com/chaoss/governance/blob/master/GSoD-ideas.md)
+[Gora](https://gora.apache.org/index.html) | [Google Season of Docs 2021 Project Ideas for Apache Gora](https://cwiki.apache.org/confluence/display/GORA/Google+Season+of+Docs+2021)
 [Julia](https://julialang.org) | [Google Season of Docs 2021 Project Ideas](https://julialang.org/jsoc/gsod/projects/)
 [KoBoToolbox](https://kobotoolbox.org) | [Update and migrate our API documentation](https://github.com/kobotoolbox/kpi/wiki/Google-Season-of-Docs-2021)
 [Kolibri](https://learningequality.org/kolibri/) | [Google Season of Docs 2021 with Learning Equality](https://github.com/learningequality/kolibri/wiki/Google-Season-of-Docs-2021-with-Learning-Equality)
