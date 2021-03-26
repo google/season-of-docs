@@ -27,6 +27,7 @@ Project | Link to project ideas page
 [Qubes OS](https://www.qubes-os.org) | [2021 GSoD Project Ideas](https://www.qubes-os.org/gsod/)
 [Raku](https://raku.org) | [Raku documentation ideas](https://github.com/perl-foundation-outreach/season-of-docs-ideas)
 [Redocly](https://redoc.ly/) | [Contribute to documenting Redocly's open-source tools](https://redoc.ly/gsod)
+[RNP](https://www.rnpgp.org) | [Modernising documentation of RNP with Doxygen](https://github.com/rnpgp/rnpgp.org/wiki/GSoD-Proposal)
 [Sugar Labs](https://sugarlabs.org) | [Improve and update the lesson plans for Music Blocks](https://github.com/sugarlabs/GSoD)
 [SymPy](https://www.sympy.org/en/index.html) | [Organization of SymPy Documentation](https://github.com/sympy/sympy/wiki/Google-Season-of-Docs)
 [Wechaty](https://wechaty.js.org) | [Create easy to learn tutorials for beginner users of Wechaty](https://wechaty.js.org/docs/gsod/2021/)
