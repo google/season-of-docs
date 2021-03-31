@@ -26,6 +26,7 @@ Project | Link to project ideas page
 [nussl](https://github.com/nussl/nussl) | [nussl Google Season of Docs 2021 Proposal](https://github.com/nussl/nussl/wiki/nussl-Google-Season-of-Docs-2021-Proposal)
 [Open Contracting Data Standard](https://standard.open-contracting.org/latest/en/) | [Google Season of Docs 2021 Project Ideas](https://github.com/open-contracting/standard/wiki/Google-Season-of-Docs-2021-Project-Ideas)
 [OpenMS](https://openms.de) | [GSoD Proposal Restructuring OpenMS Developer Documentation](https://github.com/OpenMS/OpenMS/wiki/Google-Season-of-Docs-Proposal-Restructuring-OpenMS-Developer-Documentation-(OpenMS-ReDevDoc))
+[OpenMRS](https://openmrs.org/) | [2021 OpenMRS Google Season of Docs (GSoD)](https://wiki.openmrs.org/pages/viewpage.action?pageId=253329525)
 [Open Source Geospatial Foundation](https://www.osgeo.org/) | [OSGeo Season of Docs 2021 - Cross Project Glossaries](https://wiki.osgeo.org/wiki/Season_Of_Docs_2021)
 [Oppia Foundation](https://www.oppia.org/about) | [Google Season of Docs 2021 Project Ideas](https://github.com/oppia/oppia/wiki/Season-of-Docs-2021)
 [Perl](https://perl.org) | [Perl's GSoD 2021 project proposal page](https://github.com/Perl/perl5/wiki/Google-Season-of-Docs-2021-project-proposals)
