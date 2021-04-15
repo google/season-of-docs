@@ -5,6 +5,15 @@
   
 ### Technical writers interested in being contacted by projects or organizations
   If you are a technical writer interested in working with an open source project, add your information, including a link to your portfolio, personal site, résumé, or CV and an indication of your interests to the [`interested-technical-writers.md`](./interested-technical-writers.md) page. Make sure your personal information link includes contact information. **Do not add your email address to this repo.** 
+
+ Add your information in alphabetical order by **family name/surname**.
+
+  **Example**
+  Technical Writer Name | Link to portfolio or CV | Interests/Experience
+---------------------- | ------------------------| ---------
+  John Doe | [abc]() | Skilled in API documentation
+  Elle Philip | [xyz]() | Professional technical writer
   
+ 
 Please visit the [Season of Docs site](https://developers.google.com/season-of-docs) for more information about the 2021 Season of Docs program.
   
