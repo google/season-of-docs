@@ -5,6 +5,9 @@ Technical writers interested in participating in the 2021 Season of Docs should 
 Technical Writer Name | Link to portfolio or CV | Interests/Experience
 ---------------------- | ------------------------| ---------
 [SAMPLE] Ima Writer | [myportfolio.me](http://example.com) | API documentation, user guides, Python
+
+Rishabh Singhal | <ul><li>[Portfolio](https://rish-singhal.github.io)</li><li>[GitHub](https://github.com/rish-singhal)</li><li>[LinkedIn](https://linkedin.com/in/3rishsinghal)</li><li>[Blog](https://rish-singhal.github.io/blogs)</li> <li>[Resume](https://rish-singhal.github.io/resume) </li></ul> | **Docs**: API Documentations, Code Samples, Tutorials, User Guides, Blogs. <br> **Tools and Technology:**<br><ul><li>Text Editor: VS Code, Sublime, MS Office Word, Google Docs, LaTex, R Markdown, Markdown, Github Wiki.</li><li>Version Control: GitHub, GitLab</li><li>Web Design: HTML, CSS, JavaScript, ReactJS.</li><li>Programming Languages: C, C++ [STL], Python, Erlang, JavaScript, Go Lang</li></ul></br><br> **Experience:**: Contributor [EduAlgo](https://opensource.edualgoacademy.com), Organised Mozilla Internet Health Hackathon (was technical writer for the same), SWE Intern @ Carengrow
+
 Rashmi V Abbigeri | https://resume.io/r/SOxdzZjbl | Technical writing , Tutorials , Documentation , User guides , Beginner tutorials
 Hamza Abubakar | [My Portfolio](https://drive.google.com/drive/folders/1NHirg9qiAhVNz1-70sJxeQvnvBqAz1Gu?usp=sharing) | API documentation, user guides, Python, AI, Data Sciece, Technical Writing
 Chinwendu Agbaetuo | [Portfolio](http://dindustack.surge.sh/) | API documentation, Fintech, user guides, ecommerce, technical writing and JavaScript frameworks
