@@ -6,6 +6,7 @@ Technical Writer Name | Link to portfolio or CV | Interests/Experience
 ---------------------- | ------------------------| ---------
 [SAMPLE] Ima Writer | [myportfolio.me](http://example.com) | API documentation, user guides, Python
 Rashmi V Abbigeri | https://resume.io/r/SOxdzZjbl | Technical writing , Tutorials , Documentation , User guides , Beginner tutorials
+David Atanda | [My Portfolio](https://laptrinhx.com/author/david-atanda/) [Linkedin](https://www.linkedin.com/in/david-atanda/)| Technical writing and Tutorials for [Logrocket](https://blog.logrocket.com/author/davidatanda/), [CSS-Tricks](https://css-tricks.com/author/daveatanda/) and [Smashing Magazine](https://www.smashingmagazine.com/2020/05/vue-survey-app-firebase-authentication-database/)  
 Hamza Abubakar | [My Portfolio](https://drive.google.com/drive/folders/1NHirg9qiAhVNz1-70sJxeQvnvBqAz1Gu?usp=sharing) | API documentation, user guides, Python, AI, Data Sciece, Technical Writing
 Chinwendu Agbaetuo | [Portfolio](http://dindustack.surge.sh/) | API documentation, Fintech, user guides, ecommerce, technical writing and JavaScript frameworks
 Valentine Aguoru | [LinkedIn](https://www.linkedin.com/in/valentine-aguoru-406100172/) | API documentation, user guides, testing, Javascript, Node.js
