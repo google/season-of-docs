@@ -5,6 +5,7 @@ Technical writers interested in participating in the 2021 Season of Docs should 
 Technical Writer Name | Link to portfolio or CV | Interests/Experience
 ---------------------- | ------------------------| ---------
 [SAMPLE] Ima Writer | [myportfolio.me](http://example.com) | API documentation, user guides, Python
+Licio Lentimo | <ul><li>[My Portfolio](https://liciolentimo.com)</li><li>[LinkedIn](https://www.linkedin.com/in/liciolentimo)</li><li>[Medium](https://lentimo.medium.com)</li></ul> | API Documentation, user guides, beginner tutorials
 Rashmi V Abbigeri | https://resume.io/r/SOxdzZjbl | Technical writing , Tutorials , Documentation , User guides , Beginner tutorials
 Hamza Abubakar | [My Portfolio](https://drive.google.com/drive/folders/1NHirg9qiAhVNz1-70sJxeQvnvBqAz1Gu?usp=sharing) | API documentation, user guides, Python, AI, Data Sciece, Technical Writing
 Chinwendu Agbaetuo | [Portfolio](http://dindustack.surge.sh/) | API documentation, Fintech, user guides, ecommerce, technical writing and JavaScript frameworks
