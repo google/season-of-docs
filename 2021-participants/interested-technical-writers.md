@@ -2,7 +2,7 @@
 
 Technical writers interested in participating in the 2021 Season of Docs should add their information here, by [creating a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). Please add your information *alphabetically by surname*. 
 
-Technical Writer Name | Link to portfolio or CV | Interests/Experience
+Technical Writer Name | Link to portfolio or CV | Interesxts/Experience
 ---------------------- | ------------------------| ---------
 [SAMPLE] Ima Writer | [myportfolio.me](http://example.com) | API documentation, user guides, Python
 Rashmi V Abbigeri | https://resume.io/r/SOxdzZjbl | Technical writing , Tutorials , Documentation , User guides , Beginner tutorials
