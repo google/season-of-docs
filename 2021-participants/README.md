@@ -1,5 +1,7 @@
 # Interested in participating in the 2021 Season of Docs?
 
+_UPDATE: The list of accepted organizations for 2021 is now available on the [Season of Docs site](https://developers.google.com/season-of-docs/docs/participants)._
+
 ### Open source projects and organizations interested in finding technical writers
   If your open source project or organization would like to be contacted by technical writers, add your project name and a link to your project ideas page to the [`interested-organizations.md`](./interested-organizations.md) page. Make sure your project ideas page includes contact information for your organization. **Do not include email addresses in this repo.**
   
