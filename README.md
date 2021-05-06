@@ -4,6 +4,8 @@ This repository contains useful templates and lists for Google's [Season of Docs
 
 ## For projects, organizations, and technical writers
 
+_UPDATE: The list of accepted organizations for 2021 is now available on the [Season of Docs site](https://developers.google.com/season-of-docs/docs/participants)._
+
 Organizations and projects wishing to connect with technical writers, and technical writers who want to express an interest in working with organizations and projects for the 2021 Season of Docs can add their information to the lists in the [`2021-participants`](./2021-participants) folder.
 
 ## Templates and checklists 
