@@ -5,6 +5,7 @@ Technical writers interested in participating in the 2021 Season of Docs should 
 Technical Writer Name | Link to portfolio or CV | Interests/Experience
 ---------------------- | ------------------------| ---------
 [SAMPLE] Ima Writer | [myportfolio.me](http://example.com) | API documentation, user guides, Python
+Rajiv Ranjan Singh | <ul><li>[Portfolio](https://iamrajiv.github.io)</li><li>[GitHub](https://github.com/iamrajiv)</li><li>[LinkedIn](https://www.linkedin.com/in/iamrajivranjansingh)</li><li>[Twitter](https://twitter.com/therajiv)</li></ul> | **Experience:** [Google Season of Docs 2020](https://github.com/iamrajiv/GSoD-2020) with [@grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway). <br /> **Interests:** Algorithms, Computational Science, and Distributed Computing.
 Rashmi V Abbigeri | https://resume.io/r/SOxdzZjbl | Technical writing , Tutorials , Documentation , User guides , Beginner tutorials
 Hamza Abubakar | [My Portfolio](https://drive.google.com/drive/folders/1NHirg9qiAhVNz1-70sJxeQvnvBqAz1Gu?usp=sharing) | API documentation, user guides, Python, AI, Data Sciece, Technical Writing
 Chinwendu Agbaetuo | [Portfolio](http://dindustack.surge.sh/) | API documentation, Fintech, user guides, ecommerce, technical writing and JavaScript frameworks
