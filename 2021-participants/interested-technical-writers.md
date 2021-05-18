@@ -5,6 +5,7 @@ Technical writers interested in participating in the 2021 Season of Docs should 
 Technical Writer Name | Link to portfolio or CV | Interests/Experience
 ---------------------- | ------------------------| ---------
 [SAMPLE] Ima Writer | [myportfolio.me](http://example.com) | API documentation, user guides, Python
+Ajinkya Dubey | <ul><li>[Resume](https://drive.google.com/file/d/14rCDsK-SSgpmRGurNeeitNMCxYKboX3D/view?usp=sharing)</li>My resume has links to my writing, designing samples and published articles.<li>[Blog](https://www.esds.co.in/blog/author/ajinkyadubey)</li><li>[Linkedin](https://www.linkedin.com/in/ajinkyadubey)</li><li>[Quora](https://www.quora.com/ajinkyadwivedi)</li></ul> | <ul><li>Software documentation</li><li>API documentation</li><li>Designing</li><li>Technical Blogs/KB articles</li><li>My resume describes my interests and experiences on technologies and platforms.</li></ul>
 Rashmi V Abbigeri | https://resume.io/r/SOxdzZjbl | Technical writing , Tutorials , Documentation , User guides , Beginner tutorials
 Hamza Abubakar | [My Portfolio](https://drive.google.com/drive/folders/1NHirg9qiAhVNz1-70sJxeQvnvBqAz1Gu?usp=sharing) | API documentation, user guides, Python, AI, Data Sciece, Technical Writing
 Chinwendu Agbaetuo | [Portfolio](http://dindustack.surge.sh/) | API documentation, Fintech, user guides, ecommerce, technical writing and JavaScript frameworks
