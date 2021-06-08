@@ -1,0 +1,15 @@
+name: Close TW Pull Request
+
+on:
+  pull_request_target:
+    types: [opened]
+    paths: 2021-participants/interested-technical-writers.md
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: superbrothers/close-pull-request@v3
+      with:
+        # Optional. Post a issue comment just before closing a pull request.
+        comment: "All orgs have made their technical writer selections for the 2021 season, so we're closing this PR. Please feel free to subscribe to our [announcements list](https://groups.google.com/g/season-of-docs-announce) for information about upcoming Season of Docs programs."
