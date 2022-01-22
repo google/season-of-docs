@@ -7,3 +7,4 @@
 Technical Writer Name | Link to portfolio or CV | Interests/Experience
 ---------------------- | ------------------------| ---------
 [SAMPLE] Ima Writer | [myportfolio.me](http://example.com) | API documentation, user guides, Python
+Mahfuza Humayra Mohona | [Mahfuza's Memoization](https://mhmohona.github.io/) [Medium](https://medium.com/@mhmohona) | Beginner tutorials, User guides, Python, AI/ML/NLP, Go, Kubernetes, Microsoft Azure, Video Tutorial, Refactoring documentation.
