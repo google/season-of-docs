@@ -9,6 +9,7 @@ Organizations interested in participating in the 2022 Season of Docs should add 
 Project | Link to project ideas page
 ------- | ---------------------------
 [SAMPLE] [The GloriousPickle Project](https://example.com) | [2022 PickleDoc Ideas](https://example.com)
+[GeomScale](https://geomscale.github.io) | [2022 GeomScale Ideas](https://geomscale.github.io/GSoD-application/)
 [The Julia Programming Language](https://julialang.org) | [2022 Julia Ideas](https://julialang.org/jsoc/gsod/projects/)
 [Redocly](https://redoc.ly/) | [Work on Redocly's open-source docs](https://redoc.ly/gsod-2022/)
 [Rocket.Chat](https://rocket.chat) | [2022 Rocket.Chat Ideas](https://docs.rocket.chat/contributors/google-season-of-docs/google-season-of-docs-2022)
