@@ -21,3 +21,5 @@ Project | Link to project ideas page
 [Rocket.Chat](https://rocket.chat) | [2022 Rocket.Chat Ideas](https://docs.rocket.chat/contributors/google-season-of-docs/google-season-of-docs-2022)
 [SciML](https://sciml.ai) | [2022 SciML Ideas](https://sciml.ai/gsod/)
 [OpenMined PySyft](https://github.com/OpenMined/PySyft) | [2022 PySyft Ideas](https://github.com/OpenMined/PySyft/blob/dev/docs/GSOD22.md)
+[OpenMined PySyft](https://github.com/OpenMined/PySyft) | [2022 PySyft Ideas](https://github.com/OpenMined/PySyft/blob/dev/docs/GSOD22.md)
+[STE\|\|AR GROUP](https://github.com/STEllAR-GROUP/hpx/)  | [2022 STE\|\|AR GROUP Ideas](https://github.com/STEllAR-GROUP/hpx/wiki/GSoD-2022-Project-Ideas)
