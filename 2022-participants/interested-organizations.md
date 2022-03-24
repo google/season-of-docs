@@ -9,6 +9,7 @@ Organizations interested in participating in the 2022 Season of Docs should add 
 Project | Link to project ideas page
 ------- | ---------------------------
 [SAMPLE] [The GloriousPickle Project](https://example.com) | [2022 PickleDoc Ideas](https://example.com)
+[cert-manager](https://cert-manager.io/) | [2022 cert-manager Ideas](https://cert-manager.io/docs/contributing/google-season-of-docs/2022/)
 [FluxML](https://fluxml.ai) | [2022 FluxML Ideas](https://fluxml.ai/gsod.html)
 [GeomScale](https://geomscale.github.io) | [2022 GeomScale Ideas](https://geomscale.github.io/GSoD-application/)
 [Geomstats](https://geomstats.github.io/) | [2022 Geomstats Ideas](https://github.com/geomstats/geomstats/blob/master/docs/gsod.rst)
