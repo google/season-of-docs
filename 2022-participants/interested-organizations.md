@@ -14,10 +14,12 @@ Project | Link to project ideas page
 [FOSSology](https://github.com/fossology/fossology) | [2022 FOSSology Ideas](https://github.com/fossology/user-docs/wiki/Google-Season-of-Docs-2022)
 [GeomScale](https://geomscale.github.io) | [2022 GeomScale Ideas](https://geomscale.github.io/GSoD-application/)
 [Geomstats](https://geomstats.github.io/) | [2022 Geomstats Ideas](https://github.com/geomstats/geomstats/blob/master/docs/gsod.rst)
+[MetaCall](http://github.com/metacall) | [2022 MetaCall Ideas](https://github.com/metacall/gsod-2022) |
 [Moja global](https://moja.global) | [2022 moja global Ideas](https://github.com/moja-global/mentorship/blob/main/google-season-of-docs/GSOD-2022-Project.md)
 [The Julia Programming Language](https://julialang.org) | [2022 Julia Ideas](https://julialang.org/jsoc/gsod/projects/)
 [Redocly](https://redoc.ly/) | [Work on Redocly's open-source docs](https://redoc.ly/gsod-2022/)
 [Rocket.Chat](https://rocket.chat) | [2022 Rocket.Chat Ideas](https://docs.rocket.chat/contributors/google-season-of-docs/google-season-of-docs-2022)
 [SciML](https://sciml.ai) | [2022 SciML Ideas](https://sciml.ai/gsod/)
-[STE\|\|AR GROUP](https://github.com/STEllAR-GROUP/hpx/)  | [2022 STE\|\|AR GROUP Ideas](https://github.com/STEllAR-GROUP/hpx/wiki/GSoD-2022-Project-Ideas)
 [OpenMined PySyft](https://github.com/OpenMined/PySyft) | [2022 PySyft Ideas](https://github.com/OpenMined/PySyft/blob/dev/docs/GSOD22.md)
+[OpenMined PySyft](https://github.com/OpenMined/PySyft) | [2022 PySyft Ideas](https://github.com/OpenMined/PySyft/blob/dev/docs/GSOD22.md)
+[STE\|\|AR GROUP](https://github.com/STEllAR-GROUP/hpx/)  | [2022 STE\|\|AR GROUP Ideas](https://github.com/STEllAR-GROUP/hpx/wiki/GSoD-2022-Project-Ideas)
