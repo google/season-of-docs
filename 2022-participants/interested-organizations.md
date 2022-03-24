@@ -10,6 +10,7 @@ Project | Link to project ideas page
 ------- | ---------------------------
 [SAMPLE] [The GloriousPickle Project](https://example.com) | [2022 PickleDoc Ideas](https://example.com)
 [FluxML](https://fluxml.ai) | [2022 FluxML Ideas](https://fluxml.ai/gsod.html)
+[FOSSology](https://github.com/fossology/fossology) | [2022 FOSSology Ideas](https://github.com/fossology/user-docs/wiki/Google-Season-of-Docs-2022)
 [GeomScale](https://geomscale.github.io) | [2022 GeomScale Ideas](https://geomscale.github.io/GSoD-application/)
 [Geomstats](https://geomstats.github.io/) | [2022 Geomstats Ideas](https://github.com/geomstats/geomstats/blob/master/docs/gsod.rst)
 [The Julia Programming Language](https://julialang.org) | [2022 Julia Ideas](https://julialang.org/jsoc/gsod/projects/)
