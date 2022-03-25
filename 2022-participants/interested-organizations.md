@@ -12,6 +12,7 @@ Project | Link to project ideas page
 [The ArviZ Project](https://github.com/arviz-devs) | [2022 ArviZ Ideas](https://arviz-gsod.readthedocs.io/en/latest/2022/project_idea.html)
 [cert-manager](https://cert-manager.io/) | [2022 cert-manager Ideas](https://cert-manager.io/docs/contributing/google-season-of-docs/2022/)
 [Cilium](https://cilium.io/) | [2022 Cilium Idea](https://docs.cilium.io/en/latest/contributing/development/season_of_docs/)
+[NimbleEdge](https://www.nimbleedge.ai/) | [2022 NimbleEdge Ideas](https://github.com/NimbleEdge/gsod)
 [FluxML](https://fluxml.ai) | [2022 FluxML Ideas](https://fluxml.ai/gsod.html)
 [FOSSology](https://github.com/fossology/fossology) | [2022 FOSSology Ideas](https://github.com/fossology/user-docs/wiki/Google-Season-of-Docs-2022)
 [GeomScale](https://geomscale.github.io) | [2022 GeomScale Ideas](https://geomscale.github.io/GSoD-application/)
