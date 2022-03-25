@@ -24,5 +24,5 @@ Project | Link to project ideas page
 [SciML](https://sciml.ai) | [2022 SciML Ideas](https://sciml.ai/gsod/)
 [SciPy](https://scipy.org) | [2022 SciPy Ideas](https://github.com/scipy/scipy/wiki/Google-Season-of-Docs-2022---SciPy-Project)
 [OpenMined PySyft](https://github.com/OpenMined/PySyft) | [2022 PySyft Ideas](https://github.com/OpenMined/PySyft/blob/dev/docs/GSOD22.md)
-[OpenMined PySyft](https://github.com/OpenMined/PySyft) | [2022 PySyft Ideas](https://github.com/OpenMined/PySyft/blob/dev/docs/GSOD22.md)
+[OpenMS](https://www.openms.de) | [2022 OpenMS Ideas](https://github.com/OpenMS/OpenMS/wiki/Google-Season-of-Docs-2022-Proposal-Restructuring-OpenMS-Developer-Documentation-(OpenMS-ReDevDoc))
 [STE\|\|AR GROUP](https://github.com/STEllAR-GROUP/hpx/)  | [2022 STE\|\|AR GROUP Ideas](https://github.com/STEllAR-GROUP/hpx/wiki/GSoD-2022-Project-Ideas)
