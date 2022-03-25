@@ -18,6 +18,7 @@ Project | Link to project ideas page
 [Geomstats](https://geomstats.github.io/) | [2022 Geomstats Ideas](https://github.com/geomstats/geomstats/blob/master/docs/gsod.rst)
 [MetaCall](http://github.com/metacall) | [2022 MetaCall Ideas](https://github.com/metacall/gsod-2022) |
 [Moja global](https://moja.global) | [2022 moja global Ideas](https://github.com/moja-global/mentorship/blob/main/google-season-of-docs/GSOD-2022-Project.md)
+[NumPy](https://numpy.org) | [2022 NumPy Ideas](https://github.com/numpy/numpy/wiki/Google-Season-of-Docs-2022---NumPy-Project)
 [The Julia Programming Language](https://julialang.org) | [2022 Julia Ideas](https://julialang.org/jsoc/gsod/projects/)
 [Redocly](https://redoc.ly/) | [Work on Redocly's open-source docs](https://redoc.ly/gsod-2022/)
 [Rocket.Chat](https://rocket.chat) | [2022 Rocket.Chat Ideas](https://docs.rocket.chat/contributors/google-season-of-docs/google-season-of-docs-2022)
