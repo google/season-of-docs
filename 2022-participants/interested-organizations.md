@@ -9,6 +9,7 @@ Organizations interested in participating in the 2022 Season of Docs should add 
 Project | Link to project ideas page
 ------- | ---------------------------
 [SAMPLE] [The GloriousPickle Project](https://example.com) | [2022 PickleDoc Ideas](https://example.com)
+[AsyncAPI](https://asyncapi.com/) | [2022 AsyncAPI Ideas](https://github.com/asyncapi/community/discussions/303)
 [The ArviZ Project](https://github.com/arviz-devs) | [2022 ArviZ Ideas](https://arviz-gsod.readthedocs.io/en/latest/2022/project_idea.html)
 [cert-manager](https://cert-manager.io/) | [2022 cert-manager Ideas](https://cert-manager.io/docs/contributing/google-season-of-docs/2022/)
 [Cilium](https://cilium.io/) | [2022 Cilium Idea](https://docs.cilium.io/en/latest/contributing/development/season_of_docs/)
