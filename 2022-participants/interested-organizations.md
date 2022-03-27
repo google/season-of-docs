@@ -17,6 +17,7 @@ Project | Link to project ideas page
 [FOSSology](https://github.com/fossology/fossology) | [2022 FOSSology Ideas](https://github.com/fossology/user-docs/wiki/Google-Season-of-Docs-2022)
 [GeomScale](https://geomscale.github.io) | [2022 GeomScale Ideas](https://geomscale.github.io/GSoD-application/)
 [Geomstats](https://geomstats.github.io/) | [2022 Geomstats Ideas](https://github.com/geomstats/geomstats/blob/master/docs/gsod.rst)
+[Mautic](https://github.com/mautic/mautic) | [2022 Mautic Ideas](https://github.com/mautic/Gsod/blob/main/gsod.md)
 [MetaCall](http://github.com/metacall) | [2022 MetaCall Ideas](https://github.com/metacall/gsod-2022) |
 [Moja global](https://moja.global) | [2022 moja global Ideas](https://github.com/moja-global/mentorship/blob/main/google-season-of-docs/GSOD-2022-Project.md)
 [NumPy](https://numpy.org) | [2022 NumPy Ideas](https://github.com/numpy/numpy/wiki/Google-Season-of-Docs-2022---NumPy-Project)
