@@ -32,3 +32,4 @@ Project | Link to project ideas page
 [OpenMined PySyft](https://github.com/OpenMined/PySyft) | [2022 PySyft Ideas](https://github.com/OpenMined/PySyft/blob/dev/docs/GSOD22.md)
 [OpenMS](https://www.openms.de) | [2022 OpenMS Ideas](https://github.com/OpenMS/OpenMS/wiki/Google-Season-of-Docs-2022-Proposal-Restructuring-OpenMS-Developer-Documentation-(OpenMS-ReDevDoc))
 [STE\|\|AR GROUP](https://github.com/STEllAR-GROUP/hpx/)  | [2022 STE\|\|AR GROUP Ideas](https://github.com/STEllAR-GROUP/hpx/wiki/GSoD-2022-Project-Ideas)
+[Wireshark](https://wireshark.org/) | [2022 Wireshark Ideas](https://gitlab.com/wireshark/wireshark/-/wikis/GSoD2022/)
