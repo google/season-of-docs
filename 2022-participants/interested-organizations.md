@@ -33,3 +33,4 @@ Project | Link to project ideas page
 [OpenMS](https://www.openms.de) | [2022 OpenMS Ideas](https://github.com/OpenMS/OpenMS/wiki/Google-Season-of-Docs-2022-Proposal-Restructuring-OpenMS-Developer-Documentation-(OpenMS-ReDevDoc))
 [STE\|\|AR GROUP](https://github.com/STEllAR-GROUP/hpx/)  | [2022 STE\|\|AR GROUP Ideas](https://github.com/STEllAR-GROUP/hpx/wiki/GSoD-2022-Project-Ideas)
 [Wireshark](https://wireshark.org/) | [2022 Wireshark Ideas](https://gitlab.com/wireshark/wireshark/-/wikis/GSoD2022/)
+[The Palisadoes Foundation](https://palisadoesfoundation.github.io/talawa-docs/docs/about) | [2022 Palisadoes Ideas](https://palisadoesfoundation.github.io/talawa-docs/docs/internships/gsod/gsod-ideas)
