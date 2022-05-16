@@ -4,8 +4,8 @@ on:
   pull_request_target:
     types: [opened]
     paths: 
-      - 'previous-seasons/2021-participants/interested-technical-writers.md'
-      - 'previous-seasons/2022-participants/interested-technical-writers.md'
+      - previous-seasons/2021-participants/interested-technical-writers.md
+      - previous-seasons/2022-participants/interested-technical-writers.md
 
 jobs:
   run:
