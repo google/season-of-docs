@@ -1,5 +1,7 @@
 # Technical writers interested in participating in the 2022 Season of Docs
 
+NOTE: The technical writer selection phase for the 2022 Season of Docs is complete.
+
 > Please feel free to subscribe to our [announcements list](https://groups.google.com/g/season-of-docs-announce) for information about upcoming Season of Docs programs.
 >
 > Technical writers interested in participating in the 2022 Season of Docs should add their information here, by [creating a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). Please add your information _to the bottom_.
