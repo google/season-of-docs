@@ -36,3 +36,5 @@ Project | Link to project ideas page
 [The Palisadoes Foundation](https://palisadoesfoundation.github.io/talawa-docs/docs/about) | [2022 Palisadoes Ideas](https://palisadoesfoundation.github.io/talawa-docs/docs/internships/gsod/gsod-ideas)
 [Processing p5.js](https://github.com/processing/p5.js) | [2022 p5.js Ideas](https://github.com/processing/p5.js/wiki/Season-of-Docs-2022-Organization-Application---p5.js)
 [Redocly](https://github.com/Redocly) | [2022 Redocly Ideas](https://redocly.com/gsod-2022/)
+[Openmrs Implementation Guide](https://github.com/openmrs/openmrs-contrib-fhir2-ig) | [2022 Openmrs FHIR2 IG ](https://wiki.openmrs.org/display/projects/Building+a+Testable+FHIR+Implementation+Guide)
+
