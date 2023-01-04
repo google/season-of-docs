@@ -4,7 +4,7 @@ This repository contains useful templates and lists for Google's [Season of Docs
 
 ## For projects, organizations, and technical writers
 
-Organizations and projects wishing to connect with technical writers, and technical writers who want to express an interest in working with organizations and projects for the 2022 Season of Docs can add their information to the lists in the [`2022-participants`](./2022-participants) folder.
+Organizations and projects wishing to connect with technical writers, and technical writers who want to express an interest in working with organizations and projects for the 2023 Season of Docs can add their information to the lists in the [`2023-participants`](./2023-participants) folder.
 
 ## Templates and checklists 
 
