@@ -11,3 +11,4 @@ _NOTE: PRs will be auto-closed until the beginning of the 2023 Season of Docs pr
 > Tolulope Ayemobola  | [My Profile](www.linkedin.com/in/tayemobola)  | API Docs, Guide and User Stories, Java, Python, C
 > Fortune Ikechi | [my portfolio](https://www.linkedin.com/in/fortune-ikechi-99199a13b) | API documentation, Python, JavaScript, user guides 
 > Chigozie Oduah | [My Articles](https://linktr.ee/ghoulkingr) | API documentation, articles, user guides, Rust, Python, JavaScript
+> Atharva Salitri | [myportfolio.me](https://t.co/uqG9Ovr5uZ) | Documentation, Web Development, Technical Writing and Blogging
