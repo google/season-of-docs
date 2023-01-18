@@ -8,3 +8,4 @@ _NOTE: PRs will be auto-closed until the beginning of the 2023 Season of Docs pr
 > Technical Writer Name | Link to portfolio or CV | Interests/Experience
 > ---------------------- | ------------------------| ---------
 > [SAMPLE] Ima Writer | [myportfolio.me](http://example.com) | API documentation, user guides, Python
+> Fortune Ikechi | [my portfolio](https://www.linkedin.com/in/fortune-ikechi-99199a13b) | API documentation, Python, JavaScript, user guides 
