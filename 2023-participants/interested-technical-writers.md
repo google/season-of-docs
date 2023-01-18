@@ -8,4 +8,4 @@ _NOTE: PRs will be auto-closed until the beginning of the 2023 Season of Docs pr
 > Technical Writer Name | Link to portfolio or CV | Interests/Experience
 > ---------------------- | ------------------------| ---------
 > [SAMPLE] Ima Writer | [myportfolio.me](http://example.com) | API documentation, user guides, Python
-> Nawed Ali | [portfolio](https://nawedali.tech)  |  Software/API documentation, Code Documentation, Technical Editing, TypeScript
+> Nawed Ali | [portfolio](https://nawedali.tech)  |  Software/API documentation, Code Documentation, TypeScript
