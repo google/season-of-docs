@@ -1,6 +1,6 @@
 # Interested in participating in the 2023 Season of Docs?
 
-_NOTE: PRs to these files will be automatically closed until the 2023 Season of Docs program begins in mid-January._
+_NOTE: To add your information to this repo you will need to sign the Google CLA. For more information on the CLA, see [the Google CLA page](https://cla.developers.google.com/about)._
 
 ### Open source projects and organizations interested in finding technical writers
   If your open source project or organization would like to be contacted by technical writers, add your project name and a link to your project ideas page to the [`interested-organizations.md`](./interested-organizations.md) page. Make sure your project ideas page includes contact information for your organization. **Do not include email addresses in this repo.**
