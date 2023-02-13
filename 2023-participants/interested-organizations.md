@@ -6,4 +6,5 @@ Organizations interested in participating in the 2023 Season of Docs should add 
 
 Project | Link to project ideas page
 ------- | ---------------------------
+[FOSSology](https://github.com/fossology) | [2023 Projects](https://github.com/fossology/user-docs/wiki/Google-Season-of-Docs-2023)
 [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | [2023 Projects](https://docs.rocket.chat/contribute-to-rocket.chat/annual-contribution-programs/google-season-of-docs/google-season-of-docs-2023)
