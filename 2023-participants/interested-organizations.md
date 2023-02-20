@@ -6,7 +6,6 @@ Organizations interested in participating in the 2023 Season of Docs should add 
 
 Project | Link to project ideas page
 ------- | ---------------------------
-
 [aboutcode](https://github.com/nexB/aboutcode) | [2023 Projects]( https://github.com/nexB/aboutcode/wiki/GSOD-2023)
 [Apache APISIX](https://github.com/apache/apisix) | [2023 Projects](https://github.com/apache/apisix/discussions/8852#discussion-4856327)
 [FOSSology](https://github.com/fossology) | [2023 Projects](https://github.com/fossology/user-docs/wiki/Google-Season-of-Docs-2023)
