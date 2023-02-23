@@ -8,7 +8,7 @@
 > [SAMPLE] Ima Writer | [myportfolio.me] (http://example.com) | API documentation, user guides, Python
 > Tolulope Ayemobola | [My Profile](www.linkedin.com/in/tayemobola) | API Docs, Guide and User Stories, Java, Python, C
 > Fortune Ikechi | [my portfolio](https://www.linkedin.com/in/fortune-ikechi-99199a13b) | API documentation, Python, JavaScript, user guides
-> Akande Olalekan Toheeb | [my portfolio](https://docs.google.com/document/d/1YQCmjBZdjnkZTIkHLmHva7NbrzhblY22/edit) | API documentation, Python, JavaScript, user guides
+> Akande Olalekan Toheeb | [my portfolio](https://docs.google.com/document/d/1YQCmjBZdjnkZTIkHLmHva7NbrzhblY22/edit) | API documentation, Python, JavaScript, React, user guides
 > Chigozie Oduah | [My Articles](https://linktr.ee/ghoulkingr) | API documentation, articles, user guides, Rust, Python, JavaScript
 > Atharva Salitri | [myportfolio.me](https://t.co/uqG9Ovr5uZ) | Documentation, Web Development, Technical Writing and Blogging
 > Nawed Ali | [portfolio](https://nawedali.tech) | Software/API documentation, Code Documentation, TypeScript
