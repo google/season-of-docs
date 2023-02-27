@@ -177,3 +177,4 @@
 > Stephen Oyebanji | [LinkedIn](https://www.linkedin.com/in/stephen-oyebanji/) <br> [Medium](https://steveos.medium.com/) | API Docs, Developer Guide, User Guide, Flutter, Dart, Java
 > Etiene Essenoh | [My CV](https://drive.google.com/file/d/1Aijxfjw2XEdLhi69OoKu5pxdDP18lZzU/view?usp=sharing) | API Docs, HTML/CSS, Javascript, Nodejs, Reactjs
 > Anita Eghonghon Idemudia | [My CV (Article links Included)](https://docs.google.com/document/d/1Kzx9artg8vz2mkmWIb4CwS-AYR2A0T18FEtJCgZB__0/edit?usp=sharing) |  HTML/CSS, Javascript, Reactjs, Technical Writing
+> Natachi Nnamaka Okezuo | [Linkedin](https://www.linkedin.com/in/natachijs/)  [Article](https://natachi.hashnode.dev/) | Blockchain, Solidity, Web3, Frontend
