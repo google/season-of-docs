@@ -15,5 +15,6 @@ Organizations interested in participating in the 2023 Season of Docs should add 
 | [OpenPrivacyTech](https://github.com/openprivacytech) | [2023 Projects](https://github.com/openprivacytech/community/blob/main/mentorship/gsod/2023/README.md)|
 | [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | [2023 Projects](https://docs.rocket.chat/contribute-to-rocket.chat/annual-contribution-programs/google-season-of-docs/google-season-of-docs-2023) |
 | [Ruby](https://github.com/rubygsoc/rubygsod/wiki) | [2023 Projects](https://github.com/rubygsoc/rubygsod/wiki/Ideas-List-(2023))|
+| [WasmEdge](https://github.com/WasmEdge/WasmEdge) | [2023 Projects](https://github.com/WasmEdge/GSoD2023)|
 
 
