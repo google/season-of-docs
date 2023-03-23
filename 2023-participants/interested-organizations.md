@@ -10,11 +10,10 @@ Organizations interested in participating in the 2023 Season of Docs should add 
 | [Apache APISIX](https://github.com/apache/apisix) | [2023 Projects](https://github.com/apache/apisix/discussions/8852#discussion-4856327) |
 | [AsyncAPI Initiative](https://github.com/asyncapi) | [2023 Projects]( https://github.com/orgs/asyncapi/discussions/601)|
 | [Econ-ARK](https://github.com/econ-ark/) | [2023 Projects](https://github.com/econ-ark/OverARK/issues/42) |
+| [FOLIO](https://folio.org) | [2023 Projects](https://wiki.folio.org/display/COMMUNITY/Google+Season+of+Docs+2023) |
 | [FOSSology](https://github.com/fossology) | [2023 Projects](https://github.com/fossology/user-docs/wiki/Google-Season-of-Docs-2023) |
-| [NixOS Foundation](https://github.com/nixpkgs) | [2023 Projects](https://github.com/NixOS/nix.dev/blob/master/maintainers/google-season-of-docs-2023.md) |
 | [OpenPrivacyTech](https://github.com/openprivacytech) | [2023 Projects](https://github.com/openprivacytech/community/blob/main/mentorship/gsod/2023/README.md)|
 | [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | [2023 Projects](https://docs.rocket.chat/contribute-to-rocket.chat/annual-contribution-programs/google-season-of-docs/google-season-of-docs-2023) |
 | [Ruby](https://github.com/rubygsoc/rubygsod/wiki) | [2023 Projects](https://github.com/rubygsoc/rubygsod/wiki/Ideas-List-(2023))|
-| [WasmEdge](https://github.com/WasmEdge/WasmEdge) | [2023 Projects](https://github.com/WasmEdge/GSoD2023)|
 
 
