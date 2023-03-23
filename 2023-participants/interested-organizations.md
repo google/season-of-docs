@@ -15,6 +15,7 @@ Organizations interested in participating in the 2023 Season of Docs should add 
 | [NixOS Foundation](https://github.com/NixOS) | [2023 Projects](https://github.com/NixOS/nix.dev/blob/master/maintainers/google-season-of-docs-2023.md) |
 | [OpenEMR](https://github.com/openemr/openemr) | [2023 Projects](https://github.com/openemr/openemr/issues/6301) |
 | [OpenPrivacyTech](https://github.com/openprivacytech) | [2023 Projects](https://github.com/openprivacytech/community/blob/main/mentorship/gsod/2023/README.md)|
+| [Openquake Engine](https://github.com/gem/oq-engine) | [2023 Projects](https://github.com/gem/oq-engine/wiki/Google-Season-of-Docs-2023-Project) |
 | [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | [2023 Projects](https://docs.rocket.chat/contribute-to-rocket.chat/annual-contribution-programs/google-season-of-docs/google-season-of-docs-2023) |
 | [Ruby](https://github.com/rubygsoc/rubygsod/wiki) | [2023 Projects](https://github.com/rubygsoc/rubygsod/wiki/Ideas-List-(2023))|
 | [STE\|\|AR Group](https://github.com/STEllAR-GROUP/hpx) | [2023 Projects](https://github.com/STEllAR-GROUP/hpx/wiki/GSoD-2023-Project-Ideas)|
