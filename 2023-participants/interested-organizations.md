@@ -12,6 +12,7 @@ Organizations interested in participating in the 2023 Season of Docs should add 
 | [Econ-ARK](https://github.com/econ-ark/) | [2023 Projects](https://github.com/econ-ark/OverARK/issues/42) |
 | [FOLIO](https://folio.org) | [2023 Projects](https://wiki.folio.org/display/COMMUNITY/Google+Season+of+Docs+2023) |
 | [FOSSology](https://github.com/fossology) | [2023 Projects](https://github.com/fossology/user-docs/wiki/Google-Season-of-Docs-2023) |
+| [Genie Framework](https://genieframework.com) | [2023 Projects](https://github.com/GenieFramework/Stipple.jl/discussions/187) |
 | [Julia](https://github.com/julialang) | [2023 Projects](https://julialang.org/jsoc/gsod/projects/#project_ideas_for_2023) |
 | [NixOS Foundation](https://github.com/NixOS) | [2023 Projects](https://github.com/NixOS/nix.dev/blob/master/maintainers/google-season-of-docs-2023.md) |
 | [OpenEMR](https://github.com/openemr/openemr) | [2023 Projects](https://github.com/openemr/openemr/issues/6301) |
@@ -20,6 +21,7 @@ Organizations interested in participating in the 2023 Season of Docs should add 
 | [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | [2023 Projects](https://docs.rocket.chat/contribute-to-rocket.chat/annual-contribution-programs/google-season-of-docs/google-season-of-docs-2023) |
 | [Ruby](https://github.com/rubygsoc/rubygsod/wiki) | [2023 Projects](https://github.com/rubygsoc/rubygsod/wiki/Ideas-List-(2023))|
 | [STE\|\|AR Group](https://github.com/STEllAR-GROUP/hpx) | [2023 Projects](https://github.com/STEllAR-GROUP/hpx/wiki/GSoD-2023-Project-Ideas)|
+| [Uwazi](https://github.com/huridocs/uwazi) | [2023 Projects](https://github.com/huridocs/uwazi-documentation/wiki/%5BGoogle-Season-of-Docs-2023%5D-Enhance-Uwazi-Documentation)|
 | [WasmEdge](https://github.com/WasmEdge/WasmEdge) | [2023 Projects](https://github.com/WasmEdge/GSoD2023)|
 
 
