@@ -20,6 +20,6 @@ Organizations interested in participating in the 2023 Season of Docs should add 
 | [Ruby](https://github.com/rubygsoc/rubygsod/wiki) | [2023 Projects](https://github.com/rubygsoc/rubygsod/wiki/Ideas-List-(2023))|
 | [STE\|\|AR Group](https://github.com/STEllAR-GROUP/hpx) | [2023 Projects](https://github.com/STEllAR-GROUP/hpx/wiki/GSoD-2023-Project-Ideas)|
 | [WasmEdge](https://github.com/WasmEdge/WasmEdge) | [2023 Projects](https://github.com/WasmEdge/GSoD2023)|
-
+| [Keploy](https://github.com/keploy/keploy) | [2023 Projects](https://github.com/keploy/gsoc/tree/main/GSoD%202023)|
 
 
