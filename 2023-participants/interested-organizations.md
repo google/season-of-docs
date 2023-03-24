@@ -19,6 +19,7 @@ Organizations interested in participating in the 2023 Season of Docs should add 
 | [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | [2023 Projects](https://docs.rocket.chat/contribute-to-rocket.chat/annual-contribution-programs/google-season-of-docs/google-season-of-docs-2023) |
 | [Ruby](https://github.com/rubygsoc/rubygsod/wiki) | [2023 Projects](https://github.com/rubygsoc/rubygsod/wiki/Ideas-List-(2023))|
 | [STE\|\|AR Group](https://github.com/STEllAR-GROUP/hpx) | [2023 Projects](https://github.com/STEllAR-GROUP/hpx/wiki/GSoD-2023-Project-Ideas)|
+| [Uwazi](https://github.com/huridocs/uwazi) | [2023 Projects](https://github.com/huridocs/uwazi-documentation/wiki/%5BGoogle-Season-of-Docs-2023%5D-Enhance-Uwazi-Documentation)|
 | [WasmEdge](https://github.com/WasmEdge/WasmEdge) | [2023 Projects](https://github.com/WasmEdge/GSoD2023)|
 
 
