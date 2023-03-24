@@ -14,6 +14,7 @@ Organizations interested in participating in the 2023 Season of Docs should add 
 | [FOSSology](https://github.com/fossology) | [2023 Projects](https://github.com/fossology/user-docs/wiki/Google-Season-of-Docs-2023) |
 | [Genie Framework](https://genieframework.com) | [2023 Projects](https://github.com/GenieFramework/Stipple.jl/discussions/187) |
 | [Julia](https://github.com/julialang) | [2023 Projects](https://julialang.org/jsoc/gsod/projects/#project_ideas_for_2023) |
+| [Keploy](https://github.com/keploy/keploy) | [2023 Projects](https://github.com/keploy/gsoc/tree/main/GSoD%202023)|
 | [NixOS Foundation](https://github.com/NixOS) | [2023 Projects](https://github.com/NixOS/nix.dev/blob/master/maintainers/google-season-of-docs-2023.md) |
 | [OpenEMR](https://github.com/openemr/openemr) | [2023 Projects](https://github.com/openemr/openemr/issues/6301) |
 | [OpenPrivacyTech](https://github.com/openprivacytech) | [2023 Projects](https://github.com/openprivacytech/community/blob/main/mentorship/gsod/2023/README.md)|
@@ -23,6 +24,6 @@ Organizations interested in participating in the 2023 Season of Docs should add 
 | [STE\|\|AR Group](https://github.com/STEllAR-GROUP/hpx) | [2023 Projects](https://github.com/STEllAR-GROUP/hpx/wiki/GSoD-2023-Project-Ideas)|
 | [Uwazi](https://github.com/huridocs/uwazi) | [2023 Projects](https://github.com/huridocs/uwazi-documentation/wiki/%5BGoogle-Season-of-Docs-2023%5D-Enhance-Uwazi-Documentation)|
 | [WasmEdge](https://github.com/WasmEdge/WasmEdge) | [2023 Projects](https://github.com/WasmEdge/GSoD2023)|
-| [Keploy](https://github.com/keploy/keploy) | [2023 Projects](https://github.com/keploy/gsoc/tree/main/GSoD%202023)|
+
 
 
