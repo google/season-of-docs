@@ -18,6 +18,7 @@ Organizations interested in participating in the 2023 Season of Docs should add 
 | [Openquake Engine](https://github.com/gem/oq-engine) | [2023 Projects](https://github.com/gem/oq-engine/wiki/Google-Season-of-Docs-2023-Project) |
 | [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | [2023 Projects](https://docs.rocket.chat/contribute-to-rocket.chat/annual-contribution-programs/google-season-of-docs/google-season-of-docs-2023) |
 | [Ruby](https://github.com/rubygsoc/rubygsod/wiki) | [2023 Projects](https://github.com/rubygsoc/rubygsod/wiki/Ideas-List-(2023))|
+| [Sigstore](https://github.com/sigstore/) | [2023 Projects](https://github.com/sigstore/docs/wiki/Season-of-Docs-2023-Organization-Project-Proposal) |
 | [STE\|\|AR Group](https://github.com/STEllAR-GROUP/hpx) | [2023 Projects](https://github.com/STEllAR-GROUP/hpx/wiki/GSoD-2023-Project-Ideas)|
 | [WasmEdge](https://github.com/WasmEdge/WasmEdge) | [2023 Projects](https://github.com/WasmEdge/GSoD2023)|
 
