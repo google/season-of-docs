@@ -13,6 +13,7 @@ Organizations interested in participating in the 2023 Season of Docs should add 
 | [FOLIO](https://folio.org) | [2023 Projects](https://wiki.folio.org/display/COMMUNITY/Google+Season+of+Docs+2023) |
 | [FOSSology](https://github.com/fossology) | [2023 Projects](https://github.com/fossology/user-docs/wiki/Google-Season-of-Docs-2023) |
 | [Genie Framework](https://genieframework.com) | [2023 Projects](https://github.com/GenieFramework/Stipple.jl/discussions/187) |
+| [Julia](https://github.com/julialang) | [2023 Projects](https://julialang.org/jsoc/gsod/projects/#project_ideas_for_2023) |
 | [NixOS Foundation](https://github.com/NixOS) | [2023 Projects](https://github.com/NixOS/nix.dev/blob/master/maintainers/google-season-of-docs-2023.md) |
 | [OpenEMR](https://github.com/openemr/openemr) | [2023 Projects](https://github.com/openemr/openemr/issues/6301) |
 | [OpenPrivacyTech](https://github.com/openprivacytech) | [2023 Projects](https://github.com/openprivacytech/community/blob/main/mentorship/gsod/2023/README.md)|
