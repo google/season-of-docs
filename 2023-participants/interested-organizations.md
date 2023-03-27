@@ -8,6 +8,7 @@ Organizations interested in participating in the 2023 Season of Docs should add 
 | ------- | -------------------------- |
 | [aboutcode](https://github.com/nexB/aboutcode) | [2023 Projects]( https://github.com/nexB/aboutcode/wiki/GSOD-2023)|
 | [Apache APISIX](https://github.com/apache/apisix) | [2023 Projects](https://github.com/apache/apisix/discussions/8852#discussion-4856327) |
+| [Apache Dubbo](https://github.com/apache/dubbo) | [2023 Projects](https://github.com/apache/dubbo-website/issues/2460)|
 | [AsyncAPI Initiative](https://github.com/asyncapi) | [2023 Projects]( https://github.com/orgs/asyncapi/discussions/601)|
 | [Econ-ARK](https://github.com/econ-ark/) | [2023 Projects](https://github.com/econ-ark/OverARK/issues/42) |
 | [FOLIO](https://folio.org) | [2023 Projects](https://wiki.folio.org/display/COMMUNITY/Google+Season+of+Docs+2023) |
@@ -25,7 +26,6 @@ Organizations interested in participating in the 2023 Season of Docs should add 
 | [STE\|\|AR Group](https://github.com/STEllAR-GROUP/hpx) | [2023 Projects](https://github.com/STEllAR-GROUP/hpx/wiki/GSoD-2023-Project-Ideas)|
 | [Uwazi](https://github.com/huridocs/uwazi) | [2023 Projects](https://github.com/huridocs/uwazi-documentation/wiki/%5BGoogle-Season-of-Docs-2023%5D-Enhance-Uwazi-Documentation)|
 | [WasmEdge](https://github.com/WasmEdge/WasmEdge) | [2023 Projects](https://github.com/WasmEdge/GSoD2023)|
-| [Apache Dubbo](https://github.com/apache/dubbo) | [2023 Projects](https://github.com/apache/dubbo-website/issues/2460)|
 
 
 
