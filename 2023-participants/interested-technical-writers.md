@@ -7,6 +7,7 @@
 > ---------------------- | ------------------------| ---------
 > [SAMPLE] Ima Writer | [myportfolio.me](http://example.com) | API documentation, user guides, Python
 > Tolulope Ayemobola | [My Profile](www.linkedin.com/in/tayemobola) | API Docs, Guide and User Stories, Java, Python, C
+> Krishna N Mehta | [My portfolio](https://my-portfolio-delta-sandy.vercel.app/) | **Skills** <li> C++, JavaScript, HTML5/CSS3, Python, Java </li> <li> Node.js, Express.js, React.js, Next.js </li> <li> MongoDB, PostgresSQL, SQL </li> <li> Git, VS Code, Docker, Kubernetes, Jenkins</li> **Interests:** <ul><li>User Manuals and Guides</li><li>Long Articles</li><li>Reports</li></ul>
 > Fortune Ikechi | [my portfolio](https://www.linkedin.com/in/fortune-ikechi-99199a13b) | API documentation, Python, JavaScript, user guides
 > Chigozie Oduah | [My Articles](https://linktr.ee/ghoulkingr) | API documentation, articles, user guides, Rust, Python, JavaScript
 > Atharva Salitri | [myportfolio.me](https://t.co/uqG9Ovr5uZ) | Documentation, Web Development, Technical Writing and Blogging
