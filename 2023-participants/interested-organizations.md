@@ -25,6 +25,7 @@ Organizations interested in participating in the 2023 Season of Docs should add 
 | [STE\|\|AR Group](https://github.com/STEllAR-GROUP/hpx) | [2023 Projects](https://github.com/STEllAR-GROUP/hpx/wiki/GSoD-2023-Project-Ideas)|
 | [Uwazi](https://github.com/huridocs/uwazi) | [2023 Projects](https://github.com/huridocs/uwazi-documentation/wiki/%5BGoogle-Season-of-Docs-2023%5D-Enhance-Uwazi-Documentation)|
 | [WasmEdge](https://github.com/WasmEdge/WasmEdge) | [2023 Projects](https://github.com/WasmEdge/GSoD2023)|
+| [Apache Dubbo](https://github.com/apache/dubbo) | [2023 Projects](https://github.com/apache/dubbo-website/issues/2460)|
 
 
 
