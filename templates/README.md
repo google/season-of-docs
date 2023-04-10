@@ -1,4 +1,4 @@
-## Season of Docs 2021 Templates
+## Season of Docs Templates and Resources
 
 ### Docs Audit Templates
 
