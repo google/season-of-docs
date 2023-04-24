@@ -7,8 +7,11 @@ Finding and nurturing technical talent can be challenging. Below are some resour
 
 [How to Hire a Technical Writer](https://documentwrite.dev/blog/hiring-technical-writers/)
 
+## Newsletter: 
+[The Best 3 Project Management Examples You Can Use to Manage Technical Writers](https://artisanal-pioneer-1249.ck.page/posts/best-3-project-management-examples-you-can-use-to-manage-tech-writers)
+
 
 ### Webinar:
 
-[Hiring and Guiding Technical Wrtiers](https://youtube.com/live/pffa_0dLGcI?feature=share)
+[Hiring and Guiding Technical Writers](https://youtube.com/live/pffa_0dLGcI?feature=share)
 
