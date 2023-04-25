@@ -13,5 +13,4 @@ Finding and nurturing technical talent can be challenging. Below are some resour
 
 ### Webinar:
 
-[Hiring and Guiding Technical Writers](https://youtube.com/live/pffa_0dLGcI?feature=share)
-
+[Hiring and Guiding Technical Writers](https://www.youtube.com/live/t-Tz6QzH8YA?feature=share)
