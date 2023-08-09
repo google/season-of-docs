@@ -6,6 +6,7 @@
 > Technical Writer Name | Link to portfolio or CV | Interests/Experience
 > ---------------------- | ------------------------| ---------
 > [SAMPLE] Ima Writer | [myportfolio.me](http://example.com) | API documentation, user guides, Python
+> Charles Uneze | <ul><li>[LinkedIn](https://www.linkedin.com/in/charles-uneze-99b877196/) </li> <li> [Github](https://github.com/network-charles) </li> <li> [Newsletter](https://charlesuneze.substack.com) </li></ul> | <ul> <li> **Interests** <ul> <li> Cloud </li> <li> Networking </li> <li> DevOps </li> <li> User Guides</li> </li> </ul> </li> <li> **Experiences** <ul><li> Cloud Engineer and Technical Writer at a UK VC Backed Startup called Welcometoastra </li> <li> Delegate at Tech Field Day </li> <li> Open Source Contributor to the Hashicorp AWS Provider </li> </li> </ul>
 > Tolulope Ayemobola | [My Profile](www.linkedin.com/in/tayemobola) | API Docs, Guide and User Stories, Java, Python, C
 > Fortune Ikechi | [my portfolio](https://www.linkedin.com/in/fortune-ikechi-99199a13b) | API documentation, Python, JavaScript, user guides
 > Chigozie Oduah | [My Articles](https://linktr.ee/ghoulkingr) | API documentation, articles, user guides, Rust, Python, JavaScript
