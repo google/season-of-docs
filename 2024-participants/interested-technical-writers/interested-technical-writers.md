@@ -30,7 +30,7 @@ We will concatenate the files into a table and display it on the [interested tec
 
 ### Project Admins
 
-Use this directory to find technical writers who may be a good fit for your project. Please note that inclusion in this list does not mean that these technical writers have been vetted or recommended by the Google Season of Docs program; it is only a convenience to allow project admins to find technical writers interested in participating. Please review the information provided by the technical writers carefully before making your hiring decision. See the (Google Season of Docs admin guide)(https://developers.google.com/season-of-docs/docs/tech-writer-selection) for technical writer hiring tips.
+Use this directory to find technical writers who may be a good fit for your project. Please note that inclusion in this list does not mean that these technical writers have been vetted or recommended by the Google Season of Docs program; it is only a convenience to allow project admins to find technical writers interested in participating. Please review the information provided by the technical writers carefully before making your hiring decision. See the [Google Season of Docs admin guide](https://developers.google.com/season-of-docs/docs/tech-writer-selection) for technical writer hiring tips.
 
 
 
