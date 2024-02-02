@@ -12,4 +12,4 @@ jobs:
     - uses: superbrothers/close-pull-request@v3
       with:
         # Optional. Post a issue comment just before closing a pull request.
-        comment: "The current Season of Docs program has not yet begun the technical writer recruitment phase, so we're closing this PR. Please feel free to subscribe to our [announcements list](https://groups.google.com/g/season-of-docs-announce) for information about upcoming Season of Docs programs."
+        comment: "The 2023 Season of Docs program is complete, so we're closing this PR. Please feel free to subscribe to our [announcements list](https://groups.google.com/g/season-of-docs-announce) for information about upcoming Google Season of Docs programs."
