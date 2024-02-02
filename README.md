@@ -1,14 +1,14 @@
-# Season of Docs
+# Google Season of Docs
 
-This repository contains useful templates and lists for Google's [Season of Docs](https://developers.google.com/season-of-docs) program.
+This repository contains useful templates and lists for the [Google Season of Docs](https://developers.google.com/season-of-docs) program.
 
 ## For projects, organizations, and technical writers
 
-Organizations and projects wishing to connect with technical writers, and technical writers who want to express an interest in working with organizations and projects for the 2023 Season of Docs can add their information to the lists in the [`2023-participants`](./2023-participants) folder.
+Organizations and projects wishing to connect with technical writers, and technical writers who want to express an interest in working with organizations and projects for the 2024 Google Season of Docs can add their information to the lists in the [`2024-participants`](./2024-participants) folder.
 
 ## Templates and checklists 
 
-Sample templates for the Season of Docs application and reporting stages, and sample templates and checklists for documentation projects, will be added to the [templates](./templates) folder as they become available.
+Sample templates for the Google Season of Docs application and reporting stages, and sample templates and checklists for documentation projects, will be added to the [templates](./templates) folder as they become available.
 
 ## Contributing
 
