@@ -1,0 +1,25 @@
+Fatuma Abdullahi | [Portfolio](https://blog.hijabicoder.dev), [FreeCodeCamp Author Profile](https://www.freecodecamp.org/news/author/fatuma) |
+
+**Interests**:
+
+- API documentation,
+- contributing guides,
+- How-To guides,
+- indepth tutorials,
+- open source and docs-as-code.
+
+**Technical skills**:
+
+- Javascript,
+- Typescript,
+- Flutter and Dart
+- React and Next,
+- Serverless,
+- Git and GitHub
+- Markdown
+
+**Open Source Contributions**:
+
+- [Ocaml.org](https://github.com/ocaml/ocaml.org/pulls?q=is%3Apr+author%3AFatumaA+is%3Aclosed)
+- [Supabase](https://github.com/supabase/supabase/pulls?q=is%3Apr+author%3AFatumaA+is%3Aclosed)
+- [Supabase Community](https://github.com/supabase-community/flutter-auth-ui/pulls?q=is%3Apr+author%3AFatumaA+is%3Aclosed)
