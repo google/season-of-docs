@@ -2,19 +2,19 @@ Fatuma Abdullahi | [Portfolio](https://blog.hijabicoder.dev), [FreeCodeCamp Auth
 
 **Interests**:
 
-- API documentation,
-- contributing guides,
-- How-To guides,
-- indepth tutorials,
-- open source and docs-as-code.
+- API documentation
+- Contributing guides
+- How-To guides
+- In-depth tutorials
+- Open source and docs-as-code
 
 **Technical skills**:
 
-- Javascript,
-- Typescript,
+- Javascript
+- Typescript
 - Flutter and Dart
-- React and Next,
-- Serverless,
+- React and Next
+- Serverless
 - Git and GitHub
 - Markdown
 
