@@ -1,1 +1,0 @@
-Nidhi Parab | [Portfolio](https://bento.me/nidhiparab), [Resume](https://drive.google.com/file/d/1jPAsmkWVE0VekavFc2XEu6uKdtuqBdQa/view?usp=drive_link) | Skilled in Frontend documentation, Content creation, Newsletters and Writing Technical Blogs.
