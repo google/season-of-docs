@@ -1,6 +1,6 @@
 Fatuma Abdullahi | [Portfolio](https://blog.hijabicoder.dev), [FreeCodeCamp Author Profile](https://www.freecodecamp.org/news/author/fatuma) |
 
-**Interests**:
+**Interests:**
 
 - API documentation
 - Contributing guides
@@ -8,7 +8,7 @@ Fatuma Abdullahi | [Portfolio](https://blog.hijabicoder.dev), [FreeCodeCamp Auth
 - In-depth tutorials
 - Open source and docs-as-code
 
-**Technical skills**:
+**Technical skills:**
 
 - Javascript
 - Typescript
@@ -18,7 +18,7 @@ Fatuma Abdullahi | [Portfolio](https://blog.hijabicoder.dev), [FreeCodeCamp Auth
 - Git and GitHub
 - Markdown
 
-**Open Source Contributions**:
+**Open Source Contributions:**
 
 - [Ocaml.org](https://github.com/ocaml/ocaml.org/pulls?q=is%3Apr+author%3AFatumaA+is%3Aclosed)
 - [Supabase](https://github.com/supabase/supabase/pulls?q=is%3Apr+author%3AFatumaA+is%3Aclosed)
