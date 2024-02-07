@@ -9,4 +9,4 @@ Amitesh Anand | [LinkedIn](https://www.linkedin.com/in/amitesh1208/), [Portfolio
 - Open source and docs-as-code
 
 **Work Experience:**
-- I have written 50k+ words on the internet, including both technical and non technical articles and documentations related to open source, I have written articles for open source projects like [versatile-data-kit](https://github.com/vmware/versatile-data-kit) and [Pieces.app](https://github.com/pieces-app).
+- I have written 50k+ words on the internet, including both technical and non technical articles and documentations related to open source, I have written articles for open source projects like [versatile-data-kit](https://github.com/vmware/versatile-data-kit) and [Pieces.app](https://github.com/pieces-app). Also nominated for [Noonies 2022](https://hackernoon.com/u/astrodevil) in 4 categories & Runner-up in 3 categories.
