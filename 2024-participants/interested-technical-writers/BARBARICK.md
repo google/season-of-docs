@@ -1,0 +1,1 @@
+Nathan Barbarick | [Portfolio](https://www.nathanbarbarick.com/), [résumé](https://www.nathanbarbarick.com/assets/nathan-barbarick-resume.pdf) | Information architecture 🏛️, site design 👨‍🎨, tutorials 🎓, web technologies 🕸️, multimedia 📽️.
