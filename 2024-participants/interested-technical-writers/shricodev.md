@@ -1,0 +1,1 @@
+Shrijal Acharya | [Portfolio](https://shricodev.tech), [Resume](https://drive.google.com/file/d/1_OL5TlkCU0xAgtlg0Tnl3AKkN9vA_e-0/view?usp=sharing) | Skilled in MERN stack, Golang, DevOps, Cloud, and writing tech articles and documentation.
