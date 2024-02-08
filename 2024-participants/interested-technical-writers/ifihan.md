@@ -1,0 +1,1 @@
+Ifihanagbara Olusheye | [Portfolio](https://blog.ifihan.dev/), [Resume](https://drive.google.com/file/d/1YKvrkvqV_3y6nKSKinOhJNYLEPRh9ePR/view?usp=sharing), [Blog](https://hashnode.ifihan.dev/) | I am a skilled in creating in-depth tutorials and API documentation. I am versatile in Python, TypeScript, and Julia mainly, and I am open to learning new technologies.
