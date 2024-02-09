@@ -1,0 +1,1 @@
+Mohamed Yousif | [Portfolio](https://adonese.sd), [résumé](https://adonese.sd/bio) | Software Engineer, I love to write about fintech and software engineering
