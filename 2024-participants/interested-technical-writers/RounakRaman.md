@@ -1,0 +1,1 @@
+Rounak Raman | [Portfolio](https://rounak-raman.notion.site/rounak-raman/Rounak-Raman-Tech-Savvy-Consultant-Developer-9489ae6cfb07421f8957567d698ac7e1) , [resume](https://drive.google.com/file/d/1klSmT60yRVYM-yLUgtr2RmY3PraOFA5W/view?usp=sharing) , [Blogs,Medium Articles](https://medium.com/@raman-rounak) | Skilled in Content Writing , writing tutorials and creating ppts.
