@@ -1,1 +1,1 @@
-Ijeoma Igboagu | [Portfolio](https://gamma.app/docs/Technical-writing-portfolio-s65h18rmpgg99r9) | Skilled in How-To-Do-Guides, writing tutorials
+Ijeoma Igboagu | [Portfolio](https://gamma.app/docs/Technical-writing-portfolio-s65h18rmpgg99r9) | Skilled in How-To Guides, writing tutorials
