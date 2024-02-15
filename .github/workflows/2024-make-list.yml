@@ -10,7 +10,7 @@ jobs:
       - name: Markdown Lint - check only '2024-participants' TW directory and exclude EXAMPLE.md
         uses: ruzickap/action-my-markdown-linter@v1
         with:
-          config_file: sod_markdownlint.yml
+          config_file: .github/workflows/sod_markdownlint.yml
           debug: true
           search_paths: |
             2024-participants/interested-technical-writers/
