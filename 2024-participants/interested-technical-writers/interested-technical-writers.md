@@ -12,13 +12,13 @@ To add your information to the [interested technical writers](./interested-techn
 
 1. Create a Markdown file with three pieces of information: your name, a link to your portfolio, personal site, résumé, or CV, and an indication of your interests. 
    
-Use [this format](./EXAMPLE.md): 
+    Use [this format](./EXAMPLE.md): 
 
- `Jane Doe | [Portfolio](https://janedoe.example.com) | Skilled in API documentation, writing tutorials`
+    `Jane Doe | [Portfolio](https://janedoe.example.com) | Skilled in API documentation, writing tutorials`
 
-If you have more than one link, use this format: 
+    If you have more than one link, use this format: 
 
- `Jane Doe | [Portfolio](https://janedoe.example.com), [résumé](https://janedoe.example.com/resume) | Skilled in API documentation, writing tutorials`
+    `Jane Doe | [Portfolio](https://janedoe.example.com), [résumé](https://janedoe.example.com/resume) | Skilled in API documentation, writing tutorials`
 
 2. Save your Markdown file as YOURNAME.md.
 
