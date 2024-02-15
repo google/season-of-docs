@@ -5,7 +5,7 @@ jobs:
     name: Check Markdown files
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       - name: Markdown Lint - check only '2024-participants' TW directory and exclude EXAMPLE.md
         uses: ruzickap/action-my-markdown-linter@v1
