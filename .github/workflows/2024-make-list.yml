@@ -1,1 +1,18 @@
+name: create-tw-list
+on: [push, workflow_dispatch]
+jobs:
+  markdown_lint:
+    name: Check Markdown files
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
 
+      - name: Markdown Lint - check only '2024-participants' TW directory and exclude EXAMPLE.md
+        uses: ruzickap/action-my-markdown-linter@v1
+        with:
+          config_file: sod_markdownlint.yml
+          debug: true
+          search_paths: |
+            2024-participants/interested-technical-writers/
+          exclude: |
+            EXAMPLE.md
