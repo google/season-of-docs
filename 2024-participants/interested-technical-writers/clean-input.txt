@@ -1,3 +1,2 @@
-EXAMPLE2.md
-clean-input.txt
+EXAMPLE.md
 file-preface.md

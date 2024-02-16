@@ -1,6 +1,5 @@
-Jane Doe | [Portfolio](https://janedoe.example.com) | Skilled in API documentation, writing tutorialsEXAMPLE2.md
-clean-input.txt
-file-preface.md
+Jane Doe | [Portfolio](https://janedoe.example.com) | Skilled in API documentation, writing tutorials
+
 # Technical Writers Directory
 
 This directory lists technical writers who have expressed interest in participating in the 2024 Google Season of Docs program.
