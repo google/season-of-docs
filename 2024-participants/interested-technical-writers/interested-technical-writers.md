@@ -36,5 +36,7 @@ Use this directory to find technical writers who may be a good fit for your proj
 
 
 
-## Interested Technical WritersJane Doe | [Portfolio](https://janedoe.example.com) | Skilled in API documentation, writing tutorials, docs audits
+## Interested Technical Writers
 
+Jane Doe | [Portfolio](https://janedoe.example.com) | Skilled in API documentation, writing tutorials, performing docs audits
+Dane Joe | [Portfolio](https://danejoe.example.com) | Skilled in API documentation, writing tutorials, performing docs audits
