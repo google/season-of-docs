@@ -1,4 +1,3 @@
 EXAMPLE2.md
+clean-input.txt
 file-preface.md
-input.txt
-remove.txt
