@@ -8,7 +8,7 @@ Subscribe to our [announcements list](https://groups.google.com/g/season-of-docs
 
 ### Technical Writers
 
-To add your information to the [interested technical writers](./interested-technical-writers.md) directory: 
+To add your information to the [interested technical writers](./interested-technical-writers.md) list: 
 
 1. Create a Markdown file with three pieces of information: your name, a link to your portfolio, personal site, résumé, or CV, and an indication of your interests. 
    
@@ -20,7 +20,7 @@ To add your information to the [interested technical writers](./interested-techn
 
     `Jane Doe | [Portfolio](https://janedoe.example.com), [résumé](https://janedoe.example.com/resume) | Skilled in API documentation, writing tutorials`
 
-2. Save your Markdown file as YOURNAME.md.
+2. Save your Markdown file as YOURNAME.md. **Important: do not use any spaces in the filename**
 
 3. [Create a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) to add your file to the [interested-technical-writers](./interested-technical-writers) directory.
 

@@ -15,7 +15,8 @@ jobs:
       - uses: actions/checkout@v4
       - run: ls -tr  > input.txt  
       - run: comm -23 <(sort input.txt) <(sort remove.txt) >clean-input.txt
-      - run: xargs cat < clean-input.txt >interested-technical-writers.md
+      - run: xargs cat < clean-input.txt >writers.md
+      - run: cat file-preface.md writers.md >interested-technical-writers.md
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
             commit_message: Update interested-technical-writers
