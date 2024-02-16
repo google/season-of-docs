@@ -16,8 +16,9 @@ jobs:
         with:
           args: >-  # allows you to break string into multiple lines
             --standalone
+            --$(cat 2024-participants/interested-technical-writers/clean-input.txt)
+            --format markdown
             --output=2024-participants/interested-technical-writers/interested-technical-writers.md
-            2024-participants/interested-technical-writers/clean-input.txt
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-            commit_message: Apply php-cs-fixer changes
+            commit_message: Update interested-technical-writers
