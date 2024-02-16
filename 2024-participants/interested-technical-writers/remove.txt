@@ -1,5 +1,5 @@
-EXAMPLE.md
+EXAMPLE2.md
 interested-technical-writers.md
 input.txt
 remove.txt
-clean-input.text
+clean-input.txt
