@@ -10,15 +10,16 @@ jobs:
         contents: write
     steps:
       - uses: actions/checkout@v4
-      - run: ls -tr 2024-participants/interested-technical-writers > 2024-participants/interested-technical-writers/input.txt  
-      - run: comm -23 <(sort 2024-participants/interested-technical-writers/input.txt) <(sort 2024-participants/interested-technical-writers/remove.txt) >2024-participants/interested-technical-writers/clean-input.txt
+      - name: create file list
+        id: files_list
+        run: |
+          ls -tr 2024-participants/interested-technical-writers > 2024-participants/interested-technical-writers/input.txt  # create list of files
+          comm -23 <(sort 2024-participants/interested-technical-writers/input.txt) <(sort 2024-participants/interested-technical-writers/remove.txt)
+          echo "files=$(comm -23 <(sort 2024-participants/interested-technical-writers/input.txt) <(sort 2024-participants/interested-technical-writers/remove.txt))" > $GITHUB_OUTPUT
       - uses: docker://pandoc/core:2.9
         with:
           args: >-  # allows you to break string into multiple lines
-            --standalone
-            --$(cat 2024-participants/interested-technical-writers/clean-input.txt)
-            --format markdown
-            --output=2024-participants/interested-technical-writers/interested-technical-writers.md
+            --output=2024-participants/interested-technical-writers/interested-technical-writers.md ${{ steps.files_list.outputs.files }}
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
             commit_message: Update interested-technical-writers
