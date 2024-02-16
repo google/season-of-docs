@@ -15,7 +15,6 @@ jobs:
       - uses: docker://pandoc/core:2.9
         with:
           args: >-  # allows you to break string into multiple lines
-            --standalone
             $(cat 2024-participants/interested-technical-writers/clean-input.txt)
             --output=2024-participants/interested-technical-writers/interested-technical-writers.md
       - uses: stefanzweifel/git-auto-commit-action@v5
