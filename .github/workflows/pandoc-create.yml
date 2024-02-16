@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-22.04
     defaults:
         run:
-          working-directory: ./2024-participants/interested-technical-writers
+          working-directory: 2024-participants/interested-technical-writers
     steps:
       - run: ls -tr >input.txt  
       - run: comm -23 <(sort input.txt) <(sort remove.txt) >clean-input.txt
