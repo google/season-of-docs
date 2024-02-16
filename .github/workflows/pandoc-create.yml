@@ -6,12 +6,11 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-22.04
     steps:
-      - run: cd 2024-participants/interested-technical-writers
-      - run: ls -tr >input.txt  
-      - run: comm -23 <(sort input.txt) <(sort remove.txt) >clean-input.txt
+      - run: ls -tr 2024-participants/interested-technical-writers >input.txt  
+      - run: comm -23 <(sort 2024-participants/interested-technical-writers/input.txt) <(sort 2024-participants/interested-technical-writers/remove.txt) >2024-participants/interested-technical-writers/clean-input.txt
       - uses: docker://pandoc/core:2.9
         with:
           args: >-  # allows you to break string into multiple lines
             --standalone
-            --output=interested-technical-writers.md
-            clean-input.txt
+            --output=2024-participants/interested-technical-writers/interested-technical-writers.md
+            2024-participants/interested-technical-writers/clean-input.txt
