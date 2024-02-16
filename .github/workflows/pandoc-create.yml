@@ -5,14 +5,17 @@ on: push
 jobs:
   convert_via_pandoc:
     runs-on: ubuntu-22.04
+    defaults:
+        run:
+          working-directory: 2024-participants/interested-technical-writers
     permissions:
         # Give the default GITHUB_TOKEN write permission to commit and push the changed files back to the repository.
         contents: write
     steps:
       - uses: actions/checkout@v4
-      - run: ls -tr 2024-participants/interested-technical-writers > 2024-participants/interested-technical-writers/input.txt  
-      - run: comm -23 <(sort 2024-participants/interested-technical-writers/input.txt) <(sort 2024-participants/interested-technical-writers/remove.txt) >2024-participants/interested-technical-writers/clean-input.txt
-      - run: xargs cat < 2024-participants/interested-technical-writers/clean-input.txt >2024-participants/interested-technical-writers/interested-technical-writers.md
+      - run: ls -tr  > input.txt  
+      - run: comm -23 <(sort input.txt) <(sort remove.txt) >clean-input.txt
+      - run: xargs cat < clean-input.txt >interested-technical-writers.md
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
             commit_message: Update interested-technical-writers

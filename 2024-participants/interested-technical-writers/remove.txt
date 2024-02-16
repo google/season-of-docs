@@ -1,2 +1,5 @@
 EXAMPLE.md
 interested-technical-writers.md
+input.txt
+remove.txt
+clean-input.text
