@@ -5,10 +5,8 @@ on: push
 jobs:
   convert_via_pandoc:
     runs-on: ubuntu-22.04
-    defaults:
-        run:
-          working-directory: 2024-participants/interested-technical-writers
     steps:
+      - run: cd 2024-participants/interested-technical-writers
       - run: ls -tr >input.txt  
       - run: comm -23 <(sort input.txt) <(sort remove.txt) >clean-input.txt
       - uses: docker://pandoc/core:2.9
