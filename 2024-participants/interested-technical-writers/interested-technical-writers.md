@@ -42,3 +42,4 @@ Technical Writer Name | Link to portfolio or CV | Interests/Experience
 --------------------- | ----------------------- | --------------------
 | Jane Doe | [Portfolio](https://janedoe.example.com) | Skilled in API documentation, writing tutorials, performing docs audits |
 | Dane Joe | [Portfolio](https://danejoe.example.com) | Skilled in API documentation, writing tutorials, performing docs audits|
+| Erin McKean | [Portfolio](https://erinmckean.com) | Skilled in API documentation, writing tutorials, performing docs audits |
