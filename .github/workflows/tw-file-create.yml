@@ -1,13 +1,13 @@
 name: create markdown file
 
-on:
-  pull_request:
-    types:
-      - closed
+on: #this makes it only so pushes to main trigger this (so when PRs are merged) (TODO remove test branch when merging back to main)
+  push:
+    branches:
+      - main
+      - emckean-2024-workflow
 
 jobs:
   concatenate-files:
-    if: github.event.pull_request.merged == true
     runs-on: ubuntu-22.04
     defaults:
         run:
