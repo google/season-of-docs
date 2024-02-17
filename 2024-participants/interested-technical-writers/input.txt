@@ -1,4 +1,3 @@
-writers.md
 remove.txt
 interested-technical-writers.md
 file-preface.md
