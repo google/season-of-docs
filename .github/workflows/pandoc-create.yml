@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
       - run: ls -tr  > input.txt  
       - run: comm -23 <(sort input.txt) <(sort remove.txt) >clean-input.txt
-      - run: filenames=$(cat clean-input.txt); for f in filenames; do (cat "${f}"; echo) >> writers.md; done
+      - run: for f in $(cat clean-input.txt); do (cat "${f}"; echo) >> writers.md; done
       - run: cat file-preface.md writers.md >interested-technical-writers.md
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
