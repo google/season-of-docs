@@ -3,7 +3,7 @@ name: create markdown file
 on: push
 
 jobs:
-  convert_via_pandoc:
+  concatenate-files:
     runs-on: ubuntu-22.04
     defaults:
         run:
