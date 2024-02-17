@@ -2,6 +2,7 @@ remove.txt
 interested-technical-writers.md
 file-preface.md
 clean-input.txt
+McKean.md
 EXAMPLE2.md
 EXAMPLE.md
 input.txt
