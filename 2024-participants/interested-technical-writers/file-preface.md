@@ -38,3 +38,5 @@ Use this directory to find technical writers who may be a good fit for your proj
 
 ## Interested Technical Writers
 
+Technical Writer Name | Link to portfolio or CV | Interests/Experience
+--------------------- | ----------------------- | --------------------
