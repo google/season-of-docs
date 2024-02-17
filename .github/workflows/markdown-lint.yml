@@ -2,7 +2,7 @@ name: create-tw-list
 on:
   pull_request_target:
     types: [opened]
-    paths: 2024-participants/interested-technical-writers/
+    paths: 2024-participants/interested-technical-writers
 jobs:
   lint:
     name: lint-pr
