@@ -1,7 +1,11 @@
 name: create-tw-list
-on: [push, workflow_dispatch]
+on:
+  pull_request_target:
+    types: [opened]
+    paths: 2024-participants/interested-technical-writers/
 jobs:
   lint:
+    name: lint-pr
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
@@ -12,3 +16,11 @@ jobs:
         globs: |
           2024-participants/interested-technical-writers/*.md
           !2024-participants/interested-technical-writers/EXAMPLE.md
+  comment:
+    name: comment-failed
+    if: failure()
+    uses: peter-evans/create-or-update-comment@v4
+    with:
+          issue-number: ${{tojson(github.event.number)}}
+          body: |
+            Your file is not valid Markdown.
