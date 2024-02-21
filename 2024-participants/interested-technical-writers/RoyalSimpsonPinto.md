@@ -1,0 +1,1 @@
+Royal Simpson Pinto | [Resume](https://drive.google.com/file/d/1JC2OL3foQn1JcimRTkdUrB9z1K56sMdW/view?usp=sharing) | Expert in developer docs & ready to dive into your project!

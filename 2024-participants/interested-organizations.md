@@ -6,3 +6,4 @@ Organizations interested in participating in the 2024 Google Season of Docs shou
 
 | Project | Link to project ideas page |
 | ------- | -------------------------- |
+| Rocky Linux | https://rockylinux.org |
