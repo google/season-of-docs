@@ -1,0 +1,2 @@
+Nuruddeen Sambo | [Portfolio](https://portfolio-pi-nine-13.vercel.app/) | Skilled in Software Development, Machine Learning, Open Source and Technical Writing
+
