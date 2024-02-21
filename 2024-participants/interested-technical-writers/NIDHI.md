@@ -1,0 +1,1 @@
+Nidhi Parab | [Portfolio](https://bento.me/nidhiparab), [Resume](https://drive.google.com/file/d/1jPAsmkWVE0VekavFc2XEu6uKdtuqBdQa/view?usp=drive_link) | Adept in Frontend documentation, React.js, Next.js, crafting engaging content, composing newsletters, and authoring technical blogs that inform and captivate audiences.
