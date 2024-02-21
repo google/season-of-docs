@@ -5,4 +5,4 @@ Organizations interested in participating in the 2024 Google Season of Docs shou
 **PLEASE ADD YOUR ORG IN ALPHABETICAL ORDER.**
 
 | Project | Link to project ideas page |
-| ------- | -------------------------- |
+| Xen Project | https://cryptpad.fr/doc/#/2/doc/view/4VYeqv-QRpybiaInhvYcIxJdLz8FnyspA3A+uuGlFmc/ |
