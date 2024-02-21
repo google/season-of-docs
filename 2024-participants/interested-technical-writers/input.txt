@@ -1,9 +1,3 @@
-Nuruddeen-Sambo.md
-NIDHI.md
-MercyBassey.md
-MELISSALIGERTWOOD.md
-Ibukunoluwa.md
-FelixHirwaNshuti.md
 EXAMPLE.md
 Dhairya-Majmudar.md
 DIVYANSHSRIVASTAVA.md
@@ -32,4 +26,10 @@ SOOTERSAALU.md
 SHUBHAMPANCHAL.md
 SAHILBHOSALE.md
 RoyalSimpsonPinto.md
+Nuruddeen-Sambo.md
+NIDHI.md
+MercyBassey.md
+MELISSALIGERTWOOD.md
+Ibukunoluwa.md
+FelixHirwaNshuti.md
 input.txt
