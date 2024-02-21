@@ -4,7 +4,6 @@ on: #this makes it only so pushes to main trigger this (so when PRs are merged) 
   push:
     branches:
       - main
-      - emckean-2024-workflow
 
 jobs:
   concatenate-files:
