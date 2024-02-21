@@ -20,11 +20,7 @@ To add your information to the [interested technical writers](./interested-techn
 
     `Jane Doe | [Portfolio](https://janedoe.example.com), [résumé](https://janedoe.example.com/resume) | Skilled in API documentation, writing tutorials`
 
-    **Important: Your entry should not include any line breaks. Do not include blank lines after your entry.**
-
-2. Save your Markdown file as YOURNAME.md. 
-
-    **Important: do not use any spaces in the filename**
+2. Save your Markdown file as YOURNAME.md. **Important: do not use any spaces in the filename**
 
 3. [Create a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) to add your file to the [interested-technical-writers](./interested-technical-writers) directory.
 
