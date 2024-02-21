@@ -1,0 +1,1 @@
+Felix Hirwa Nshuti | [Portfolio](https://fnhirwa.com/), [résumé](https://fnhirwa.com/assets/resume.pdf) | Skilled in Python Frameworks development, and writing developer documentation. 
