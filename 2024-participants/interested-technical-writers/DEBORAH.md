@@ -1,1 +1,1 @@
-Deborah Oyegue | [Portfolio](https://github.com/Dee-Tyan/publishedarticles)  | [Website](https://dee-tyan.github.io/deborahoyegue.github.io/) | Skilled in API documentation, writing tutorials (user manuals or how-to instructions), technical web content (online articles)
+Deborah Oyegue | [Portfolio](https://github.com/Dee-Tyan/publishedarticles) , [Website](https://dee-tyan.github.io/deborahoyegue.github.io/) | Skilled in API documentation, writing tutorials (user manuals or how-to instructions), technical web content (online articles)
