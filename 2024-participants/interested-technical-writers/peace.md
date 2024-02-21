@@ -1,0 +1,1 @@
+Ngozi Peace Okafor | [Portfolio](https://beacons.ai/ladyprowess), [résumé](https://docs.google.com/presentation/d/1lwMAbsPkRhlgkSdhHYYM5km7zNd6bN2kM49rUV8xeCw/edit) | Proficiency in writing Technical Documents, tutorials and Guides
