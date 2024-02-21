@@ -1,0 +1,1 @@
+MERCY BASSEY | [LinkedIn](https://www.linkedin.com/in/mercy-bassey-a18682192/), [Résumé](https://flowcv.com/resume/s7hvwupgsp) | Skilled in API documentation, writing tutorials and how-to guides related to Python, Go, Node.js, DevOps/IT, and Cloud Tech.
