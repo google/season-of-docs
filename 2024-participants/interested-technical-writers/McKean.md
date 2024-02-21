@@ -1,1 +1,1 @@
-| Erin McKean | [Portfolio](https://erinmckean.com) | Skilled in API documentation, writing tutorials, performing circus tricks |
+Erin McKean | [Portfolio](https://erinmckean.com) | Skilled in API documentation, writing tutorials, performing circus tricks 
