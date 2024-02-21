@@ -1,3 +1,9 @@
+DELETAAKRAM.md
+DAVID_COPELAND.md
+CHARLESUNEZE.md
+BrunoFernandes.MD
+BARBARICK.md
+Ayush-Sahu.md
 shricodev.md
 rimjhimart.md
 remove.txt
@@ -27,10 +33,4 @@ EXAMPLE2.md
 EXAMPLE.md
 Dhairya-Majmudar.md
 DIVYANSHSRIVASTAVA.md
-DELETAAKRAM.md
-DAVID_COPELAND.md
-CHARLESUNEZE.md
-BrunoFernandes.MD
-BARBARICK.md
-Ayush-Sahu.md
 input.txt
