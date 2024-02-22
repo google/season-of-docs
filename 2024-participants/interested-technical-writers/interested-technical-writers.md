@@ -44,6 +44,7 @@ Use this directory to find technical writers who may be a good fit for your proj
 
 Technical Writer Name | Link to portfolio or CV | Interests/Experience
 --------------------- | ----------------------- | --------------------
+Abhishek Patidar | [Portfolio](https://1e9abhi1e10.github.io/) [Resume](https://drive.google.com/file/d/17VhwlX9VSeXPydvnP5c3VpgemEBHgc8p/view?usp=sharing) | Experienced Python developer with expertise in building web application APIs, documentation, tutorials, and more, eager to contribute to your project.
 Atreay Kukanur | [Twitter](https://twitter.com/AtreayKukanur) [LinkedIn](https://twitter.com/AtreayKukanur) [Github](https://github.com/ATREAY) | Proficient in writing technical documentation and contributing to documentations of open-source projects. Expertise includes ReactJS, Next.js, Node.js, API documentation, writing coding tutorials in C/C++, Python, Java, and JavaScript. Skilled in summarizing technical SDKs.
 Ayush Sahu | [Portfolio](https://murdock9803.github.io/Ayush-Portfolio/) | Passionate JavaScript developer, knows API development, documentation. Can write to the point tutorials and documentation.
 Nathan Barbarick | [Portfolio](https://www.nathanbarbarick.com/), [résumé](https://www.nathanbarbarick.com/assets/nathan-barbarick-resume.pdf) | Information architecture 🏛️, site design 👨‍🎨, tutorials 🎓, web technologies 🕸️, multimedia 📽️.
