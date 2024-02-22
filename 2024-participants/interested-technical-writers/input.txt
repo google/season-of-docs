@@ -1,5 +1,3 @@
-EXAMPLE.md
-Dhairya-Majmudar.md
 DIVYANSHSRIVASTAVA.md
 DELETAAKRAM.md
 DAVID_COPELAND.md
@@ -32,4 +30,6 @@ MercyBassey.md
 MELISSALIGERTWOOD.md
 Ibukunoluwa.md
 FelixHirwaNshuti.md
+EXAMPLE.md
+Dhairya-Majmudar.md
 input.txt
