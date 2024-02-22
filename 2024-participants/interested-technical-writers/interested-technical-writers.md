@@ -22,11 +22,11 @@ To add your information to the [interested technical writers](./interested-techn
 
      **Important: Your entry should not include any line breaks. Do not include blank lines after your entry.**
 
-2. Save your Markdown file as YOURNAME.md. 
+1. Save your Markdown file as YOURNAME.md. 
 
     **Important: do not use any spaces in the filename**
 
-4. [Create a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) to add your file to the [interested-technical-writers](./interested-technical-writers) directory.
+1. [Create a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) to add your file to the [interested-technical-writers](./interested-technical-writers) directory.
 
 _NOTE: To add your information to this repo you will need to sign the Google CLA. For more information on the CLA, see [the Google CLA page](https://cla.developers.google.com/about)._
 

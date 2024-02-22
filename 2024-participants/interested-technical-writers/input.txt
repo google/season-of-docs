@@ -1,3 +1,11 @@
+shricodev.md
+rimjhimart.md
+remove.txt
+peace.md
+kelchikizito.md
+jamin.md
+interested-technical-writers.md
+ifihan.md
 file-preface.md
 clean-input.txt
 ayodele-aransiola.md
@@ -29,12 +37,4 @@ BARBARICK.md
 Ayush-Sahu.md
 AtreayKukanur.md
 AbhishekPatidar.md
-shricodev.md
-rimjhimart.md
-remove.txt
-peace.md
-kelchikizito.md
-jamin.md
-interested-technical-writers.md
-ifihan.md
 input.txt
