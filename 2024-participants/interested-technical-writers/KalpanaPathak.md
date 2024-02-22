@@ -1,10 +1,2 @@
-Kalpana Pathak | [Portfolio](https://kalpanapathak16.github.io/) | Skilled in the following documentation formats:
-* Software documentation (user and developer documentation, API Documentation, release notes, and hotfix readmes)
-* Videos
-* Online Help
-* Context-sensitive Help
-* FAQs
-
-Projects using programming languages:
-* [Data analysis of the best-selling book dataset](https://github.com/kalpanapathak16/Data-Analysis-of-best-selling-books-dataset/blob/main/Data%20Analysis%20of%20best-selling%20books%20dataset.md)
-* [How to document the description of code](https://kalpanapathak16.github.io/Exercises-Coding-for-Writers-Udemy-course/)
+Kalpana Pathak | [Portfolio](https://kalpanapathak16.github.io/) | Skilled in the following documentation formats: Software documentation (user and developer documentation, API Documentation, release notes, and hotfix readmes), Videos, Online Help, Context-sensitive Help, and FAQs.
+Projects using programming languages: [Data analysis of the best-selling book dataset](https://github.com/kalpanapathak16/Data-Analysis-of-best-selling-books-dataset/blob/main/Data%20Analysis%20of%20best-selling%20books%20dataset.md) and [How to document the description of code](https://kalpanapathak16.github.io/Exercises-Coding-for-Writers-Udemy-course/)
