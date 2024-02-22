@@ -1,0 +1,1 @@
+Ted Régis Kouhouenou |[Portfolio](https://tednoob17.github.com), [Github](https://github.com/Tednoob17), [Linkedin](www.linkedin.com/in/ted-kouhouenou-48b042239)  |Skilled in API documentation, C,Rust,Python Dev, writing tutorials, Wikipedia Contribution,Security Vulnerability checking, Linux
