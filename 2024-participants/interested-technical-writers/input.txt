@@ -1,6 +1,3 @@
-shricodev.md
-rimjhimart.md
-remove.txt
 peace.md
 kelchikizito.md
 jamin.md
@@ -32,4 +29,7 @@ CHARLESUNEZE.md
 BrunoFernandes.MD
 BARBARICK.md
 Ayush-Sahu.md
+shricodev.md
+rimjhimart.md
+remove.txt
 input.txt
