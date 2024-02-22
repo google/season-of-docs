@@ -1,9 +1,9 @@
 name: create markdown file
 
-on: #this makes it only so pushes to main trigger this (so when PRs are merged) (TODO remove test branch when merging back to main)
+on: 
   push:
     branches:
-      - main
+      - 'main'
 
 jobs:
   concatenate-files:
