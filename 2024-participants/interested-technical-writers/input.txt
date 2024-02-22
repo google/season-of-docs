@@ -1,4 +1,3 @@
-Ayush-Sahu.md
 shricodev.md
 rimjhimart.md
 remove.txt
@@ -34,4 +33,6 @@ CHISANE_MEALONI.md
 CHARLESUNEZE.md
 BrunoFernandes.MD
 BARBARICK.md
+Ayush-Sahu.md
+AtreayKukanur.md
 input.txt
