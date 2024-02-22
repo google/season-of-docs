@@ -24,6 +24,7 @@ jobs:
         globs: |
           2024-participants/interested-technical-writers/*.md
           !2024-participants/interested-technical-writers/file-preface.md
+          !2024-participants/interested-technical-writers/interested-technical-writers.md
     - name: Comment for PR title conformance
       if: failure()
       uses: peter-evans/create-or-update-comment@v4

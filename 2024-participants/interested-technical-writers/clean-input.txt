@@ -1,14 +1,18 @@
+AbhishekPatidar.md
+AtreayKukanur.md
 Ayush-Sahu.md
 BARBARICK.md
 BrunoFernandes.MD
 CHARLESUNEZE.md
 CHISANE_MEALONI.md
 DAVID_COPELAND.md
+DEBORAH.md
 DELETAAKRAM.md
 DIVYANSHSRIVASTAVA.md
 Dhairya-Majmudar.md
 FATUMAABDULLAHI.md
 FelixHirwaNshuti.md
+GannaZhyrnova.md
 Ibukunoluwa.md
 MELISSALIGERTWOOD.md
 MercyBassey.md
@@ -18,6 +22,7 @@ RoyalSimpsonPinto.md
 SAHILBHOSALE.md
 SHUBHAMPANCHAL.md
 SOOTERSAALU.md
+Ted_Kouhouenou.md
 Victor_oshimua.md
 adonese.md
 alokartist.md

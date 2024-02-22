@@ -22,11 +22,11 @@ To add your information to the [interested technical writers](./interested-techn
 
      **Important: Your entry should not include any line breaks. Do not include blank lines after your entry.**
 
-2. Save your Markdown file as YOURNAME.md. 
+1. Save your Markdown file as YOURNAME.md. 
 
     **Important: do not use any spaces in the filename**
 
-4. [Create a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) to add your file to the [interested-technical-writers](./interested-technical-writers) directory.
+1. [Create a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) to add your file to the [interested-technical-writers](./interested-technical-writers) directory.
 
 _NOTE: To add your information to this repo you will need to sign the Google CLA. For more information on the CLA, see [the Google CLA page](https://cla.developers.google.com/about)._
 
@@ -44,18 +44,21 @@ Use this directory to find technical writers who may be a good fit for your proj
 
 Technical Writer Name | Link to portfolio or CV | Interests/Experience
 --------------------- | ----------------------- | --------------------
+Abhishek Patidar | [Portfolio](https://1e9abhi1e10.github.io/) [Resume](https://drive.google.com/file/d/17VhwlX9VSeXPydvnP5c3VpgemEBHgc8p/view?usp=sharing) | Experienced Python developer with expertise in building web application APIs, documentation, tutorials, and more, eager to contribute to your project.
+Atreay Kukanur | [Twitter](https://twitter.com/AtreayKukanur) [LinkedIn](https://twitter.com/AtreayKukanur) [Github](https://github.com/ATREAY) | Proficient in writing technical documentation and contributing to documentations of open-source projects. Expertise includes ReactJS, Next.js, Node.js, API documentation, writing coding tutorials in C/C++, Python, Java, and JavaScript. Skilled in summarizing technical SDKs.
 Ayush Sahu | [Portfolio](https://murdock9803.github.io/Ayush-Portfolio/) | Passionate JavaScript developer, knows API development, documentation. Can write to the point tutorials and documentation.
 Nathan Barbarick | [Portfolio](https://www.nathanbarbarick.com/), [résumé](https://www.nathanbarbarick.com/assets/nathan-barbarick-resume.pdf) | Information architecture 🏛️, site design 👨‍🎨, tutorials 🎓, web technologies 🕸️, multimedia 📽️.
 Bruno Fernandes | [Portfolio](https://bfernandes.com) | [résumé](https://drive.google.com/file/d/17ilTX1o-YOtsoBC1yR0zIHYIBcxsEYqZ/view?usp=drive_link) | Skilled in writing tutorials, manuals and microtexts
 Charles Uneze | Portfolio: [LinkedIn](https://www.linkedin.com/in/charles-uneze-99b877196/), [Github](https://github.com/network-charles), [Blog](https://dev.to/charlesuneze) | Skilled in API documentation, writing tutorials.
 Chisaneme Aloni | [Portfolio](https://docs.google.com/document/d/1kZc0cKIzPOffhUUk-Wo6L5JeK9E74q9ZOpk-PE2vYUw/edit?usp=sharing) | Skilled in writing Tutorials, JavaScript, Python.
 David Bryant Copeland | [Portfolio](https://www.naildrivin5.com/tech-writing/index.html), [bio](https://www.naildrivin5.com/bio/index.html) | Experienced in API docs, long-form tutorials, short HOWTOs. Am an experienced programmer.
+Deborah Oyegue | [Portfolio](https://github.com/Dee-Tyan/publishedarticles) | Skilled in API documentation, writing tutorials (user manuals or how-to instructions), technical web content (online articles)
 Deleta Akram | [Portfolio](https://deardeleta.com) | Skilled in API documentation, user guides, tutorials, FAQs and onboarding material
 Divyansh Srivastava | [Portfolio](https://github.com/srivas-divyansh) | Skilled in documenting the projects related to AI/ML, written many project documentation of clubs and hackathon.
 Dhairya Majmudar | [Portfolio](dhaiyra-majmudar.netlify.app) | Skilled MERN stack and developing web application API, Documnetation, Tutorials, etc. ready to dive into your project.
 Fatuma Abdullahi | [Portfolio](https://blog.hijabicoder.dev), [FreeCodeCamp Author Profile](https://www.freecodecamp.org/news/author/fatuma) | **Interests:** API documentation, Contributing guides, How-To guides, In-depth tutorials, Open source and docs-as-code. **Technical skills:** Javascript, Typescript, Flutter and Dart, React and Next, Serverless, Git and GitHub, Markdown. **Open Source Contributions:** [Ocaml.org](https://github.com/ocaml/ocaml.org/pulls?q=is%3Apr+author%3AFatumaA+is%3Aclosed), [Supabase](https://github.com/supabase/supabase/pulls?q=is%3Apr+author%3AFatumaA+is%3Aclosed), [Supabase Community](https://github.com/supabase-community/flutter-auth-ui/pulls?q=is%3Apr+author%3AFatumaA+is%3Aclosed)
-
 Felix Hirwa Nshuti | [Portfolio](https://fnhirwa.com/), [résumé](https://fnhirwa.com/assets/resume.pdf) | Skilled in Python Frameworks development, and writing developer documentation. 
+Ganna Zhyrnova | [Portfolio](https://sites.google.com/view/tech-writer), [LinkedIn](https://www.linkedin.com/in/anna-z-5ba51517/) | Skilled in creating User guides
 Ibukunoluwa Oyetunji | [Portfolio](https://ibukunoluwa84.hashnode.dev/) |I craft technical documentation that serves as a guiding light for both novice learners and seasoned professionals alike. My tutorials not only show new concepts but also inspire curiosity, guiding readers on a journey of discovery through comprehensive explanations and practical examples. Through my writing, I strive to empower individuals to master hard subjects, building a community of confident, knowledgeable practitioners to innovate and thrive in the ever-evolving landscape of technology.
 Melissa Ligertwood | [GitHub Profile](https://github.com/TechWriterMelissa) | Skilled in content design, user experience, process documentation and knowledge base.
 MERCY BASSEY | [LinkedIn](https://www.linkedin.com/in/mercy-bassey-a18682192/), [Résumé](https://flowcv.com/resume/s7hvwupgsp) | Skilled in API documentation, writing tutorials and how-to guides related to Python, Go, Node.js, DevOps/IT, and Cloud Tech.
@@ -65,6 +68,7 @@ Royal Simpson Pinto | [Resume](https://drive.google.com/file/d/1JC2OL3foQn1JcimR
 Sahil Bhosale | [Website](https://liongueststudios.com/m), [LinkedIn](https://linkedin.com/in/sahilbhosale63), [YouTube](https://www.youtube.com/liongueststudios) | Experienced in articulating intricate technical subjects and creating user-friendly content through articles, written & video tutorials.
 Shubham Panchal | [Portfolio](https://shubham0204.github.io) | *how-to* and *concept+code* tutorials for Android, TF/PyTorch, Kotlin and Rust
 Sooter Saalu | [Portfolio](sootersaalu.disha.page) | Data and DevOps expert skilled in technical articles and API documentation
+Ted Régis Kouhouenou |[Portfolio](https://tednoob17.github.com), [Github](https://github.com/Tednoob17), [Linkedin](www.linkedin.com/in/ted-kouhouenou-48b042239)  |Skilled in API documentation, C,Rust,Python Dev, writing tutorials, Wikipedia Contribution,Security Vulnerability checking, Linux
 Victor oshimua | [Portfolio](https://github.com/cyberholics/My-technical-writing-portfolio) | Skilled in crafting technical content on data science and AI/ML, including how-to guides and tutorials. Experienced is implifying complex concepts for clear and engaging articles.
 Mohamed Yousif | [Portfolio](https://adonese.sd), [résumé](https://adonese.sd/bio) | Software Engineer, I love to write about fintech and software engineering
 ALOK KUMAR | [Resume](https://drive.google.com/file/d/1mrUEDp2dZfd_xT4Smvhu5mjkTP3Oltk_/view) | Proficient Technical Writer skilled in API documentation and writing tutorials, adept at simplifying complex concepts for diverse audiences. Eager to contribute expertise in creating clear and concise content for effective knowledge transfer.
