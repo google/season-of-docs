@@ -1,12 +1,3 @@
-MercyBassey.md
-MELISSALIGERTWOOD.md
-Ibukunoluwa.md
-FelixHirwaNshuti.md
-EXAMPLE.md
-Dhairya-Majmudar.md
-DIVYANSHSRIVASTAVA.md
-DELETAAKRAM.md
-DAVID_COPELAND.md
 CHARLESUNEZE.md
 BrunoFernandes.MD
 BARBARICK.md
@@ -31,4 +22,14 @@ SAHILBHOSALE.md
 RoyalSimpsonPinto.md
 Nuruddeen-Sambo.md
 NIDHI.md
+MercyBassey.md
+MELISSALIGERTWOOD.md
+Ibukunoluwa.md
+FelixHirwaNshuti.md
+EXAMPLE.md
+Dhairya-Majmudar.md
+DIVYANSHSRIVASTAVA.md
+DELETAAKRAM.md
+DAVID_COPELAND.md
+CHISANEMEALONI.md
 input.txt
