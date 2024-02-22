@@ -3,7 +3,7 @@ name: create markdown file
 on: 
   push:
     branches:
-      - 'main'
+      - main
 
 jobs:
   concatenate-files:
