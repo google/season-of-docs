@@ -49,7 +49,6 @@ Nathan Barbarick | [Portfolio](https://www.nathanbarbarick.com/), [résumé](htt
 Bruno Fernandes | [Portfolio](https://bfernandes.com) | [résumé](https://drive.google.com/file/d/17ilTX1o-YOtsoBC1yR0zIHYIBcxsEYqZ/view?usp=drive_link) | Skilled in writing tutorials, manuals and microtexts
 Charles Uneze | Portfolio: [LinkedIn](https://www.linkedin.com/in/charles-uneze-99b877196/), [Github](https://github.com/network-charles), [Blog](https://dev.to/charlesuneze) | Skilled in API documentation, writing tutorials.
 Chisaneme Aloni | [Portfolio](https://docs.google.com/document/d/1kZc0cKIzPOffhUUk-Wo6L5JeK9E74q9ZOpk-PE2vYUw/edit?usp=sharing) | Skilled in writing Tutorials, JavaScript, Python.
-
 David Bryant Copeland | [Portfolio](https://www.naildrivin5.com/tech-writing/index.html), [bio](https://www.naildrivin5.com/bio/index.html) | Experienced in API docs, long-form tutorials, short HOWTOs. Am an experienced programmer.
 Deleta Akram | [Portfolio](https://deardeleta.com) | Skilled in API documentation, user guides, tutorials, FAQs and onboarding material
 Divyansh Srivastava | [Portfolio](https://github.com/srivas-divyansh) | Skilled in documenting the projects related to AI/ML, written many project documentation of clubs and hackathon.
