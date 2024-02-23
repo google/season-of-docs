@@ -1,3 +1,5 @@
+AtreayKukanur.md
+AbhishekPatidar.md
 shricodev.md
 rimjhimart.md
 remove.txt
@@ -38,6 +40,4 @@ CHARLESUNEZE.md
 BrunoFernandes.MD
 BARBARICK.md
 Ayush-Sahu.md
-AtreayKukanur.md
-AbhishekPatidar.md
 input.txt
