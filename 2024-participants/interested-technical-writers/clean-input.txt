@@ -10,6 +10,7 @@ DEBORAH.md
 DELETAAKRAM.md
 DIVYANSHSRIVASTAVA.md
 Dhairya-Majmudar.md
+EzekielLawson.md
 FATUMAABDULLAHI.md
 FelixHirwaNshuti.md
 GannaZhyrnova.md
