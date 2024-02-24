@@ -70,7 +70,6 @@ Sahil Bhosale | [Website](https://liongueststudios.com/m), [LinkedIn](https://li
 Shubham Panchal | [Portfolio](https://shubham0204.github.io) | *how-to* and *concept+code* tutorials for Android, TF/PyTorch, Kotlin and Rust
 Sooter Saalu | [Portfolio](sootersaalu.disha.page) | Data and DevOps expert skilled in technical articles and API documentation
 `Shruti Tijare | [CV](https://drive.google.com/file/d/1ib2PPgp_OzchRd3wbCGylDoCtUWQBcWl/view?usp=sharing) | Specialized in creating comprehensive end user manuals, installa􀆟on guides, administra􀆟on guides, online help, and quick user guides`
-
 Ted Régis Kouhouenou |[Portfolio](https://tednoob17.github.com), [Github](https://github.com/Tednoob17), [Linkedin](www.linkedin.com/in/ted-kouhouenou-48b042239)  |Skilled in API documentation, C,Rust,Python Dev, writing tutorials, Wikipedia Contribution,Security Vulnerability checking, Linux
 Victor oshimua | [Portfolio](https://github.com/cyberholics/My-technical-writing-portfolio) | Skilled in crafting technical content on data science and AI/ML, including how-to guides and tutorials. Experienced is implifying complex concepts for clear and engaging articles.
 Mohamed Yousif | [Portfolio](https://adonese.sd), [résumé](https://adonese.sd/bio) | Software Engineer, I love to write about fintech and software engineering
