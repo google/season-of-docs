@@ -1,11 +1,3 @@
-AtreayKukanur.md
-AbhishekPatidar.md
-shricodev.md
-rimjhimart.md
-remove.txt
-peace.md
-kelchikizito.md
-jamin.md
 interested-technical-writers.md
 ifihan.md
 file-preface.md
@@ -16,6 +8,7 @@ alokartist.md
 adonese.md
 Victor_oshimua.md
 Ted_Kouhouenou.md
+ShrutiTijare.md
 SOOTERSAALU.md
 SHUBHAMPANCHAL.md
 SAHILBHOSALE.md
@@ -40,4 +33,12 @@ CHARLESUNEZE.md
 BrunoFernandes.MD
 BARBARICK.md
 Ayush-Sahu.md
+AtreayKukanur.md
+AbhishekPatidar.md
+shricodev.md
+rimjhimart.md
+remove.txt
+peace.md
+kelchikizito.md
+jamin.md
 input.txt
