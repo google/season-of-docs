@@ -1,0 +1,1 @@
+Ayush Shankar | [Portfolio](https://ayush23dash.github.io/) | Passionate Developer/technical writer, showcased my technical writing expertise during GSoC'23 @Processing. Skilled in documentation, flowcharts, writing how to tutorials for a project.
