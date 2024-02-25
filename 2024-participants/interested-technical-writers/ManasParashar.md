@@ -1,1 +1,1 @@
-Manas Parashar | [LinkedIn](www.linkedin.com/in/parasharmanas), [Medium](https://medium.com/@parashar__manas) | Skilled in writing about technology, including tech news, documentation, and case studies. Proficient in Data Analytics and Java.
+Manas Parashar | [LinkedIn](https://www.linkedin.com/in/parasharmanas), [Medium](https://medium.com/@parashar__manas) | Skilled in writing about technology, including tech news, documentation, and case studies. Proficient in Data Analytics and Java.
