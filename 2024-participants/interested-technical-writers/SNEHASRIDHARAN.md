@@ -1,0 +1,1 @@
+Sneha Sridharan | [Portfolio](https://letters4sneha.gitbook.io/sneha-sridharan/), [résumé](https://drive.google.com/file/d/1M6ocYaM24wcI1VOsbg2mBNLXVQnm2-_1/view?usp=drive_link) | Strong background in technical writing, with expertise in crafting developer-focused content for APIs, SDKs, and software products.
