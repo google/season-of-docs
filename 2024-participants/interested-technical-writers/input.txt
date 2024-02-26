@@ -1,12 +1,3 @@
-CHISANE_MEALONI.md
-CHARLESUNEZE.md
-BrunoFernandes.MD
-BARBARICK.md
-Ayush-Sahu.md
-AtreayKukanur.md
-AbhishekPatidar.md
-AMITESH.md
-shricodev.md
 shreshthsharma.md
 rimjhimart.md
 remove.txt
@@ -28,6 +19,7 @@ Ted_Kouhouenou.md
 SrinivasNishantViswanadha.md
 ShrutiTijare.md
 SayanBanerjee.md
+Satyabrata_Mohanty.md
 SOOTERSAALU.md
 SNEHASRIDHARAN.md
 SHUBHAMPANCHAL.md
@@ -54,4 +46,13 @@ DIVYANSHSRIVASTAVA.md
 DELETAAKRAM.md
 DEBORAH.md
 DAVID_COPELAND.md
+CHISANE_MEALONI.md
+CHARLESUNEZE.md
+BrunoFernandes.MD
+BARBARICK.md
+Ayush-Sahu.md
+AtreayKukanur.md
+AbhishekPatidar.md
+AMITESH.md
+shricodev.md
 input.txt
