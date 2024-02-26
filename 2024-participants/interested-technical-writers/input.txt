@@ -1,6 +1,3 @@
-JoshuaKato
-Ibukunoluwa.md
-Godwin_Ekuma.md
 GannaZhyrnova.md
 FelixHirwaNshuti.md
 FATUMAABDULLAHI.md
@@ -53,4 +50,7 @@ NIDHI.md
 MercyBassey.md
 ManasParashar.md
 MELISSALIGERTWOOD.md
+JoshuaKato
+Ibukunoluwa.md
+Godwin_Ekuma.md
 input.txt

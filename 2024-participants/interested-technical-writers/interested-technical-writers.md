@@ -67,7 +67,6 @@ Ibukunoluwa Oyetunji | [Portfolio](https://ibukunoluwa84.hashnode.dev/) |I craft
 Joshua Kato | [Portfolio](https://drive.google.com/file/d/1-bViQn_uvXODXudP9Dmr3Q6abdcxbcCz/view?usp=sharing) | Skilled in Javascript, Python, PHP, SQL,Ionic, Vue.js, API documentation, writing tutorials, performing docs audits
 Melissa Ligertwood | [GitHub Profile](https://github.com/TechWriterMelissa) | Skilled in content design, user experience, process documentation and knowledge base.
 Manas Parashar | [LinkedIn](https://www.linkedin.com/in/parasharmanas), [Medium](https://medium.com/@parashar__manas) | Skilled in writing about technology, including tech news, documentation, and case studies. Proficient in Data Analytics and Java.
-
 MERCY BASSEY | [LinkedIn](https://www.linkedin.com/in/mercy-bassey-a18682192/), [Résumé](https://flowcv.com/resume/s7hvwupgsp) | Skilled in API documentation, writing tutorials and how-to guides related to Python, Go, Node.js, DevOps/IT, and Cloud Tech.
 Nidhi Parab | [Portfolio](https://bento.me/nidhiparab), [Resume](https://drive.google.com/file/d/1jPAsmkWVE0VekavFc2XEu6uKdtuqBdQa/view?usp=drive_link) | Adept in Frontend documentation, React.js, Next.js, crafting engaging content, composing newsletters, and authoring technical blogs that inform and captivate audiences.
 Nuruddeen Sambo | [Portfolio](https://portfolio-pi-nine-13.vercel.app/) | Skilled in Software Development, Machine Learning, Open Source and Technical Writing
