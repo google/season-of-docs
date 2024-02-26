@@ -1,5 +1,3 @@
-shricodev.md
-shreshthsharma.md
 rimjhimart.md
 remove.txt
 peace.md
@@ -49,4 +47,6 @@ Ayush-Sahu.md
 AtreayKukanur.md
 AbhishekPatidar.md
 AMITESH.md
+shricodev.md
+shreshthsharma.md
 input.txt
