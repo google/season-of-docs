@@ -69,7 +69,6 @@ MERCY BASSEY | [LinkedIn](https://www.linkedin.com/in/mercy-bassey-a18682192/), 
 Nidhi Parab | [Portfolio](https://bento.me/nidhiparab), [Resume](https://drive.google.com/file/d/1jPAsmkWVE0VekavFc2XEu6uKdtuqBdQa/view?usp=drive_link) | Adept in Frontend documentation, React.js, Next.js, crafting engaging content, composing newsletters, and authoring technical blogs that inform and captivate audiences.
 Nuruddeen Sambo | [Portfolio](https://portfolio-pi-nine-13.vercel.app/) | Skilled in Software Development, Machine Learning, Open Source and Technical Writing
 Pratik Barai | [Portfolio](https://agreeable-smoke-0dea12700.4.azurestaticapps.net/) [Resume](https://drive.google.com/file/d/1BV4zLC5nyYzIZt4MOvURj2NbFpITCQmL/view?usp=sharing) [LinkedIn Profile](https://www.linkedin.com/in/pratik-barai-517437260/) | Skilled in C Language, HTML, Computer Networks, writing projects. Hobbies: Playing chess, reading books.
-
 Royal Simpson Pinto | [Resume](https://drive.google.com/file/d/1JC2OL3foQn1JcimRTkdUrB9z1K56sMdW/view?usp=sharing) | Expert in developer docs & ready to dive into your project!
 Sahil Bhosale | [Website](https://liongueststudios.com/m), [LinkedIn](https://linkedin.com/in/sahilbhosale63), [YouTube](https://www.youtube.com/liongueststudios) | Experienced in articulating intricate technical subjects and creating user-friendly content through articles, written & video tutorials.
 Shubham Panchal | [Portfolio](https://shubham0204.github.io) | *how-to* and *concept+code* tutorials for Android, TF/PyTorch, Kotlin and Rust
