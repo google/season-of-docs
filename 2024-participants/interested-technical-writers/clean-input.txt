@@ -41,4 +41,5 @@ jamin.md
 kelchikizito.md
 peace.md
 rimjhimart.md
+shreshthsharma.md
 shricodev.md
