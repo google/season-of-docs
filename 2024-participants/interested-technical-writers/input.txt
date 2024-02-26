@@ -1,8 +1,6 @@
-SayanBanerjee.md
-SOOTERSAALU.md
-SHUBHAMPANCHAL.md
 SAHILBHOSALE.md
 RoyalSimpsonPinto.md
+PRATIKBARAI.md
 Nuruddeen-Sambo.md
 NIDHI.md
 MercyBassey.md
@@ -45,4 +43,7 @@ adonese.md
 Victor_oshimua.md
 Ted_Kouhouenou.md
 ShrutiTijare.md
+SayanBanerjee.md
+SOOTERSAALU.md
+SHUBHAMPANCHAL.md
 input.txt
