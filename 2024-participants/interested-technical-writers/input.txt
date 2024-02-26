@@ -1,8 +1,3 @@
-alokartist.md
-adonese.md
-Victor_oshimua.md
-Ted_Kouhouenou.md
-ShrutiTijare.md
 SayanBanerjee.md
 SOOTERSAALU.md
 SHUBHAMPANCHAL.md
@@ -47,4 +42,9 @@ darksuei.md
 clean-input.txt
 christinebelzie.md
 ayodele-aransiola.md
+alokartist.md
+adonese.md
+Victor_oshimua.md
+Ted_Kouhouenou.md
+ShrutiTijare.md
 input.txt
