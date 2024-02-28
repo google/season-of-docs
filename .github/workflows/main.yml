@@ -6,7 +6,7 @@ on:
     paths: 
         - previous-seasons/2021-participants/interested-technical-writers.md
         - previous-seasons/2022-participants/interested-technical-writers.md
-        - 2023-participants/interested-technical-writers.md
+        - previous-seasons/2023-participants/interested-technical-writers.md
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -14,4 +14,4 @@ jobs:
     - uses: superbrothers/close-pull-request@v3
       with:
         # Optional. Post a issue comment just before closing a pull request.
-        comment: "The Google Season of Docs program is not currently in the technical writer recruitment phase, so we're closing this PR. Please feel free to subscribe to our [announcements list](https://groups.google.com/g/season-of-docs-announce) for information about upcoming Google Season of Docs programs."
+        comment: "This PR was opened against a past Google Season of Docs technical writers page, so we're closing this PR. Please feel free to subscribe to our [announcements list](https://groups.google.com/g/season-of-docs-announce) for information about upcoming Google Season of Docs programs."

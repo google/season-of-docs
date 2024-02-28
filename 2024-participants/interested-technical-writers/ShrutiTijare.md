@@ -1,0 +1,1 @@
+Shruti Tijare | [CV](https://drive.google.com/file/d/1ib2PPgp_OzchRd3wbCGylDoCtUWQBcWl/view?usp=sharing) | Specialized in creating comprehensive end user manuals, installa􀆟on guides, administra􀆟on guides, online help, and quick user guides

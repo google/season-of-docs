@@ -1,0 +1,1 @@
+Abhishek Patidar | [Portfolio](https://1e9abhi1e10.github.io/) [Resume](https://drive.google.com/file/d/17VhwlX9VSeXPydvnP5c3VpgemEBHgc8p/view?usp=sharing) | Experienced Python developer with expertise in building web application APIs, documentation, tutorials, and more, eager to contribute to your project.
