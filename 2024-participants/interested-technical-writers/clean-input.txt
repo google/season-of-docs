@@ -48,6 +48,7 @@ ifihan.md
 jamin.md
 kelchikizito.md
 peace.md
+peter-oyebanji.md
 rimjhimart.md
 shreshthsharma.md
 shricodev.md
