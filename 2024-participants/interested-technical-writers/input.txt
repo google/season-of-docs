@@ -1,8 +1,3 @@
-Victor_oshimua.md
-Ted_Kouhouenou.md
-SrinivasNishantViswanadha.md
-ShrutiTijare.md
-SayanBanerjee.md
 Satyabrata_Mohanty.md
 SOOTERSAALU.md
 SNEHASRIDHARAN.md
@@ -61,4 +56,9 @@ ayodele-aransiola.md
 alokartist.md
 adonese.md
 Yash-Pandey.md
+Victor_oshimua.md
+Ted_Kouhouenou.md
+SrinivasNishantViswanadha.md
+ShrutiTijare.md
+SayanBanerjee.md
 input.txt
