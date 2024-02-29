@@ -1,6 +1,7 @@
 ADITI.md
 AMITESH.md
 AbhishekPatidar.md
+Aluko.md
 AtreayKukanur.md
 Aviral-Srivastava.md
 Ayush-Sahu.md
