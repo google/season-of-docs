@@ -1,0 +1,1 @@
+Antonello Zanini | [Portfolio](https://github.com/Tonel) | Technical writer with millions of views. Skilled in writing tutorials, guides, and how-tos related to web development. Technologies I cover include JavaScript, Java, Kotlin, Next.js, React, and many others. Topics I cover include frontend development, backend development, web scraping, and more.
