@@ -1,0 +1,1 @@
+Aditi | [Resume](https://drive.google.com/file/d/1VXy_9GjVTs7UB-MJ_5RpLbxCtim4akdL/view?usp=sharing) | Proficient in writing technical documentation and API documentation in concise language for diverse audiences, including developers and non-technical users. Skilled in Python, Java, Frontend Development and GitHub.
