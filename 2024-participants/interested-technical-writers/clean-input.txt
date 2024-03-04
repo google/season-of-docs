@@ -3,6 +3,7 @@ AMITESH.md
 AbhishekPatidar.md
 AgnesNduta.md
 Aluko.md
+AntaraGupta.md
 AtreayKukanur.md
 Aviral-Srivastava.md
 Ayush-Sahu.md
