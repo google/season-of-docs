@@ -1,9 +1,3 @@
-rimjhimart.md
-remove.txt
-peter-oyebanji.md
-peace.md
-kelchikizito.md
-jamin.md
 interested-technical-writers.md
 ifihan.md
 file-preface.md
@@ -64,7 +58,14 @@ Aluko.md
 AgnesNduta.md
 AbhishekPatidar.md
 AMITESH.md
+AMARACHI_OMEREIFE.md
 ADITI.md
 shricodev.md
 shreshthsharma.md
+rimjhimart.md
+remove.txt
+peter-oyebanji.md
+peace.md
+kelchikizito.md
+jamin.md
 input.txt
