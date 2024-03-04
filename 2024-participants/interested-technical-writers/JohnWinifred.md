@@ -1,1 +1,1 @@
-John Winifred | [Portfolio](https://winifredjohn.hashnode.dev/) | [Resume](https://drive.google.com/file/d/1fIwhSM6sVPBfN9qtj5YKX8i-m0YZ3R0I/view?usp=sharing) | Skilled in API documentation, writing user end documentation and document design using visual aids.
+John Winifred | [Portfolio](https://winifredjohn.hashnode.dev/) | Skilled in API documentation, writing user-end documentation, and document design using visual aids.
