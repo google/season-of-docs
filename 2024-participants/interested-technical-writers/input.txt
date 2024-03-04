@@ -1,3 +1,13 @@
+BrunoFernandes.MD
+BARBARICK.md
+Ayush-Sahu.md
+Aviral-Srivastava.md
+AtreayKukanur.md
+Aluko.md
+AgnesNduta.md
+AbhishekPatidar.md
+AMITESH.md
+ADITI.md
 shricodev.md
 shreshthsharma.md
 rimjhimart.md
@@ -55,13 +65,4 @@ DEBORAH.md
 DAVID_COPELAND.md
 CHISANE_MEALONI.md
 CHARLESUNEZE.md
-BrunoFernandes.MD
-BARBARICK.md
-Ayush-Sahu.md
-Aviral-Srivastava.md
-AtreayKukanur.md
-Aluko.md
-AbhishekPatidar.md
-AMITESH.md
-ADITI.md
 input.txt
