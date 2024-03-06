@@ -1,3 +1,12 @@
+EzekielLawson.md
+EjiroUweghrepha.md
+EXAMPLE.md
+Dhriti_Mabian.md
+Dhairya-Majmudar.md
+DIVYANSHSRIVASTAVA.md
+DELETAAKRAM.md
+DEBORAH.md
+DAVID_COPELAND.md
 CHISANE_MEALONI.md
 CHARLESUNEZE.md
 BrunoFernandes.MD
@@ -66,13 +75,4 @@ Godwin_Ekuma.md
 GannaZhyrnova.md
 FelixHirwaNshuti.md
 FATUMAABDULLAHI.md
-EzekielLawson.md
-EjiroUweghrepha.md
-EXAMPLE.md
-Dhriti_Mabian.md
-Dhairya-Majmudar.md
-DIVYANSHSRIVASTAVA.md
-DELETAAKRAM.md
-DEBORAH.md
-DAVID_COPELAND.md
 input.txt
