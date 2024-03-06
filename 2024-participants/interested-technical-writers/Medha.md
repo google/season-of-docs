@@ -1,0 +1,1 @@
+Medha | [Portfolio](https://0cto.my.canva.site/) | Proficient in writing how-to-guides,tutorials and in-depth blogs about technology. I bring positive attitude and dedicated mindset with my technical writing skills. Skilled in Frontend, API and Databases.
