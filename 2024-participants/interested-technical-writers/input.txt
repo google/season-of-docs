@@ -1,3 +1,6 @@
+AbhijayJain.md
+AMITESH.md
+AMARACHI_OMEREIFE.md
 ADITI.md
 shricodev.md
 shreshthsharma.md
@@ -52,7 +55,7 @@ FATUMAABDULLAHI.md
 EzekielLawson.md
 EjiroUweghrepha.md
 EXAMPLE.md
-Dhriti_Mabian
+Dhriti_Mabian.md
 Dhairya-Majmudar.md
 DIVYANSHSRIVASTAVA.md
 DELETAAKRAM.md
@@ -71,7 +74,4 @@ AntaraGupta.md
 Aluko.md
 AgnesNduta.md
 AbhishekPatidar.md
-AbhijayJain.md
-AMITESH.md
-AMARACHI_OMEREIFE.md
 input.txt
