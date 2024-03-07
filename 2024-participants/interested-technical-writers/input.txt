@@ -1,5 +1,3 @@
-AMARACHI_OMEREIFE.md
-ADITI.md
 shricodev.md
 shreshthsharma.md
 rimjhimart.md
@@ -12,6 +10,7 @@ interested-technical-writers.md
 ifihan.md
 file-preface.md
 darksuei.md
+clean-input.txt
 christinebelzie.md
 ayush23Dash.md
 ayodele-aransiola.md
@@ -77,4 +76,6 @@ AgnesNduta.md
 AbhishekPatidar.md
 AbhijayJain.md
 AMITESH.md
+AMARACHI_OMEREIFE.md
+ADITI.md
 input.txt
