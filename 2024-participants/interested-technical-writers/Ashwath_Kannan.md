@@ -1,0 +1,1 @@
+Ashwath Kannan | [Resume](https://docs.google.com/document/d/1Zm4C4WydT0zPhikoXmnaD2VmgdqABwYHAeuhD8SoOKs/edit), [Linkedin](https://www.linkedin.com/in/ashwathkannan2k3/), [Medium](https://medium.com/@ash.me.cse) | Google Summer of Code'23 @ Oppia Foundation, Experience with Angular/Python/Kotlin/Cloud, Managed Oppia's Wiki and written technical tutorials.
