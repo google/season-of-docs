@@ -8,6 +8,7 @@ Aluko.md
 AntaraGupta.md
 AnuragBhat.md
 AryanParashar.md
+Ashwath_Kannan.md
 AtreayKukanur.md
 Aviral-Srivastava.md
 Ayush-Sahu.md
