@@ -44,6 +44,7 @@ NIDHI.md
 NOUMANWALI.md
 Nuruddeen-Sambo.md
 PRATIKBARAI.md
+ROHIT_SINGH.md
 RoyalSimpsonPinto.md
 SAHILBHOSALE.md
 SHUBHAMPANCHAL.md
