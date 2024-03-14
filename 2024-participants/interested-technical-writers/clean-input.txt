@@ -62,6 +62,7 @@ SayanBanerjee.md
 ShivaniMayekar.md
 ShrutiDeshpande.md
 ShrutiTijare.md
+SrihariThyagarajan.md
 SrinivasNishantViswanadha.md
 Syed_Omer_Shah.md
 Ted_Kouhouenou.md
