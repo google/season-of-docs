@@ -1,9 +1,3 @@
-interested-technical-writers.md
-ifihan.md
-file-preface.md
-darksuei.md
-clean-input.txt
-christinebelzie.md
 ayush23Dash.md
 ayodele-aransiola.md
 antonello-zanini.md
@@ -91,4 +85,10 @@ peace.md
 laura-langdon.md
 kelchikizito.md
 jamin.md
+interested-technical-writers.md
+ifihan.md
+file-preface.md
+darksuei.md
+clean-input.txt
+christinebelzie.md
 input.txt
