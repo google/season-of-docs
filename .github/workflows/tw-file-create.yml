@@ -1,0 +1,26 @@
+name: create markdown file
+
+on: 
+  push:
+    branches:
+      - main
+
+jobs:
+  concatenate-files:
+    runs-on: ubuntu-22.04
+    defaults:
+        run:
+          working-directory: 2024-participants/interested-technical-writers
+    permissions:
+        # Give the default GITHUB_TOKEN write permission to commit and push the changed files back to the repository.
+        contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: ls -tr  > input.txt  
+      - run: comm -23 <(sort input.txt) <(sort remove.txt) >clean-input.txt
+      - run: for f in $(cat clean-input.txt); do (cat "${f}"; echo) >> writers.md; done
+      - run: cat file-preface.md writers.md >interested-technical-writers.md
+      - run: rm writers.md
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+            commit_message: Update interested-technical-writers

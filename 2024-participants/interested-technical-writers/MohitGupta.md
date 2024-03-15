@@ -1,0 +1,1 @@
+Mohit Gupta | [Résumé](https://drive.google.com/file/d/14U2jGIw39TCLEZJG-xlssnkXCT_5Flht/view) [Portfolio](https://github.com/MohitGupta121/doc-portfolio) [LinkedIn](https://www.linkedin.com/in/mohitgupta121/) | Skilled in wiki documentation, writing tutorials and how-to guides related to Android, Bazel, Node.js, Kotlin, JavaScript, React.

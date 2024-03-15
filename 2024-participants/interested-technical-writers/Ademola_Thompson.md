@@ -1,0 +1,1 @@
+Ademola Thompson | [Profile](https://linktr.ee/superherojt) | I am skilled in writing API documentation and technical tutorials for the developer ecosystem. I understand the importance of technical education in marketing, community, and developer education and I am willing to help you achieve your goals. Some of my skill sets include Python, Django, JavaScript, and SQL.

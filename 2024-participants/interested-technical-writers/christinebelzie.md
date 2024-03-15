@@ -1,0 +1,1 @@
+Christine Belzie | [Portfolio](https://christinebelzie.carrd.co/), [FreeCodeCamp](https://www.freecodecamp.org/news/author/christine/) [Dev.to](https://dev.to/cbid2) | Skilled in creating tutorials, explainer pages, and articles that people in and out of tech can understand.

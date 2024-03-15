@@ -12,7 +12,7 @@ Use this format for your Markdown file.
 
   `Jane Doe | [Portfolio](https://janedoe.example.com) | Skilled in API documentation, writing tutorials`
  
-Save your Markdown file as YOURNAME.md. We will concatenate the files into a table and display it on the interested technical writers page, beginning Monday, February 19.
+Save your Markdown file as YOURNAME.md. We will concatenate the files into a table and display it on the [interested technical writers page](./interested-technical-writers/interested-technical-writers.md), beginning Monday, February 19.
 
 **If your Markdown file is not valid, it will not be displayed.**
   

@@ -1,0 +1,1 @@
+Okononfua Omodion David(Vinyl-Davyl) | [Portfolio](https://vinyldavyl.xyz),[Github](https://github.com/Vinyl-Davyl), [Medium](https://medium.com/@Vinyl-Davyl) | Experienced Fullstack and Frontend Engineer, Excellent at creating professional technical documentations such as API documentations,  how-to guides etc for Web Based and Web3 and Documentation based Projects.
