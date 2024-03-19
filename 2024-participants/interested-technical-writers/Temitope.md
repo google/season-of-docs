@@ -1,0 +1,4 @@
+[Temitope Oyedele](https://docs.google.com/document/d/1VaryKoWwgxP1pb2PNRId3pALwzqAVXM2P_RCvLWYO0o/edit?usp=sharing) is a software developer, technical writer, and DevOps enthusiast. He likes to write about things he's learned and experienced. With over [50 articles written on different platforms](https://linktr.ee/tkoded), he likes to explain complex concepts into simpler ones that readers can understand. he has successfully contributed to various projects, leveraging PHP, Laravel, Node.js, React JS, Svelte, Microfrontends, and modern JavaScript tools/frameworks to build robust web applications and also utilizing technologies such as GitHub, Docker, and Kubernetes.
+
+Skills:
+JavaScript, React, Angular, Vue, PHP, Laravel, Node.js, GO, CakePHP, DevOps, Technical writing, technical documentation.
