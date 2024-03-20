@@ -6,6 +6,7 @@ Organizations interested in participating in the 2024 Google Season of Docs shou
 
 | Project | Link to project ideas page |
 | ------- | -------------------------- |
+| [Electron](https://www.electronjs.org/) | [Electron: Season of Docs 2024 Project Ideas](https://electronhq.notion.site/Electron-Project-Ideas-72fabf58450d46d4ac7f6750fd92be52) |
 | [OpenJS Foundation](https://github.com/openjs-foundation/) | [OpenJS Foundation Season of Docs 2024](https://github.com/openjs-foundation/cross-project-council/blob/main/mentorship/2024/google-season-of-docs/README.md) |
 | [Organic Maps](https://github.com/organicmaps/organicmaps) | https://github.com/organicmaps/organicmaps/wiki/Google-Season-of-Docs-2024-Ideas |
 | [Public Utility Data Liberation project](https://github.com/catalyst-cooperative/pudl)| [PUDL Season of Docs 2024](https://github.com/orgs/catalyst-cooperative/discussions/3476) |
