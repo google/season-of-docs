@@ -1,1 +1,0 @@
-Daniel Adeniran | [Portfolio](https://linktr.ee/LordCodex) | [Resume] (https://docs.google.com/document/d/1laU7xyQzKBauwrm3HENfCe-xigtSRhBP3Oii4JA0JRU/) | Frontend Engineer With 2 years of experience, skilled in API documentation, and proficient in utilizing various software tools to create and manage multiple forms of documentation and developer education content.
