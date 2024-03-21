@@ -39,6 +39,7 @@ Ibukunoluwa.md
 JohnWinifred.md
 JoshuaKato
 MAHESH_KASBE.md
+MANVI_HARITWAL.md
 MELISSALIGERTWOOD.md
 ManasParashar.md
 ManikandanKurup.md
@@ -79,6 +80,7 @@ ayush23Dash.md
 christinebelzie.md
 darksuei.md
 ifihan.md
+ijeoma.md
 jamin.md
 kelchikizito.md
 laura-langdon.md
@@ -87,4 +89,5 @@ peter-oyebanji.md
 rimjhimart.md
 shreshthsharma.md
 shricodev.md
+tuhina.md
 vanithakumar.md
