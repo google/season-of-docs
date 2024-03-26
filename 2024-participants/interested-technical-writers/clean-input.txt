@@ -25,6 +25,7 @@ DAVID_COPELAND.md
 DEBORAH.md
 DELETAAKRAM.md
 DIVYANSHSRIVASTAVA.md
+Daniel_Adeniran.md
 DevangJagdale.md
 Dhairya-Majmudar.md
 Dhriti_Mabian.md
