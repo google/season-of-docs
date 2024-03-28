@@ -12,6 +12,7 @@ Organizations interested in participating in the 2024 Google Season of Docs shou
 | [Oppia](https://github.com/oppia) | [Oppia Season of Docs 2024](https://github.com/oppia/oppia/wiki/Season-of-Docs-2024) |
 | [Organic Maps](https://github.com/organicmaps/organicmaps) | https://github.com/organicmaps/organicmaps/wiki/Google-Season-of-Docs-2024-Ideas |
 | [Public Utility Data Liberation project](https://github.com/catalyst-cooperative/pudl)| [PUDL Season of Docs 2024](https://github.com/orgs/catalyst-cooperative/discussions/3476) |
+| [Redocly](https://github.com/Redocly/redocly-cli) | [Redocly: Season of Docs 2024 Proposal](https://redocly.com/gsod-2024-proposal) |
 | [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)| [Rocket.Chat Season of Docs 2024](https://github.com/RocketChat/google-season-of-docs/wiki/Google-Season-of-Docs-2024) |
 | Rocky Linux | https://rockylinux.org |
 | [Wikimedia Foundation](https://github.com/wikimedia) | [Season of Docs 2024](https://www.mediawiki.org/wiki/Season_of_Docs/2024) |
