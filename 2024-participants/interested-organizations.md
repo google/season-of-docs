@@ -6,6 +6,7 @@ Organizations interested in participating in the 2024 Google Season of Docs shou
 
 | Project | Link to project ideas page |
 | ------- | -------------------------- |
+| [Decidim](https://decidim.org/) | [Google Season of Docs 2024: Update docs.decidim.org to 0.28 redesigned version](https://github.com/decidim/decidim/discussions/12640) |
 | [Electron](https://www.electronjs.org/) | [Electron: Season of Docs 2024 Project Ideas](https://electronhq.notion.site/Electron-Project-Ideas-72fabf58450d46d4ac7f6750fd92be52) |
 | [HPX](https://github.com/STEllAR-GROUP/hpx) | [HPX: Season of Docs 2024](https://github.com/STEllAR-GROUP/hpx/wiki/GSoD-2024-Project-Ideas) |
 | [OpenJS Foundation](https://github.com/openjs-foundation/) | [OpenJS Foundation Season of Docs 2024](https://github.com/openjs-foundation/cross-project-council/blob/main/mentorship/2024/google-season-of-docs/README.md) |
