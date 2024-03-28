@@ -16,3 +16,4 @@ Organizations interested in participating in the 2024 Google Season of Docs shou
 | Rocky Linux | https://rockylinux.org |
 | [Wikimedia Foundation](https://github.com/wikimedia) | [Season of Docs 2024](https://www.mediawiki.org/wiki/Season_of_Docs/2024) |
 | Xen Project | https://cryptpad.fr/doc/#/2/doc/view/4VYeqv-QRpybiaInhvYcIxJdLz8FnyspA3A+uuGlFmc/ |
+| [OpenQuake Engine](https://github.com/gem/oq-engine) | [GEM Foundation - Season of Docs 2024](https://github.com/gem/oq-engine/wiki/Google-Season-of-Docs-2024-Project) |
