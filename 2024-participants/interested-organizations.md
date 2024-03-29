@@ -11,6 +11,7 @@ Organizations interested in participating in the 2024 Google Season of Docs shou
 | [Inkscape](https://inkscape.org/) | [Inkscape Season of Docs 2024](https://wiki.inkscape.org/wiki/Google_Season_of_Docs_2024) |
 | [Moonstream.to](https://github.com/moonstream-to/api) | [Moonstream: Season of Docs 2024](https://voracious-gerbil-120.notion.site/Moonstream-Project-Ideas-Season-of-Docs-2024-ae9af8492efd452b8dcf6df8b05b229a?pvs=4)
 | [OpenJS Foundation](https://github.com/openjs-foundation/) | [OpenJS Foundation Season of Docs 2024](https://github.com/openjs-foundation/cross-project-council/blob/main/mentorship/2024/google-season-of-docs/README.md) |
+| [OpenMined PySyft](https://github.com/OpenMined/PySyft) | [PySyft Season of Docs 2024 Proposal](https://docs.google.com/document/d/1fnSQQxoGaCNMpKhntM7vz24IvVPXhe8F1xjvtsSBZaY/) |
 | [Oppia](https://github.com/oppia) | [Oppia Season of Docs 2024](https://github.com/oppia/oppia/wiki/Season-of-Docs-2024) |
 | [Organic Maps](https://github.com/organicmaps/organicmaps) | https://github.com/organicmaps/organicmaps/wiki/Google-Season-of-Docs-2024-Ideas |
 | [Public Utility Data Liberation project](https://github.com/catalyst-cooperative/pudl)| [PUDL Season of Docs 2024](https://github.com/orgs/catalyst-cooperative/discussions/3476) |
