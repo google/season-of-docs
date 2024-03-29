@@ -8,6 +8,7 @@ Organizations interested in participating in the 2024 Google Season of Docs shou
 | ------- | -------------------------- |
 | [Electron](https://www.electronjs.org/) | [Electron: Season of Docs 2024 Project Ideas](https://electronhq.notion.site/Electron-Project-Ideas-72fabf58450d46d4ac7f6750fd92be52) |
 | [HPX](https://github.com/STEllAR-GROUP/hpx) | [HPX: Season of Docs 2024](https://github.com/STEllAR-GROUP/hpx/wiki/GSoD-2024-Project-Ideas) |
+| [Inkscape](https://inkscape.org/) | [Inkscape Season of Docs 2024](https://wiki.inkscape.org/wiki/Google_Season_of_Docs_2024) |
 | [OpenJS Foundation](https://github.com/openjs-foundation/) | [OpenJS Foundation Season of Docs 2024](https://github.com/openjs-foundation/cross-project-council/blob/main/mentorship/2024/google-season-of-docs/README.md) |
 | [Oppia](https://github.com/oppia) | [Oppia Season of Docs 2024](https://github.com/oppia/oppia/wiki/Season-of-Docs-2024) |
 | [Organic Maps](https://github.com/organicmaps/organicmaps) | https://github.com/organicmaps/organicmaps/wiki/Google-Season-of-Docs-2024-Ideas |
