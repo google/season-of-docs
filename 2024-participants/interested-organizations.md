@@ -9,6 +9,7 @@ Organizations interested in participating in the 2024 Google Season of Docs shou
 | [Electron](https://www.electronjs.org/) | [Electron: Season of Docs 2024 Project Ideas](https://electronhq.notion.site/Electron-Project-Ideas-72fabf58450d46d4ac7f6750fd92be52) |
 | [HPX](https://github.com/STEllAR-GROUP/hpx) | [HPX: Season of Docs 2024](https://github.com/STEllAR-GROUP/hpx/wiki/GSoD-2024-Project-Ideas) |
 | [OpenJS Foundation](https://github.com/openjs-foundation/) | [OpenJS Foundation Season of Docs 2024](https://github.com/openjs-foundation/cross-project-council/blob/main/mentorship/2024/google-season-of-docs/README.md) |
+| [OpenIM](https://openim.io) | https://github.com/openimsdk/google-season-of-docs/wiki/Google-Season-of-Docs-2024 |
 | [Oppia](https://github.com/oppia) | [Oppia Season of Docs 2024](https://github.com/oppia/oppia/wiki/Season-of-Docs-2024) |
 | [Organic Maps](https://github.com/organicmaps/organicmaps) | https://github.com/organicmaps/organicmaps/wiki/Google-Season-of-Docs-2024-Ideas |
 | [Public Utility Data Liberation project](https://github.com/catalyst-cooperative/pudl)| [PUDL Season of Docs 2024](https://github.com/orgs/catalyst-cooperative/discussions/3476) |
@@ -18,4 +19,3 @@ Organizations interested in participating in the 2024 Google Season of Docs shou
 | [sktime](https://www.sktime.net/) | [sktime 2024 GSoD projects](https://github.com/sktime/mentoring/blob/main/internships/gsod2024.md) |
 | [Wikimedia Foundation](https://github.com/wikimedia) | [Season of Docs 2024](https://www.mediawiki.org/wiki/Season_of_Docs/2024) |
 | Xen Project | https://cryptpad.fr/doc/#/2/doc/view/4VYeqv-QRpybiaInhvYcIxJdLz8FnyspA3A+uuGlFmc/ |
-| [OpenIM](https://github.com/openimsdk) | https://github.com/openimsdk/google-season-of-docs/wiki/Google-Season-of-Docs-2024 |
