@@ -6,6 +6,7 @@ Organizations interested in participating in the 2024 Google Season of Docs shou
 
 | Project | Link to project ideas page |
 | ------- | -------------------------- |
+| [Apache Dubbo](https://dubbo.apache.org/) | [Apache Dubbo Season of Docs 2024 Proposal](https://github.com/apache/dubbo/discussions/14010) |
 | [Electron](https://www.electronjs.org/) | [Electron: Season of Docs 2024 Project Ideas](https://electronhq.notion.site/Electron-Project-Ideas-72fabf58450d46d4ac7f6750fd92be52) |
 | [HPX](https://github.com/STEllAR-GROUP/hpx) | [HPX: Season of Docs 2024](https://github.com/STEllAR-GROUP/hpx/wiki/GSoD-2024-Project-Ideas) |
 | [Inkscape](https://inkscape.org/) | [Inkscape Season of Docs 2024](https://wiki.inkscape.org/wiki/Google_Season_of_Docs_2024) |
