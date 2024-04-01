@@ -7,6 +7,7 @@ Organizations interested in participating in the 2024 Google Season of Docs shou
 | Project | Link to project ideas page |
 | ------- | -------------------------- |
 | [Electron](https://www.electronjs.org/) | [Electron: Season of Docs 2024 Project Ideas](https://electronhq.notion.site/Electron-Project-Ideas-72fabf58450d46d4ac7f6750fd92be52) |
+| [GeomScale](https://geomscale.github.io/) | [GeomScale: Season of Docs 2024](https://geomscale.github.io/GeomScale-tutorials/) |
 | [HPX](https://github.com/STEllAR-GROUP/hpx) | [HPX: Season of Docs 2024](https://github.com/STEllAR-GROUP/hpx/wiki/GSoD-2024-Project-Ideas) |
 | [Inkscape](https://inkscape.org/) | [Inkscape Season of Docs 2024](https://wiki.inkscape.org/wiki/Google_Season_of_Docs_2024) |
 | [Moonstream.to](https://github.com/moonstream-to/api) | [Moonstream: Season of Docs 2024](https://voracious-gerbil-120.notion.site/Moonstream-Project-Ideas-Season-of-Docs-2024-ae9af8492efd452b8dcf6df8b05b229a?pvs=4)
