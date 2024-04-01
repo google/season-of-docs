@@ -9,6 +9,7 @@ Organizations interested in participating in the 2024 Google Season of Docs shou
 | [Apache Dubbo](https://dubbo.apache.org/) | [Apache Dubbo Season of Docs 2024 Proposal](https://github.com/apache/dubbo/discussions/14010) |
 | [Electron](https://www.electronjs.org/) | [Electron: Season of Docs 2024 Project Ideas](https://electronhq.notion.site/Electron-Project-Ideas-72fabf58450d46d4ac7f6750fd92be52) |
 | [GeomScale](https://geomscale.github.io/) | [GeomScale: Season of Docs 2024](https://geomscale.github.io/GeomScale-tutorials/) |
+| [Haskell Foundation](https://haskell.foundation) | [Haskell Cabal: Season of Docs 2024](https://docs.google.com/document/d/1jGeo2kfFZlu8mMRmzWEPis-JP80zT6mmqXCRTn1BRbk/edit?usp=sharing) |
 | [HPX](https://github.com/STEllAR-GROUP/hpx) | [HPX: Season of Docs 2024](https://github.com/STEllAR-GROUP/hpx/wiki/GSoD-2024-Project-Ideas) |
 | [Inkscape](https://inkscape.org/) | [Inkscape Season of Docs 2024](https://wiki.inkscape.org/wiki/Google_Season_of_Docs_2024) |
 | [Layer5](https://layer5.io/) | [Layer5 Season of Docs 2024](https://layer5.io/programs/gsod) |
