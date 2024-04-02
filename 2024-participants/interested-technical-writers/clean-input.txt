@@ -8,6 +8,7 @@ AbhishekPatidar.md
 AchiugoTrust.md
 Ademola_Thompson.md
 AgnesNduta.md
+AksshayBalasubramanian.md
 Aluko.md
 AntaraGupta.md
 AnuragBhat.md
@@ -60,9 +61,11 @@ NOUMANWALI.md
 Nuruddeen-Sambo.md
 PRATIKBARAI.md
 ROHIT_SINGH.md
+RohanKumarSingh.md
 RoyalSimpsonPinto.md
 SAHILBHOSALE.md
 SHUBHAMPANCHAL.md
+SHUBHENDRA.md
 SNEHASRIDHARAN.md
 SOOTERSAALU.md
 Satyabrata_Mohanty.md
@@ -93,6 +96,7 @@ ijeoma.md
 jamin.md
 kelchikizito.md
 laura-langdon.md
+nikhila-jain.md
 peace.md
 peter-oyebanji.md
 rimjhimart.md
