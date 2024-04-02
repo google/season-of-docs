@@ -29,6 +29,7 @@ Organizations interested in participating in the 2024 Google Season of Docs shou
 | [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)| [Rocket.Chat Season of Docs 2024](https://github.com/RocketChat/google-season-of-docs/wiki/Google-Season-of-Docs-2024) |
 | Rocky Linux | https://rockylinux.org |
 | [sktime](https://www.sktime.net/) | [sktime 2024 GSoD projects](https://github.com/sktime/mentoring/blob/main/internships/gsod2024.md) |
+| [Ushahidi](https://github.com/ushahidi) | [Ushahidi Season of Docs 2024](https://docs.ushahidi.com/hackathon-and-events/hackathon-and-events-homepage/google-season-of-docs/google-season-of-docs-2024)|
 | [V-pipe](https://github.com/cbg-ethz/V-pipe/) | [Enable other centers to replicate our surveillance of viral variants in wwastewater through better tutorials](https://gist.github.com/DrYak/ed38215519683ccd5c4657760050add7) |
 | [Wikimedia Foundation](https://github.com/wikimedia) | [Season of Docs 2024](https://www.mediawiki.org/wiki/Season_of_Docs/2024) |
 | Xen Project | https://cryptpad.fr/doc/#/2/doc/view/4VYeqv-QRpybiaInhvYcIxJdLz8FnyspA3A+uuGlFmc/ |
