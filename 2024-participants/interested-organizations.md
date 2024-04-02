@@ -19,6 +19,7 @@ Organizations interested in participating in the 2024 Google Season of Docs shou
 | [OpenIM](https://openim.io) | https://github.com/openimsdk/google-season-of-docs/wiki/Google-Season-of-Docs-2024 |
 | [OpenMined PySyft](https://github.com/OpenMined/PySyft) | [PySyft Season of Docs 2024 Proposal](https://docs.google.com/document/d/1fnSQQxoGaCNMpKhntM7vz24IvVPXhe8F1xjvtsSBZaY/) |
 | [OpenMS](https://openms.de) | [OpenMS Season of Docs 2024 Proposal](https://github.com/OpenMS/OpenMS/wiki/Google-Season-of-Docs-2024-Proposal-for-a-Chatbot-for-OpenMS-Documentation) |
+| [OpenQuake Engine](https://github.com/gem/oq-engine) | [GEM Foundation - Season of Docs 2024](https://github.com/gem/oq-engine/wiki/Google-Season-of-Docs-2024-Project) |
 | [Oppia](https://github.com/oppia) | [Oppia Season of Docs 2024](https://github.com/oppia/oppia/wiki/Season-of-Docs-2024) |
 | [Organic Maps](https://github.com/organicmaps/organicmaps) | https://github.com/organicmaps/organicmaps/wiki/Google-Season-of-Docs-2024-Ideas |
 | [Public Utility Data Liberation project](https://github.com/catalyst-cooperative/pudl)| [PUDL Season of Docs 2024](https://github.com/orgs/catalyst-cooperative/discussions/3476) |
