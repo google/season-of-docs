@@ -1,0 +1,1 @@
+Diana Cheung | [Portfolio](https://dianacheung.github.io/MeetDianaCheung/), [LinkedIn](https://www.linkedin.com/in/meetdianacheung/) | Skilled in developer experience content, e.g. conceptual explainers, tutorials, and API documentation. Interested in AI tech and dev tools. Experienced software engineer in JavaScript and Python.
