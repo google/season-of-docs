@@ -6,7 +6,6 @@ Organizations interested in participating in the 2024 Google Season of Docs shou
 
 | Project | Link to project ideas page |
 | ------- | -------------------------- |
-=======
 | [Aboutcode](https://github.com/nexB/aboutcode) | [AboutCode Season of Docs 2024 Proposal](https://github.com/nexB/aboutcode/wiki/GSOD-2024-Proposal) |
 | [Accord Project](https://github.com/accordproject) | [Accord Project Season of Docs 2024 Proposal](https://github.com/accordproject/techdocs/wiki/Google-Season-of-Docs-2024) |
 | [Apache Dubbo](https://dubbo.apache.org/) | [Apache Dubbo Season of Docs 2024 Proposal](https://github.com/apache/dubbo/discussions/14010) |
