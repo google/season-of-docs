@@ -9,6 +9,7 @@ Organizations interested in participating in the 2024 Google Season of Docs shou
 | [Aboutcode](https://github.com/nexB/aboutcode) | [AboutCode Season of Docs 2024 Proposal](https://github.com/nexB/aboutcode/wiki/GSOD-2024-Proposal) |
 | [Accord Project](https://github.com/accordproject) | [Accord Project Season of Docs 2024 Proposal](https://github.com/accordproject/techdocs/wiki/Google-Season-of-Docs-2024) |
 | [Apache Dubbo](https://dubbo.apache.org/) | [Apache Dubbo Season of Docs 2024 Proposal](https://github.com/apache/dubbo/discussions/14010) |
+| [Decidim](https://decidim.org/) | [Google Season of Docs 2024: Update docs.decidim.org to 0.28 redesigned version](https://github.com/decidim/decidim/discussions/12640) |
 | [Electron](https://www.electronjs.org/) | [Electron: Season of Docs 2024 Project Ideas](https://electronhq.notion.site/Electron-Project-Ideas-72fabf58450d46d4ac7f6750fd92be52) |
 | [GeomScale](https://geomscale.github.io/) | [GeomScale: Season of Docs 2024](https://geomscale.github.io/GeomScale-tutorials/) |
 | [Haskell Foundation](https://haskell.foundation) | [Haskell Cabal: Season of Docs 2024](https://docs.google.com/document/d/1jGeo2kfFZlu8mMRmzWEPis-JP80zT6mmqXCRTn1BRbk/edit?usp=sharing) |
