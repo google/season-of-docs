@@ -1,0 +1,1 @@
+Timonwa Akintokun | [Blog](https://timonwa.com/blog), [CV](https://timonwa.com/cv), [LinkedIn](https://www.linkedin.com/in/timonwa/), [GitHub](https://github.com/Timonwa) | I am a software engineer who loves to break down technical stuff into the simplest terms. I am interested in writing tutorials, guides, and documentation.

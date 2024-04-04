@@ -1,0 +1,1 @@
+Akande Olalekan Toheeb | [Portfolio](https://akande-olalekan.vercel.app/), [résumé](https://drive.google.com/file/d/1lVcOSk2W8iAOmoumlUcJWRV-uryn7mut/view?usp=sharing) | Skilled in API documentation, writing tutorials, how-to guides. I am also a front-end and AWS Cloud enthusiast who is proficient in  javascript, typescript, jQuery, react, and AWS Cloud technologies. 
