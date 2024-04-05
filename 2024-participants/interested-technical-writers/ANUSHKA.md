@@ -1,0 +1,1 @@
+Anushka Saxena | [LinkedIn](https://www.linkedin.com/in/-anushka-saxena), [GitHub](https://github.com/SaxenaAnushka102), [Portfolio](https://saxenaanushka102.github.io/) | Proficient in API documentation, Technical blog writing, Project setup manuals, preparing detailed how-to guides, Software tutorials
