@@ -1,0 +1,1 @@
+Abdul Ahad | [resume](https://drive.google.com/file/d/1BpH1_umRd6QzTagYQP6XEMdRNMGUDX39/view?usp=drive_link) | Proficient in writing technical documentation and API documentation in concise language. Skilled in Python, Java,c/c++, Frontend Development and GitHub.
