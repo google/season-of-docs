@@ -1,1 +1,1 @@
-Arinima Gupta | [Resume](https://drive.google.com/file/d/1NQy5gmhpm6HP0QUj7aKpFGSUP-FrblsB/view?usp=sharing) | Skilled in IDE, Compiler APIs, Embeds Documentation, Worked for an Assessments Platform, Writing Blogs and Tutorials.
+Arinima Gupta | [Resume](https://drive.google.com/file/d/1NQy5gmhpm6HP0QUj7aKpFGSUP-FrblsB/view?usp=sharing) | Skilled in IDE, Compiler APIs and Embeds Documentation, Worked for an Assessments Platform, Writing Blogs and Tutorials.
