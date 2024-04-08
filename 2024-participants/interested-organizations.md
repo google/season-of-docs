@@ -29,7 +29,7 @@ Organizations interested in participating in the 2024 Google Season of Docs shou
 | [Public Utility Data Liberation project](https://github.com/catalyst-cooperative/pudl)| [PUDL Season of Docs 2024](https://github.com/orgs/catalyst-cooperative/discussions/3476) |
 | [Redocly](https://github.com/Redocly/redocly-cli) | [Redocly: Season of Docs 2024 Proposal](https://redocly.com/gsod-2024-proposal) |
 | [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)| [Rocket.Chat Season of Docs 2024](https://github.com/RocketChat/google-season-of-docs/wiki/Google-Season-of-Docs-2024) |
-| Rocky Linux | https://rockylinux.org |
+| [Rocky Linux](https://rockylinux.org/) | [Rocky Linux Season of Docs Project 2024](https://docs.google.com/document/u/4/d/e/2PACX-1vSjNQA8DKZNc4KKfVhTtsl5Df4nqGr0cDKl5K3cB1_8nPHMj5Ff6-cmIvJenTMbBka-AvdjxSZKF02B/pub) |
 | [sktime](https://www.sktime.net/) | [sktime 2024 GSoD projects](https://github.com/sktime/mentoring/blob/main/internships/gsod2024.md) |
 | [Ushahidi](https://github.com/ushahidi) | [Ushahidi Season of Docs 2024](https://docs.ushahidi.com/hackathon-and-events/hackathon-and-events-homepage/google-season-of-docs/google-season-of-docs-2024)|
 | [V-pipe](https://github.com/cbg-ethz/V-pipe/) | [Enable other centers to replicate our surveillance of viral variants in wwastewater through better tutorials](https://gist.github.com/DrYak/ed38215519683ccd5c4657760050add7) |
