@@ -16,6 +16,7 @@ AnshSarkar.md
 AntaraGupta.md
 Antima_Dwivedi.md
 AnuragBhat.md
+Arinima_Gupta.md
 AryanParashar.md
 Ashwath_Kannan.md
 AtreayKukanur.md
