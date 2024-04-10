@@ -90,6 +90,7 @@ SOOTERSAALU.md
 Salima-Rabiu.md
 Satyabrata_Mohanty.md
 SayanBanerjee.md
+SegunLight.md
 ShivaniMayekar.md
 ShravanGoswami.md
 ShreyaPrasad.md
