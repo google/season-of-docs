@@ -73,6 +73,7 @@ NIDHI.md
 NOUMANWALI.md
 Nuruddeen-Sambo.md
 PRATIKBARAI.md
+PranavBarthwal.md
 PrinceOnyeanuna.md
 ROHIT_SINGH.md
 RohanKumarSingh.md
