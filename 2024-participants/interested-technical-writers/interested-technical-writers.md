@@ -22,7 +22,7 @@ To add your information to the [interested technical writers](./interested-techn
 
      **Important: Your entry should not include any line breaks. Do not include blank lines after your entry.**
 
-1. Save your Markdown file as YOURNAME.md. 
+1. Save your Markdown file as YOURNAME.md.
 
     **Important: do not use any spaces in the filename**
 
@@ -128,6 +128,7 @@ Rohan Kumar Singh | [Portfolio](https://rohanhbtu.github.io/) [Resume](https://d
 Royal Simpson Pinto | [Resume](https://drive.google.com/file/d/1JC2OL3foQn1JcimRTkdUrB9z1K56sMdW/view?usp=sharing) | Expert in developer docs & ready to dive into your project!
 Sahil Bhosale | [Website](https://liongueststudios.com/m), [LinkedIn](https://linkedin.com/in/sahilbhosale63), [YouTube](https://www.youtube.com/liongueststudios) | Experienced in articulating intricate technical subjects and creating user-friendly content through articles, written & video tutorials.
 Satvik Sawhney | [Portfolio](https://sawhneysatvik.github.io/me), [Resume Link]([https://drive.google.com/file/d/16DO4llCqsXw_NyVq8Y631MQbDAotECqF/view](https://drive.google.com/file/d/1CV42StnL6V3Q2CiE7yJ_xYFT99j1OCOO/view?usp=sharing)), [Linkedin](https://www.linkedin.com/in/sawhneysatvik/) | Proficient in writing comprehensive documentation and engaging content, as demonstrated through my GitHub repositories and LinkedIn posts. I am a second-year student pursuing a BTech in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning, with knowledge in web development.
+Segun Light Olumide | [Resume](https://docs.google.com/document/d/1RTy5byEk9DvVre60yYN4vALYKLQx0rM9zv8PnFmcgKI), [Linkedin](https://linkedin.com/in/wonexo) |  I have been working as a technical writer for five years now. I have worked on SeasonOfDocs open-source projects such as Fastify and Ushahidi during this period. I have experience creating API documentation, user guides, and other product documentation. Recently, I had the opportunity to work with [Chris Chinchilla](https://github.com/ChrisChinchilla), the author of the book "[Technical Writing for Software Developers](https://www.packtpub.com/product/technical-writing-for-software-developers/9781835080405)," as a reviewer for Packt.
 Shubham Panchal | [Portfolio](https://shubham0204.github.io) | *how-to* and *concept+code* tutorials for Android, TF/PyTorch, Kotlin and Rust
 Shubhendra Singh Chauhan | [LinkedIn](https://www.linkedin.com/in/withshubh/), [Dev.to](https://dev.to/camelcaseguy), [Portfolio](http://camelcaseguy.com) | I have over three years of experience as a Developer Advocate, focusing on creating developer education content and product and API documentation. My work involves making complex technical concepts easy to understand for developers, using tutorials, guides, and documentation that speak directly to their needs. I use Docs-as-Code practices to keep documentation up-to-date alongside software development, ensuring materials are both accessible and practical for developer workflows.
 Sneha Sridharan | [Portfolio](https://letters4sneha.gitbook.io/sneha-sridharan/), [résumé](https://drive.google.com/file/d/1M6ocYaM24wcI1VOsbg2mBNLXVQnm2-_1/view?usp=drive_link) | Strong background in technical writing, with expertise in crafting developer-focused content for APIs, SDKs, and software products.
