@@ -1,11 +1,3 @@
-EzekielLawson.md
-EmmanuelUgwu
-EleekaN.md
-EjiroUweghrepha.md
-EXAMPLE.md
-DivyaSahni.md
-DinithiDias.md
-DianaCheung.md
 Dhriti_Mabian.md
 Dhairya-Majmudar.md
 DevangJagdale.md
@@ -138,4 +130,12 @@ GannaZhyrnova.md
 FortuneObadiah.md.
 FelixHirwaNshuti.md
 FATUMAABDULLAHI.md
+EzekielLawson.md
+EmmanuelUgwu
+EleekaN.md
+EjiroUweghrepha.md
+EXAMPLE.md
+DivyaSahni.md
+DinithiDias.md
+DianaCheung.md
 input.txt

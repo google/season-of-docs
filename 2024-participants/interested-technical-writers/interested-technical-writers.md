@@ -76,7 +76,6 @@ Bruno Fernandes | [Portfolio](https://bfernandes.com) | [résumé](https://drive
 Charles Uneze | Portfolio: [LinkedIn](https://www.linkedin.com/in/charles-uneze-99b877196/), [Github](https://github.com/network-charles), [Blog](https://dev.to/charlesuneze) | Skilled in API documentation, writing tutorials.
 Chisaneme Aloni | [Portfolio](https://docs.google.com/document/d/1kZc0cKIzPOffhUUk-Wo6L5JeK9E74q9ZOpk-PE2vYUw/edit?usp=sharing) | Skilled in writing Tutorials, JavaScript, Python.
 Chirag Lalwani | [Portfolio](https://lalwanichirag.netlify.app), [Resume](https://drive.google.com/file/d/1ubbACEWUNxYkTAeoWLf0jjGaudQbs2jH/view?usp=sharing), [LinkedIn](https://www.linkedin.com/in/chirag-lalwani-437b7b206/)| Expertise in academic research methodologies, I have contributed to multiple research papers that have been recognized in student conferences and journals. Proficient in using Python, Data Analysis, Machine Learning.
-
 David Bryant Copeland | [Portfolio](https://www.naildrivin5.com/tech-writing/index.html), [bio](https://www.naildrivin5.com/bio/index.html) | Experienced in API docs, long-form tutorials, short HOWTOs. Am an experienced programmer.
 Deborah Oyegue | [Portfolio](https://github.com/Dee-Tyan/publishedarticles) | Skilled in API documentation, writing tutorials (user manuals or how-to instructions), technical web content (online articles)
 Deleta Akram | [Portfolio](https://deardeleta.com) | Skilled in API documentation, user guides, tutorials, FAQs and onboarding material
