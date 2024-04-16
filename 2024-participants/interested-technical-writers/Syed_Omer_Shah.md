@@ -1,0 +1,1 @@
+Syed Omer Shah | [Resume](https://drive.google.com/file/d/1P5U2Ya_Yh0KTKtGro3PtnTHexW_OjSwH/view?usp=drivesdk) [LinkedIn](https://www.linkedin.com/in/syed-omer-shah) | Skilled in Software Development, Machine Learning, Open Source and Technical Writing

@@ -1,0 +1,34 @@
+name: create-tw-list
+on:
+  pull_request_target:
+    types: [opened, edited]
+    paths: 2024-participants/interested-technical-writers/*.md
+jobs:
+  lint:
+    permissions:
+      pull-requests: write
+    name: lint-pr
+    runs-on: ubuntu-latest
+    steps:
+    - name: checkout
+      uses: actions/checkout@v4
+      with:
+        ref: "${{ github.event.pull_request.head.sha }}"
+        repository: ${{github.event.pull_request.head.repo.full_name}}
+        persist-credentials: false
+    - name: lint
+      uses: DavidAnson/markdownlint-cli2-action@v15
+      with:
+        config: '.markdownlint-cli2.yaml'
+        fix: true
+        globs: |
+          2024-participants/interested-technical-writers/*.md
+          !2024-participants/interested-technical-writers/file-preface.md
+          !2024-participants/interested-technical-writers/interested-technical-writers.md
+    - name: Comment for PR title conformance
+      if: failure()
+      uses: peter-evans/create-or-update-comment@v4
+      with:
+       issue-number: ${{tojson(github.event.number)}}
+       body: |
+        Your Markdown file is not valid.

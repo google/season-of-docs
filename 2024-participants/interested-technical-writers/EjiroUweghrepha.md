@@ -1,0 +1,1 @@
+Ejiro Uweghrepha | [Portfolio](https://personal-portfolio-beta-seven.vercel.app/), [résumé](https://docs.google.com/document/d/1A0uHOEbfKmd9lwq1qd7-X_DwlG6fuwixXAxoZ27HEwE/edit?usp=sharing) | Proficient in Technical Tutorials, Articles, How-to-Guides, Simplifying content for diverse audience.

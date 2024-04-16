@@ -1,0 +1,1 @@
+Abdul Ahad | [own website](https://www.moviemanialand.online/) | Proficient in writing technical documentation and API documentation in concise language. Skilled in Python, Java,c/c++, Frontend Development and GitHub.

@@ -1,0 +1,1 @@
+Meg Cornell | [Portfolio](https://mmcportfolio.s3.ca-central-1.amazonaws.com/index.html), [LinkedIn](https://www.linkedin.com/in/mcornell-663/) |  Technical Writer, Technology Educator, and Technology Enthusiast

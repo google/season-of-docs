@@ -1,0 +1,1 @@
+Peter Oyebanji | [Portfolio](https://peter-oyebanji.netlify.app/), [Resume](https://drive.google.com/file/d/1_-7lP6UAjpHWFYEjnM2TVyAtHaLrxt98/view?usp=drive_link) | Technical Writer, experience documenting software development and creating user-centered guides, skilled with SQL and JavaScript 

@@ -1,0 +1,1 @@
+Manikandan Kurup | [List of published books](https://docs.google.com/spreadsheets/d/1wq5YPRHlVjSimRav5l3HI5l_iBAi5pNPDHGzvaH-7JU/edit?usp=sharing), [Resume](https://drive.google.com/file/d/1gi0lAYpmiHq-obVPRoqjj0v68Ayi1XWf/view?usp=sharing)| Skilled editor specializing in data science content, tech enthusiast, and a lifelong learner

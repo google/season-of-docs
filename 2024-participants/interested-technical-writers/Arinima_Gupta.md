@@ -1,0 +1,1 @@
+Arinima Gupta | [Resume](https://drive.google.com/file/d/1NQy5gmhpm6HP0QUj7aKpFGSUP-FrblsB/view?usp=sharing) [LinkedIn](https://www.linkedin.com/in/arinima-gupta/) | Skilled in curating How-to Guides for IDE platform, Worked for Compiler APIs and Embeds Documentation, Promoted an Assessments Platform, Writing Technical Blogs and Programming Language Tutorials.
