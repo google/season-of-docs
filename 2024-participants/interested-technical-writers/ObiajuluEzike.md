@@ -1,0 +1,1 @@
+Obiajulu Ezike | [Portfolio](https://obiezike.vercel.app), [blog](https://de-marauder.hashnode.dev), [Resume](https://drive.google.com/file/d/1uzrQrO7XncZN7ZuFiwUOTlbPq7WD8jQLyzv-s-CXNgQ/view?usp=sharing) | Experienced Backend and DevOps engineer. Skilled in TypeScript, Golang, Python, API documentation, and writing engaging how-to and deep-dive tutorials
