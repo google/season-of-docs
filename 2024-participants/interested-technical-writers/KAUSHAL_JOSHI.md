@@ -1,1 +1,0 @@
-Kaushal Joshi | [Portfolio](https://kaushal-joshi.vercel.app/blog) | Skilled in technical documentation, API documentation (OAS 3 standard), How-to tutorials/guides, research articles

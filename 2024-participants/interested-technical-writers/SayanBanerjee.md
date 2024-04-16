@@ -1,1 +1,0 @@
-Sayan Banerjee | [Portfolio](https://sayan112207.github.io/), [Resume](https://drive.google.com/file/d/11xckEUHIVuUnULqLswJpt56UfZWXggke/view?usp=sharing) | Skilled in machine learning documentation, crafting user guides, and translating complex technical concepts into clear and concise language for diverse audiences, including developers and non-technical users.

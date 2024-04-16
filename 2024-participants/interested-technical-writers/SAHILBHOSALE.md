@@ -1,1 +1,0 @@
-Sahil Bhosale | [Website](https://liongueststudios.com/m), [LinkedIn](https://linkedin.com/in/sahilbhosale63), [YouTube](https://www.youtube.com/liongueststudios) | Experienced in articulating intricate technical subjects and creating user-friendly content through articles, written & video tutorials.

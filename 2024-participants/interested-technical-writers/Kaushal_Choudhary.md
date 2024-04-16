@@ -1,1 +1,0 @@
-Kaushal Kumar Choudhary | [Portfolio](https://kaushalforai.vercel.app/) [résumé](https://kaushalforai.vercel.app/resume/) [Medium](https://medium.com/@kaushalc64) | Experience writing blogs, tutorials📎, documentation📘  and maintaining github repos📑 .

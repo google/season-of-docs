@@ -1,1 +1,0 @@
-Bruno Fernandes | [Portfolio](https://bfernandes.com) | [résumé](https://drive.google.com/file/d/17ilTX1o-YOtsoBC1yR0zIHYIBcxsEYqZ/view?usp=drive_link) | Skilled in writing tutorials, manuals and microtexts

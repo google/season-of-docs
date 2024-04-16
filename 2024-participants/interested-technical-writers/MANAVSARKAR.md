@@ -1,1 +1,0 @@
-Manav Sarkar | [Portfolio](https://manavsarkar.github.io/) | Skilled in web development and technical content writing

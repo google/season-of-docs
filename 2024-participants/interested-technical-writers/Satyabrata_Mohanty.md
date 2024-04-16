@@ -1,1 +1,0 @@
-Satyabrata Mohanty | [CV](https://drive.google.com/file/d/1TqY-Jq9NVcepvvdbOKqp1mAF3j7uxHdk/view?usp=sharing) | Enthusiastic technical writer passionate about open source. Skilled in documentation, eager to contribute to Google Summer of Docs projects.

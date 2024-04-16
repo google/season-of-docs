@@ -1,1 +1,0 @@
-BrindaDevi Palanisamy | [Resume](https://drive.google.com/file/d/1BdXCxbUkY3oRrdlSc0184X_egiN9xC_Q/view?usp=sharing), [LinkedIn](https://www.linkedin.com/in/brindadevi) |Experienced technical writer, skilled in developer documentation and end-user documentation across various domains.

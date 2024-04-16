@@ -1,1 +1,0 @@
-David Bryant Copeland | [Portfolio](https://www.naildrivin5.com/tech-writing/index.html), [bio](https://www.naildrivin5.com/bio/index.html) | Experienced in API docs, long-form tutorials, short HOWTOs. Am an experienced programmer.

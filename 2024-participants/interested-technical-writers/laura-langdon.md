@@ -1,1 +1,0 @@
-Laura Langdon | [Portfolio](https://www.lauralangdon.io) | Skilled in API documentation, writing tutorials, blog posts, videos

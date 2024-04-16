@@ -1,1 +1,0 @@
-Ayush Sahu | [Portfolio](https://murdock9803.github.io/Ayush-Portfolio/) | Passionate JavaScript developer, knows API development, documentation. Can write to the point tutorials and documentation.

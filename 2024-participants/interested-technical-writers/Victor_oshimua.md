@@ -1,1 +1,0 @@
-Victor oshimua | [Portfolio](https://github.com/cyberholics/My-technical-writing-portfolio) | Skilled in crafting technical content on data science and AI/ML, including how-to guides and tutorials. Experienced is implifying complex concepts for clear and engaging articles.

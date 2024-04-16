@@ -1,1 +1,0 @@
-Deborah Oyegue | [Portfolio](https://github.com/Dee-Tyan/publishedarticles) | Skilled in API documentation, writing tutorials (user manuals or how-to instructions), technical web content (online articles)
