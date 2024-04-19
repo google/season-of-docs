@@ -134,4 +134,5 @@ shanthis.md
 shreshthsharma.md
 shricodev.md
 tuhina.md
+valeriahhdez.md
 vanithakumar.md
