@@ -1,0 +1,1 @@
+Charles Freeborn | [Medium](https://charlesfreeborn.medium.com/), [Portfolio](https://freeborncharles.com/), [LogRocket Author Profile](https://blog.logrocket.com/author/charlesfreeborn/), [freeCodeCamp Author Profile](https://www.freecodecamp.org/news/author/charles/) | Over 6 years of experience in writing technical articles, user guides, and API documentation.
