@@ -1,3 +1,8 @@
+DIVYANSHSRIVASTAVA.md
+DELETAAKRAM.md
+DEBORAH.md
+DAVID_COPELAND.md
+ChiragLalwani.md
 CHISANE_MEALONI.md
 CHARLESUNEZE.md
 BrunoFernandes.MD
@@ -30,6 +35,7 @@ ANUSHKA.md
 AMITESH.md
 AMARACHI_OMEREIFE.md
 ADITI.md
+interested-technical-writers.md
 ijeoma.md
 ifihan.md
 file-preface.md
@@ -130,11 +136,6 @@ Dhriti_Mabian.md
 Dhairya-Majmudar.md
 DevangJagdale.md
 Daniel_Adeniran.md
-DIVYANSHSRIVASTAVA.md
-DELETAAKRAM.md
-DEBORAH.md
-DAVID_COPELAND.md
-ChiragLalwani.md
 vanithakumar.md
 valeriahhdez.md
 tuhina.md
@@ -149,5 +150,4 @@ nikhila-jain.md
 laura-langdon.md
 kelchikizito.md
 jamin.md
-interested-technical-writers.md
 input.txt
