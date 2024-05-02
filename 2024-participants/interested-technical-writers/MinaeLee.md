@@ -1,0 +1,1 @@
+Minae Lee | [Portfolio](https://minaelee.com) | Ex-developer and coding educator, now technical writer/documentarian
