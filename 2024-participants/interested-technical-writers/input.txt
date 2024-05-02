@@ -130,6 +130,7 @@ NOUMANWALI.md
 NIDHI.md
 MutiatAdepoju.md
 MuhammadBinNaeem.md
+Mukhtar.md
 MohitGupta.md
 MercyBassey.md
 MegCornell.md
