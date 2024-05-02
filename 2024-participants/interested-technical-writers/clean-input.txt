@@ -21,6 +21,7 @@ AnuragBhat.md
 Arinima_Gupta.md
 AryanParashar.md
 Ashwath_Kannan.md
+AsishKumar.md
 AtreayKukanur.md
 Aviral-Srivastava.md
 Ayomide-Stephen.md
@@ -116,6 +117,7 @@ TARUN_SHARMA.md
 Ted_Kouhouenou.md
 Temitope.md
 VIDISHAKHAITAN.md
+VanshikaMishra.md
 Victor_oshimua.md
 VinayakKone.md
 VinylDavyl.md
