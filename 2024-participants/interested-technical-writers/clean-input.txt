@@ -23,6 +23,7 @@ AryanParashar.md
 Ashwath_Kannan.md
 AtreayKukanur.md
 Aviral-Srivastava.md
+Ayomide-Stephen.md
 Ayush-Sahu.md
 BARBARICK.md
 BlessingEneAnyebe.md
@@ -73,6 +74,7 @@ ManikandanKurup.md
 Medha.md
 MegCornell.md
 MercyBassey.md
+MinaeLee.md
 MohitGupta.md
 MuhammadBinNaeem.md
 MutiatAdepoju.md
@@ -81,8 +83,11 @@ NOUMANWALI.md
 Nuruddeen-Sambo.md
 ObiajuluEzike.md
 PRATIKBARAI.md
+PankajKumarBind.md
+PaulA.md
 PranavBarthwal.md
 PrinceOnyeanuna.md
+RIYASINGH.md
 ROHIT_SINGH.md
 Radha_Thakare.md
 RohanKumarSingh.md
@@ -110,6 +115,7 @@ Syed_Omer_Shah.md
 TARUN_SHARMA.md
 Ted_Kouhouenou.md
 Temitope.md
+VIDISHAKHAITAN.md
 Victor_oshimua.md
 VinayakKone.md
 VinylDavyl.md

@@ -1,0 +1,1 @@
+Pankaj Kumar Bind | [LinkedIn](https://www.linkedin.com/in/pankajbind3/) | Proficient technical content writer at GeeksForGeeks with expertise in JavaScript, TypeScript, Python, Java, and C++. Experienced in GitHub usage and workshop leadership for Git/GitHub. Skilled in HTML, CSS, JavaScript, TypeScript, Bootstrap, PHP, Java, Node.js, C, C++.
