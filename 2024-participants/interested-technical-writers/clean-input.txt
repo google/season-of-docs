@@ -21,6 +21,7 @@ AnuragBhat.md
 Arinima_Gupta.md
 AryanParashar.md
 Ashwath_Kannan.md
+AsishKumar.md
 AtreayKukanur.md
 Aviral-Srivastava.md
 Ayomide-Stephen.md
