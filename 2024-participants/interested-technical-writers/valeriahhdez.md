@@ -1,0 +1,1 @@
+Valeria Hernandez | [Portfolio](https://valeriahhdez.popsy.site/porfolio) [Resume](https://docs.google.com/document/d/1kqIuIGMLIkHs9rlVvZXJWE7abzSHqugcu1Gnj9i3NG4/edit?usp=sharing) | Experience in writing tutorials, OAS, API reference and overview, blog posts, contributing guides, and community management.
