@@ -18,11 +18,6 @@ ANUSHKA.md
 AMITESH.md
 AMARACHI_OMEREIFE.md
 ADITI.md
-akintokun-timonwa.md
-akande-olalekan-toheeb.md
-adonese.md
-abdulahad.md
-YuvrajChhetri.md
 Yash-Pandey.md
 VinylDavyl.md
 VinayakKone.md
@@ -97,6 +92,7 @@ GannaZhyrnova.md
 FortuneObadiah.md.
 FelixHirwaNshuti.md
 Federico-Trotta.md
+FannyNyayic.md
 FATUMAABDULLAHI.md
 EzekielLawson.md
 EmmanuelUgwu
@@ -156,4 +152,9 @@ ayomideyissa.md
 ayodele-aransiola.md
 antonello-zanini.md
 alokartist.md
+akintokun-timonwa.md
+akande-olalekan-toheeb.md
+adonese.md
+abdulahad.md
+YuvrajChhetri.md
 input.txt
