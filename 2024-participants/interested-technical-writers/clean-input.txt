@@ -33,6 +33,7 @@ BrunoFernandes.MD
 CHARLESUNEZE.md
 CHISANE_MEALONI.md
 ChiragLalwani.md
+ChrisCho.md
 DAVID_COPELAND.md
 DEBORAH.md
 DELETAAKRAM.md
