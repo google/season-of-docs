@@ -49,6 +49,7 @@ EleekaN.md
 EmmanuelUgwu
 EzekielLawson.md
 FATUMAABDULLAHI.md
+FannyNyayic.md
 Federico-Trotta.md
 FelixHirwaNshuti.md
 FortuneObadiah.md.
@@ -88,6 +89,7 @@ PankajKumarBind.md
 PaulA.md
 PranavBarthwal.md
 PrinceOnyeanuna.md
+PunKingFung.md
 RIYASINGH.md
 ROHIT_SINGH.md
 Radha_Thakare.md
