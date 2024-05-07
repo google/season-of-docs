@@ -1,0 +1,1 @@
+Chris Cho | [Resume](https://angry-bee.com/resume.html) | Skilled in writing developer documentation including tutorials, code examples, and API documentation using the docs as code workflow.  Background in software development and eager to educate.
