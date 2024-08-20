@@ -17,6 +17,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: ls -tr  > input.txt  
+      - run: printenv
+      - run: export      
       - run: comm -23 <(sort input.txt) <(sort remove.txt) >clean-input.txt
       - run: for f in $(cat clean-input.txt); do (cat "${f}"; echo) >> writers.md; done
       - run: cat file-preface.md writers.md >interested-technical-writers.md
