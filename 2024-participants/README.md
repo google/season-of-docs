@@ -6,7 +6,7 @@ _NOTE: To add your information to this repo you will need to sign the Google CLA
   If your open source project or organization would like to be contacted by technical writers, add your project name and a link to your project ideas page to the [`interested-organizations.md`](./interested-organizations.md) page. Make sure your project ideas page includes contact information for your organization. **Do not include email addresses in this repo.**
   
 ### Technical writers interested in being contacted by projects or organizations
-  If you are a technical writer interested in working with an open source project, add a Markdown file with your information, including a link to your portfolio, personal site, résumé, or CV and an indication of your interests to the [`interested-technical-writers`](./interested-technical-writers/README.md) folder. Make sure your personal information link includes contact information. **Do not add your email address to this repo.** 
+  If you are a technical writer interested in working with an open source project, add a Markdown file with your information, including a link to your portfolio, personal site, résumé, or CV and an indication of your interests to the [`interested-technical-writers`](./interested-technical-writers/) folder. Make sure your personal information link includes contact information. **Do not add your email address to this repo.** 
 
 Use this format for your Markdown file. 
 
